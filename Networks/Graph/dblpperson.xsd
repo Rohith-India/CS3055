@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Liquid Technologies Online Tools 1.0 (https://www.liquid-technologies.com) -->
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="dblpperson">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="person">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="author">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute name="pid" type="xs:string" use="required" />
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element maxOccurs="unbounded" name="url" type="xs:string" />
+              <xs:element maxOccurs="unbounded" name="note">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute name="type" type="xs:string" use="required" />
+                      <xs:attribute name="label" type="xs:unsignedShort" use="optional" />
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element maxOccurs="unbounded" name="cite" type="xs:string" />
+            </xs:sequence>
+            <xs:attribute name="key" type="xs:string" use="required" />
+            <xs:attribute name="mdate" type="xs:date" use="required" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="homonyms">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="h">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="person">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="author">
+                            <xs:complexType>
+                              <xs:simpleContent>
+                                <xs:extension base="xs:string">
+                                  <xs:attribute name="pid" type="xs:string" use="required" />
+                                </xs:extension>
+                              </xs:simpleContent>
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element minOccurs="0" name="note">
+                            <xs:complexType>
+                              <xs:simpleContent>
+                                <xs:extension base="xs:string">
+                                  <xs:attribute name="type" type="xs:string" use="required" />
+                                </xs:extension>
+                              </xs:simpleContent>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="publtype" type="xs:string" use="optional" />
+                        <xs:attribute name="key" type="xs:string" use="required" />
+                        <xs:attribute name="mdate" type="xs:date" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="f" type="xs:string" use="required" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="n" type="xs:unsignedByte" use="required" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element maxOccurs="unbounded" name="r">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" name="proceedings">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element maxOccurs="unbounded" name="editor">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="pid" type="xs:string" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="title" type="xs:string" />
+                    <xs:element name="booktitle" type="xs:string" />
+                    <xs:element name="series">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="href" type="xs:string" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="volume" type="xs:unsignedByte" />
+                    <xs:element name="publisher" type="xs:string" />
+                    <xs:element name="year" type="xs:unsignedShort" />
+                    <xs:element name="isbn" type="xs:string" />
+                    <xs:element name="ee" type="xs:string" />
+                    <xs:element name="url" type="xs:string" />
+                  </xs:sequence>
+                  <xs:attribute name="key" type="xs:string" use="required" />
+                  <xs:attribute name="mdate" type="xs:date" use="required" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="book">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element minOccurs="0" name="editor">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="pid" type="xs:string" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element minOccurs="0" maxOccurs="unbounded" name="author">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="pid" type="xs:string" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="title" type="xs:string" />
+                    <xs:element name="publisher">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="href" type="xs:string" use="required" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="year" type="xs:unsignedShort" />
+                    <xs:element minOccurs="0" name="crossref" type="xs:string" />
+                    <xs:element minOccurs="0" name="isbn" type="xs:string" />
+                    <xs:element name="url" type="xs:string" />
+                  </xs:sequence>
+                  <xs:attribute name="key" type="xs:string" use="required" />
+                  <xs:attribute name="mdate" type="xs:date" use="required" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="incollection">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:choice maxOccurs="unbounded">
+                      <xs:element maxOccurs="unbounded" name="author">
+                        <xs:complexType>
+                          <xs:simpleContent>
+                            <xs:extension base="xs:string">
+                              <xs:attribute name="pid" type="xs:string" use="required" />
+                            </xs:extension>
+                          </xs:simpleContent>
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element name="title" type="xs:string" />
+                      <xs:element name="pages" type="xs:string" />
+                      <xs:element name="year" type="xs:unsignedShort" />
+                      <xs:element name="booktitle" type="xs:string" />
+                      <xs:element name="ee" type="xs:string" />
+                      <xs:element name="crossref" type="xs:string" />
+                      <xs:element name="url" type="xs:string" />
+                      <xs:element name="cdrom" type="xs:string" />
+                    </xs:choice>
+                  </xs:sequence>
+                  <xs:attribute name="key" type="xs:string" use="required" />
+                  <xs:attribute name="mdate" type="xs:date" use="required" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="inproceedings">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:choice maxOccurs="unbounded">
+                      <xs:element maxOccurs="unbounded" name="author">
+                        <xs:complexType>
+                          <xs:simpleContent>
+                            <xs:extension base="xs:string">
+                              <xs:attribute name="pid" type="xs:string" use="required" />
+                              <xs:attribute name="orcid" type="xs:string" use="optional" />
+                            </xs:extension>
+                          </xs:simpleContent>
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element name="title" type="xs:string" />
+                      <xs:element name="pages" type="xs:string" />
+                      <xs:element name="year" type="xs:unsignedShort" />
+                      <xs:element name="crossref" type="xs:string" />
+                      <xs:element name="booktitle" type="xs:string" />
+                      <xs:element maxOccurs="unbounded" name="ee">
+                        <xs:complexType>
+                          <xs:simpleContent>
+                            <xs:extension base="xs:string">
+                              <xs:attribute name="type" type="xs:string" use="optional" />
+                            </xs:extension>
+                          </xs:simpleContent>
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element name="url" type="xs:string" />
+                      <xs:element name="cite">
+                        <xs:complexType>
+                          <xs:simpleContent>
+                            <xs:extension base="xs:string">
+                              <xs:attribute name="label" type="xs:string" use="optional" />
+                            </xs:extension>
+                          </xs:simpleContent>
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element name="cdrom" type="xs:string" />
+                      <xs:element name="note" type="xs:string" />
+                    </xs:choice>
+                  </xs:sequence>
+                  <xs:attribute name="key" type="xs:string" use="required" />
+                  <xs:attribute name="mdate" type="xs:date" use="required" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="article">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:choice maxOccurs="unbounded">
+                      <xs:element maxOccurs="unbounded" name="author">
+                        <xs:complexType>
+                          <xs:simpleContent>
+                            <xs:extension base="xs:string">
+                              <xs:attribute name="pid" type="xs:string" use="required" />
+                              <xs:attribute name="orcid" type="xs:string" use="optional" />
+                            </xs:extension>
+                          </xs:simpleContent>
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element name="title" type="xs:string" />
+                      <xs:element name="pages" type="xs:string" />
+                      <xs:element name="year" type="xs:unsignedShort" />
+                      <xs:element name="volume" type="xs:string" />
+                      <xs:element name="journal" type="xs:string" />
+                      <xs:element name="number" type="xs:string" />
+                      <xs:element maxOccurs="unbounded" name="ee">
+                        <xs:complexType>
+                          <xs:simpleContent>
+                            <xs:extension base="xs:string">
+                              <xs:attribute name="type" type="xs:string" use="optional" />
+                            </xs:extension>
+                          </xs:simpleContent>
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element name="url" type="xs:string" />
+                      <xs:element name="cdrom" type="xs:string" />
+                      <xs:element name="cite">
+                        <xs:complexType>
+                          <xs:simpleContent>
+                            <xs:extension base="xs:string">
+                              <xs:attribute name="label" type="xs:string" use="optional" />
+                            </xs:extension>
+                          </xs:simpleContent>
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element name="month" type="xs:string" />
+                      <xs:element name="note" type="xs:string" />
+                    </xs:choice>
+                  </xs:sequence>
+                  <xs:attribute name="key" type="xs:string" use="required" />
+                  <xs:attribute name="mdate" type="xs:date" use="required" />
+                  <xs:attribute name="publtype" type="xs:string" use="optional" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="coauthors">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="co">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element maxOccurs="unbounded" name="na">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute name="f" type="xs:string" use="optional" />
+                            <xs:attribute name="pid" type="xs:string" use="optional" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="c" type="xs:byte" use="required" />
+                  <xs:attribute name="n" type="xs:unsignedByte" use="optional" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="n" type="xs:unsignedByte" use="required" />
+            <xs:attribute name="nc" type="xs:unsignedByte" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="name" type="xs:string" use="required" />
+      <xs:attribute name="pid" type="xs:string" use="required" />
+      <xs:attribute name="n" type="xs:unsignedByte" use="required" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

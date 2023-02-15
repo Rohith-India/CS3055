@@ -1,0 +1,3129 @@
+<?xml version="1.0"?>
+<dblpperson name="Jim Gray 0001" pid="g/JimGray" n="173">
+<person key="homepages/g/JimGray" mdate="2022-11-27">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<url>https://www.microsoft.com/en-us/research/people/gray/</url>
+<url>http://www.research.microsoft.com/~gray/</url>
+<url>https://scholar.google.com/citations?user=Dn4kkYUAAAAJ</url>
+<url>https://dl.acm.org/profile/81100403088</url>
+<url>https://zbmath.org/authors/?q=ai:gray.james-n</url>
+<url>https://mathgenealogy.org/id.php?id=80279</url>
+<url>https://en.wikipedia.org/wiki/Jim_Gray_(computer_scientist)</url>
+<url>https://www.wikidata.org/entity/Q92606</url>
+<url>http://isni.org/isni/000000008444897X</url>
+<url>https://viaf.org/viaf/41014827</url>
+<url>https://id.loc.gov/authorities/names/n91030419</url>
+<url>https://d-nb.info/gnd/172104149</url>
+<url>https://d-nb.info/gnd/114572650X</url>
+<url>http://id.worldcat.org/fast/1499170</url>
+<url>http://amturing.acm.org/award_winners/gray_3649936.cfm</url>
+<url>https://mathscinet.ams.org/mathscinet/MRAuthorID/453868</url>
+<note type="affiliation">Microsoft Research</note>
+<note type="award" label="1998">Turing Award</note>
+<note type="award" label="1993">SIGMOD Edgar F. Codd Innovations Award</note>
+<note type="award" label="1988">ACM Software System Award</note>
+<cite>journals/cacm/HellersteinT11</cite>
+<cite>books/ms/4paradigm2009/HeyTT09</cite>
+<cite>journals/sigmod/Labrinidis08</cite>
+<cite>journals/sigmod/Winslett08a</cite>
+<cite>journals/sigmod/Winslett08b</cite>
+<cite>journals/sigmod/Carnes08</cite>
+<cite>journals/sigmod/Boss08</cite>
+<cite>journals/sigmod/Olson08</cite>
+<cite>journals/sigmod/Hawthorn08</cite>
+<cite>journals/sigmod/Harrison08</cite>
+<cite>journals/sigmod/Helland08</cite>
+<cite>journals/sigmod/Lazowska08</cite>
+<cite>journals/sigmod/Stonebraker08</cite>
+<cite>journals/sigmod/Vaskevitch08</cite>
+<cite>journals/sigmod/Rashid08</cite>
+<cite>journals/sigmod/Lindsay08</cite>
+<cite>journals/sigmod/NaumanB08</cite>
+<cite>journals/sigmod/DeWittL08</cite>
+<cite>journals/sigmod/Bell08</cite>
+<cite>journals/sigmod/Reuter08</cite>
+<cite>journals/sigmod/Barclay08</cite>
+<cite>journals/sigmod/Szalay08</cite>
+<cite>journals/sigmod/Wong08</cite>
+<cite>journals/sigmod/Saade08</cite>
+<cite>journals/sigmod/BellinghamG08</cite>
+<cite>journals/jucs/Lomet07</cite>
+<cite>journals/dsonline/Milojicic04</cite>
+<cite>journals/queue/X03c</cite>
+<cite>journals/sigmod/Winslett03</cite>
+<cite>journals/ieeecc/Jajodia99</cite>
+</person>
+<homonyms n="2">
+<h f="g/Gray:Jim"><person publtype="disambiguation" key="homepages/261/3452" mdate="2020-03-26">
+<author pid="261/3452">Jim Gray</author>
+</person>
+</h>
+<h f="g/Gray_0002:Jim"><person key="homepages/g/JimGray2" mdate="2016-01-04">
+<author pid="g/JimGray2">Jim Gray 0002</author>
+<note type="affiliation">LeapFrog Enterprises, Inc., Emeryville, CA, USA</note>
+</person>
+</h>
+</homonyms>
+<r><article key="journals/ijsnet/TerzisMCSSGOLGB10" mdate="2020-10-26">
+<author pid="12/6664">Andreas Terzis</author>
+<author pid="77/2271">Razvan Musaloiu-Elefteri</author>
+<author pid="29/469">Joshua Cogan</author>
+<author orcid="0000-0003-2504-0298" pid="36/5986">Katalin Szlavecz</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="32/3542">Stuart Ozer</author>
+<author pid="92/445">Chieh-Jan Mike Liang</author>
+<author pid="27/981">Jayant Gupchup</author>
+<author orcid="0000-0002-2924-1997" pid="b/RandalCBurns">Randal C. Burns</author>
+<title>Wireless sensor networks for soil science.</title>
+<pages>53-70</pages>
+<year>2010</year>
+<volume>7</volume>
+<journal>Int. J. Sens. Networks</journal>
+<number>1/2</number>
+<ee>https://doi.org/10.1504/IJSNET.2010.031850</ee>
+<ee>https://www.wikidata.org/entity/Q60558994</ee>
+<url>db/journals/ijsnet/ijsnet7.html#TerzisMCSSGOLGB10</url>
+</article>
+</r>
+<r><article key="journals/cse/ThakarSFG08" mdate="2022-08-16">
+<author pid="t/AniThakar">Aniruddha R. Thakar</author>
+<author orcid="0000-0002-4108-3282" pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="34/1800">George Fekete</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>The Catalog Archive Server Database Management System.</title>
+<pages>30-37</pages>
+<year>2008</year>
+<volume>10</volume>
+<journal>Comput. Sci. Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MCSE.2008.15</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MCSE.2008.15</ee>
+<ee>https://www.wikidata.org/entity/Q113312968</ee>
+<url>db/journals/cse/cse10.html#ThakarSFG08</url>
+</article>
+</r>
+<r><article key="journals/cse/SzalayTG08" mdate="2022-08-16">
+<author orcid="0000-0002-4108-3282" pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="t/AniThakar">Aniruddha R. Thakar</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>The sqlLoader Data-Loading Pipeline.</title>
+<pages>38-48</pages>
+<year>2008</year>
+<volume>10</volume>
+<journal>Comput. Sci. Eng.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MCSE.2008.18</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MCSE.2008.18</ee>
+<ee>https://www.wikidata.org/entity/Q113312963</ee>
+<url>db/journals/cse/cse10.html#SzalayTG08</url>
+</article>
+</r>
+<r><article key="journals/queue/Gray08" mdate="2018-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Distributed Computing Economics.</title>
+<pages>63-68</pages>
+<year>2008</year>
+<volume>6</volume>
+<journal>ACM Queue</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1394127.1394131</ee>
+<url>db/journals/queue/queue6.html#Gray08</url>
+</article>
+</r>
+<r><article key="journals/queue/GrayF08" mdate="2018-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="90/7124">Bob Fitzgerald</author>
+<title>Flash Disk Opportunity for Server Applications.</title>
+<pages>18-23</pages>
+<year>2008</year>
+<volume>6</volume>
+<journal>ACM Queue</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1413254.1413261</ee>
+<url>db/journals/queue/queue6.html#GrayF08</url>
+</article>
+</r>
+<r><article key="journals/pervasive/BalazinskaDFGGHLNST07" mdate="2022-10-02">
+<author pid="b/MagdalenaBalazinska">Magdalena Balazinska</author>
+<author pid="d/AmolDeshpande">Amol Deshpande</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="g/PhillipBGibbons">Phillip B. Gibbons</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="h/MarkHHansen">Mark H. Hansen</author>
+<author pid="02/59">Michael Liebhold</author>
+<author orcid="0000-0001-7813-9756" pid="85/6293">Suman Nath</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="75/3420">Vincent Tao</author>
+<title>Data Management in the Worldwide Sensor Web.</title>
+<pages>30-40</pages>
+<year>2007</year>
+<volume>6</volume>
+<journal>IEEE Pervasive Comput.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/MPRV.2007.27</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MPRV.2007.27</ee>
+<url>db/journals/pervasive/pervasive6.html#BalazinskaDFGGHLNST07</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0701155" mdate="2018-08-13">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="02/5473">Adam Bosworth</author>
+<author pid="57/2527">Andrew Layman</author>
+<author pid="32/6006">Don Reichart</author>
+<author pid="52/1171">Murali Venkatrao</author>
+<author pid="01/579">Frank Pellow</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<title>Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals</title>
+<ee type="oa">http://arxiv.org/abs/cs/0701155</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0701155</volume>
+<url>db/journals/corr/corr0701.html#abs-cs-0701155</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0701156" mdate="2018-08-13">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Data Management: Past, Present, and Future</title>
+<ee type="oa">http://arxiv.org/abs/cs/0701156</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0701156</volume>
+<url>db/journals/corr/corr0701.html#abs-cs-0701156</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0701157" mdate="2018-08-13">
+<author pid="24/3500">Hal Berenson</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="60/927">Jim Melton</author>
+<author pid="40/6709">Elizabeth J. O'Neil</author>
+<author pid="o/PatrickEONeil">Patrick E. O'Neil</author>
+<title>A Critique of ANSI SQL Isolation Levels</title>
+<ee type="oa">http://arxiv.org/abs/cs/0701157</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0701157</volume>
+<url>db/journals/corr/corr0701.html#abs-cs-0701157</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0701158" mdate="2018-08-13">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Queues Are Databases</title>
+<ee type="oa">http://arxiv.org/abs/cs/0701158</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0701158</volume>
+<url>db/journals/corr/corr0701.html#abs-cs-0701158</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0701159" mdate="2018-08-13">
+<author pid="30/1517">Gerd Heber</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Supporting Finite Element Analysis with a Relational Database Backend, Part I: There is Life beyond Files</title>
+<ee type="oa">http://arxiv.org/abs/cs/0701159</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0701159</volume>
+<url>db/journals/corr/corr0701.html#abs-cs-0701159</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0701160" mdate="2018-08-13">
+<author pid="30/1517">Gerd Heber</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Supporting Finite Element Analysis with a Relational Database Backend, Part II: Database Design and Access</title>
+<ee type="oa">http://arxiv.org/abs/cs/0701160</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0701160</volume>
+<url>db/journals/corr/corr0701.html#abs-cs-0701160</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0701161" mdate="2018-08-13">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="46/2270">Charles Levine</author>
+<title>Thousands of DebitCredit Transactions-Per-Second: Easy and Inexpensive</title>
+<ee type="oa">http://arxiv.org/abs/cs/0701161</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0701161</volume>
+<url>db/journals/corr/corr0701.html#abs-cs-0701161</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0701162" mdate="2018-08-13">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>A Measure of Transaction Processing 20 Years Later</title>
+<ee type="oa">http://arxiv.org/abs/cs/0701162</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0701162</volume>
+<url>db/journals/corr/corr0701.html#abs-cs-0701162</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0701163" mdate="2018-08-13">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="67/3771">Gyorgy Fekete</author>
+<title>Using Table Valued Functions in SQL Server 2005 To Implement a Spatial Data Library</title>
+<ee type="oa">http://arxiv.org/abs/cs/0701163</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0701163</volume>
+<url>db/journals/corr/corr0701.html#abs-cs-0701163</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0701164" mdate="2018-08-13">
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="34/1800">George Fekete</author>
+<author pid="25/5416">Peter Z. Kunszt</author>
+<author pid="90/433">Peter Kukol</author>
+<author pid="t/AniThakar">Ani Thakar</author>
+<title>Indexing the Sphere with the Hierarchical Triangular Mesh</title>
+<ee type="oa">http://arxiv.org/abs/cs/0701164</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0701164</volume>
+<url>db/journals/corr/corr0701.html#abs-cs-0701164</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0701165" mdate="2018-08-13">
+<author pid="b/GBell">Gordon Bell</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<title>Petascale Computational Systems</title>
+<ee type="oa">http://arxiv.org/abs/cs/0701165</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0701165</volume>
+<url>db/journals/corr/corr0701.html#abs-cs-0701165</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0701166" mdate="2018-08-13">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="i/CatharinevanIngen">Catharine van Ingen</author>
+<title>Empirical Measurements of Disk Failure Rates and Error Rates</title>
+<ee type="oa">http://arxiv.org/abs/cs/0701166</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0701166</volume>
+<url>db/journals/corr/corr0701.html#abs-cs-0701166</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0701167" mdate="2020-03-27">
+<author pid="36/723">Mar&#237;a A. Nieto-Santisteban</author>
+<author pid="t/AniThakar">Aniruddha R. Thakar</author>
+<author orcid="0000-0002-4108-3282" pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Large-Scale Query and XMatch, Entering the Parallel Zone</title>
+<ee type="oa">http://arxiv.org/abs/cs/0701167</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0701167</volume>
+<url>db/journals/corr/corr0701.html#abs-cs-0701167</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0701168" mdate="2018-08-13">
+<author pid="54/129">Russell Sears</author>
+<author pid="i/CatharinevanIngen">Catharine van Ingen</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>To BLOB or Not To BLOB: Large Object Storage in a Database or a Filesystem?</title>
+<ee type="oa">http://arxiv.org/abs/cs/0701168</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0701168</volume>
+<url>db/journals/corr/corr0701.html#abs-cs-0701168</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0701170" mdate="2018-08-13">
+<author pid="36/5986">Katalin Szlavecz</author>
+<author pid="12/6664">Andreas Terzis</author>
+<author pid="32/3542">Stuart Ozer</author>
+<author pid="77/2271">Razvan Musaloiu-Elefteri</author>
+<author pid="29/469">Joshua Cogan</author>
+<author pid="62/3777">Sam Small</author>
+<author pid="b/RandalCBurns">Randal C. Burns</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<title>Life Under Your Feet: An End-to-End Soil Ecology Sensor Network, Database, Web Server, and Analysis Service</title>
+<ee type="oa">http://arxiv.org/abs/cs/0701170</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0701170</volume>
+<url>db/journals/corr/corr0701.html#abs-cs-0701170</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0701171" mdate="2018-08-13">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="36/723">Mar&#237;a A. Nieto-Santisteban</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<title>The Zones Algorithm for Finding Points-Near-a-Point or Cross-Matching Spatial Datasets</title>
+<ee type="oa">http://arxiv.org/abs/cs/0701171</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0701171</volume>
+<url>db/journals/corr/corr0701.html#abs-cs-0701171</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0701172" mdate="2018-08-13">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="49/161">Tamas Budavari</author>
+<author pid="75/531">Robert Lupton</author>
+<author pid="36/723">Mar&#237;a A. Nieto-Santisteban</author>
+<author pid="t/AniThakar">Ani Thakar</author>
+<title>Cross-Matching Multiple Spatial Observations and Dealing with Missing Data</title>
+<ee type="oa">http://arxiv.org/abs/cs/0701172</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0701172</volume>
+<url>db/journals/corr/corr0701.html#abs-cs-0701172</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0701173" mdate="2021-02-03">
+<author pid="26/6223">Vik Singh</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="t/AniThakar">Ani Thakar</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="175/7284">M. Jordan Raddick</author>
+<author pid="07/4586">Bill Boroski</author>
+<author pid="00/6197">Svetlana Lebedeva</author>
+<author pid="26/2507">Brian Yanny</author>
+<title>SkyServer Traffic Report - The First Five Years</title>
+<ee type="oa">http://arxiv.org/abs/cs/0701173</ee>
+<year>2007</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0701173</volume>
+<url>db/journals/corr/corr0701.html#abs-cs-0701173</url>
+</article>
+</r>
+<r><article key="journals/computer/BellGS06" mdate="2020-08-12">
+<author pid="b/GBell">Gordon Bell</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<title>Petascale Computational Systems.</title>
+<pages>110-112</pages>
+<year>2006</year>
+<volume>39</volume>
+<journal>Computer</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MC.2006.29</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MC.2006.29</ee>
+<url>db/journals/computer/computer39.html#BellGS06</url>
+</article>
+</r>
+<r><article key="journals/internet/BarclayGESR06" mdate="2020-03-13">
+<author pid="b/TomBarclay">Tom Barclay</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="61/3343">Steve Ekblad</author>
+<author pid="27/6521">Eric Strand</author>
+<author pid="58/6352">Jeffrey Richter</author>
+<title>Designing and Building TerraService.</title>
+<pages>16-25</pages>
+<year>2006</year>
+<volume>10</volume>
+<journal>IEEE Internet Comput.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MIC.2006.95</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MIC.2006.95</ee>
+<url>db/journals/internet/internet10.html#BarclayGESR06</url>
+</article>
+</r>
+<r><article key="journals/tods/GrayL06" mdate="2018-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="l/LeslieLamport">Leslie Lamport</author>
+<title>Consensus on transaction commit.</title>
+<pages>133-160</pages>
+<year>2006</year>
+<volume>31</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1132863.1132867</ee>
+<url>db/journals/tods/tods31.html#GrayL06</url>
+</article>
+</r>
+<r><inproceedings key="conf/expdb/Gray06" mdate="2017-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Triumphs, Sins, and Challenges of Database Benchmarking.</title>
+<year>2006</year>
+<crossref>conf/expdb/2006</crossref>
+<booktitle>ExpDB</booktitle>
+<url>db/conf/expdb/expdb2006.html#Gray06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sc/GovindarajuLGM06" mdate="2018-11-14">
+<author pid="42/5865">Naga K. Govindaraju</author>
+<author pid="45/4965">Scott Larsen</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author orcid="0000-0001-7047-9801" pid="m/DineshManocha">Dinesh Manocha</author>
+<title>Memory - A memory model for scientific algorithms on graphics processors.</title>
+<pages>89</pages>
+<year>2006</year>
+<crossref>conf/sc/2006</crossref>
+<booktitle>SC</booktitle>
+<ee>https://doi.org/10.1145/1188455.1188549</ee>
+<ee>https://doi.org/10.1109/SC.2006.2</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SC.2006.2</ee>
+<ee>https://www.wikidata.org/entity/Q57425737</ee>
+<url>db/conf/sc/sc2006.html#GovindarajuLGM06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sensys/OzerGSTMSBC06" mdate="2020-10-25">
+<author pid="32/3542">Stuart Ozer</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="12/6664">Andreas Terzis</author>
+<author pid="77/2271">Razvan Musaloiu-Elefteri</author>
+<author orcid="0000-0003-2504-0298" pid="36/5986">Katalin Szlavecz</author>
+<author orcid="0000-0002-2924-1997" pid="b/RandalCBurns">Randal C. Burns</author>
+<author pid="29/469">Joshua Cogan</author>
+<title>Data analysis tools for sensor-based science.</title>
+<pages>341-342</pages>
+<year>2006</year>
+<crossref>conf/sensys/2006</crossref>
+<booktitle>SenSys</booktitle>
+<ee>https://doi.org/10.1145/1182807.1182844</ee>
+<ee>https://www.wikidata.org/entity/Q60558999</ee>
+<url>db/conf/sensys/sensys2006.html#OzerGSTMSBC06</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GovindarajuGKM06" mdate="2018-11-14">
+<author pid="42/5865">Naga K. Govindaraju</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="49/3538">Ritesh Kumar</author>
+<author orcid="0000-0001-7047-9801" pid="m/DineshManocha">Dinesh Manocha</author>
+<title>GPUTeraSort: high performance graphics co-processor sorting for large database management.</title>
+<pages>325-336</pages>
+<year>2006</year>
+<crossref>conf/sigmod/2006</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1142473.1142511</ee>
+<ee>https://www.wikidata.org/entity/Q57425761</ee>
+<url>db/conf/sigmod/sigmod2006.html#GovindarajuGKM06</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0604112" mdate="2020-03-27">
+<author pid="60/1926">Jacek Becla</author>
+<author pid="93/914">Andrew Hanushevsky</author>
+<author pid="88/1669">Sergei Nikolaev</author>
+<author pid="11/3661">Ghaleb Abdulla</author>
+<author orcid="0000-0002-4108-3282" pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="36/723">Mar&#237;a A. Nieto-Santisteban</author>
+<author pid="t/AniThakar">Ani Thakar</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Designing a Multi-petabyte Database for LSST</title>
+<ee type="oa">http://arxiv.org/abs/cs/0604112</ee>
+<year>2006</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0604112</volume>
+<url>db/journals/corr/corr0604.html#abs-cs-0604112</url>
+</article>
+</r>
+<r><article key="journals/cacm/AbiteboulABCCCDFGGGHHHIKPLMNSSSSSUWWZ05" mdate="2018-11-06">
+<author pid="a/SergeAbiteboul">Serge Abiteboul</author>
+<author pid="a/RAgrawal">Rakesh Agrawal 0001</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="c/StefanoCeri">Stefano Ceri</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="g/HGarciaMolina">Hector Garcia-Molina</author>
+<author pid="03/2725">Dieter Gawlick</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<author pid="p/MJPazzani">Michael J. Pazzani</author>
+<author pid="l/MichaelELesk">Michael Lesk</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<author pid="s/HansJorgSchek">Hans-J&#246;rg Schek</author>
+<author orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos K. Sellis</author>
+<author pid="s/AbrahamSilberschatz">Avi Silberschatz</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<author pid="u/JeffreyDUllman">Jeffrey D. Ullman</author>
+<author pid="w/GerhardWeikum">Gerhard Weikum</author>
+<author pid="w/JenniferWidom">Jennifer Widom</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>The Lowell database research self-assessment.</title>
+<pages>111-118</pages>
+<year>2005</year>
+<volume>48</volume>
+<journal>Commun. ACM</journal>
+<number>5</number>
+<ee>https://doi.org/10.1145/1060710.1060718</ee>
+<url>db/journals/cacm/cacm48.html#AbiteboulABCCCDFGGGHHHIKPLMNSSSSSUWWZ05</url>
+</article>
+</r>
+<r><article key="journals/debu/Gray05" mdate="2020-08-19">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>A &#34;Measure of Transaction Processing&#34; 20 Years Later.</title>
+<pages>3-4</pages>
+<year>2005</year>
+<volume>28</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>2</number>
+<ee type="oa">http://sites.computer.org/debull/A05june/gray.ps</ee>
+<url>db/journals/debu/debu28.html#Gray05</url>
+</article>
+</r>
+<r><article key="journals/queue/Gray05" mdate="2018-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>A conversation with Tim Bray.</title>
+<pages>20-25</pages>
+<year>2005</year>
+<volume>3</volume>
+<journal>ACM Queue</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/1046931.1046941</ee>
+<url>db/journals/queue/queue3.html#Gray05</url>
+</article>
+</r>
+<r><article key="journals/queue/GrayC05" mdate="2018-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="05/3395">Mark Compton</author>
+<title>A call to arms.</title>
+<pages>30-38</pages>
+<year>2005</year>
+<volume>3</volume>
+<journal>ACM Queue</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/1059791.1059805</ee>
+<url>db/journals/queue/queue3.html#GrayC05</url>
+</article>
+</r>
+<r><article key="journals/sigmod/GrayLNSDH05" mdate="2020-03-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="l/DavidTLiu">David T. Liu</author>
+<author pid="36/723">Mar&#237;a A. Nieto-Santisteban</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="30/1517">Gerd Heber</author>
+<title>Scientific data management in the coming decade.</title>
+<pages>34-41</pages>
+<year>2005</year>
+<volume>34</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/1107499.1107503</ee>
+<url>db/journals/sigmod/sigmod34.html#GrayLNSDH05</url>
+</article>
+</r>
+<r><inproceedings key="conf/cidr/Nieto-SantistebanGSATO05" mdate="2020-03-12">
+<author pid="36/723">Mar&#237;a A. Nieto-Santisteban</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="99/2261">James Annis</author>
+<author pid="t/AniThakar">Aniruddha R. Thakar</author>
+<author pid="05/1998">William O'Mullane</author>
+<title>When Database Systems Meet the Grid.</title>
+<pages>154-161</pages>
+<year>2005</year>
+<crossref>conf/cidr/2005</crossref>
+<booktitle>CIDR</booktitle>
+<ee type="oa">http://cidrdb.org/cidr2005/papers/P13.pdf</ee>
+<url>db/conf/cidr/cidr2005.html#Nieto-SantistebanGSATO05</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/fast/Gray05" mdate="2020-03-12">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Greetings from a Filesystem User.</title>
+<year>2005</year>
+<crossref>conf/fast/2005</crossref>
+<booktitle>FAST</booktitle>
+<ee type="oa">http://www.usenix.org/events/fast05/tech/gray.pdf</ee>
+<url>db/conf/fast/fast2005.html#Gray05</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0502008" mdate="2018-08-13">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="l/DavidTLiu">David T. Liu</author>
+<author pid="36/723">Mar&#237;a A. Nieto-Santisteban</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="30/1517">Gerd Heber</author>
+<title>Scientific Data Management in the Coming Decade</title>
+<ee type="oa">http://arxiv.org/abs/cs/0502008</ee>
+<year>2005</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0502008</volume>
+<url>db/journals/corr/corr0502.html#abs-cs-0502008</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0502009" mdate="2018-08-13">
+<author pid="90/433">Peter Kukol</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Performance Considerations for Gigabyte per Second Transcontinental Disk-to-Disk File Transfers</title>
+<ee type="oa">http://arxiv.org/abs/cs/0502009</ee>
+<year>2005</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0502009</volume>
+<url>db/journals/corr/corr0502.html#abs-cs-0502009</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0502010" mdate="2018-08-13">
+<author pid="b/TomBarclay">Tom Barclay</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>TerraServer SAN-Cluster Architecture and Operations Experience</title>
+<ee type="oa">http://arxiv.org/abs/cs/0502010</ee>
+<year>2005</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0502010</volume>
+<url>db/journals/corr/corr0502.html#abs-cs-0502010</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0502011" mdate="2018-08-13">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<title>Where the Rubber Meets the Sky: Bridging the Gap between Databases and Science</title>
+<ee type="oa">http://arxiv.org/abs/cs/0502011</ee>
+<year>2005</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0502011</volume>
+<url>db/journals/corr/corr0502.html#abs-cs-0502011</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0502012" mdate="2018-08-13">
+<author pid="90/433">Peter Kukol</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Sequential File Programming Patterns and Performance with .NET</title>
+<ee type="oa">http://arxiv.org/abs/cs/0502012</ee>
+<year>2005</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0502012</volume>
+<url>db/journals/corr/corr0502.html#abs-cs-0502012</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0502018" mdate="2018-08-13">
+<author pid="36/723">Mar&#237;a A. Nieto-Santisteban</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="t/AniThakar">Aniruddha R. Thakar</author>
+<author pid="05/1998">William O'Mullane</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="99/2261">James Annis</author>
+<title>When Database Systems Meet the Grid</title>
+<ee type="oa">http://arxiv.org/abs/cs/0502018</ee>
+<year>2005</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0502018</volume>
+<url>db/journals/corr/corr0502.html#abs-cs-0502018</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/abs-cs-0502072" mdate="2018-08-13">
+<author pid="05/1998">William O'Mullane</author>
+<author pid="85/3328">Nolan Li</author>
+<author pid="36/723">Mar&#237;a A. Nieto-Santisteban</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="t/AniThakar">Ani Thakar</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Batch is back: CasJobs, serving multi-TB data on the Web</title>
+<ee type="oa">http://arxiv.org/abs/cs/0502072</ee>
+<year>2005</year>
+<journal>CoRR</journal>
+<volume>abs/cs/0502072</volume>
+<url>db/journals/corr/corr0502.html#abs-cs-0502072</url>
+</article>
+</r>
+<r><article key="journals/debu/GrayS04" mdate="2020-08-19">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<title>Where the Rubber Meets the Sky: Bridging the Gap between Databases and Science.</title>
+<pages>3-11</pages>
+<year>2004</year>
+<volume>27</volume>
+<journal>IEEE Data Eng. Bull.</journal>
+<number>4</number>
+<ee type="oa">http://sites.computer.org/debull/A04dec/gray2.ps</ee>
+<url>db/journals/debu/debu27.html#GrayS04</url>
+</article>
+</r>
+<r><inproceedings key="conf/adbis/Gray04" mdate="2019-08-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>The Revolution in Database System Architecture.</title>
+<year>2004</year>
+<crossref>conf/adbis/2004l</crossref>
+<booktitle>ADBIS (Local Proceedings)</booktitle>
+<ee type="archive">http://research.microsoft.com/%7Egray/talks/ADBIS2004_DB%20Revolution.ppt</ee>
+<url>db/conf/adbis/adbis2004l.html#Gray04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Gray04" mdate="2018-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>The Next Database Revolution.</title>
+<year>2004</year>
+<crossref>conf/sigmod/2004</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/1007568.1007570</ee>
+<url>db/conf/sigmod/sigmod2004.html#Gray04</url>
+<pages>1-4</pages>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ssdbm/Gray04" mdate="2017-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Where the Rubber Meets the Sky: The Semantic Gap between Data Producers and Data Consumers.</title>
+<pages>3</pages>
+<year>2004</year>
+<crossref>conf/ssdbm/2004</crossref>
+<booktitle>SSDBM</booktitle>
+<ee>https://doi.org/10.1109/SSDM.2004.1311187</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SSDM.2004.1311187</ee>
+<url>db/conf/ssdbm/ssdbm2004.html#Gray04</url>
+</inproceedings>
+</r>
+<r><incollection key="books/mk/04/Szalay004" mdate="2020-05-18">
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Scientific Data Federation.</title>
+<pages>95-108</pages>
+<year>2004</year>
+<booktitle>The Grid 2, 2nd Edition</booktitle>
+<ee>https://doi.org/10.1016/b978-155860933-4/50011-0</ee>
+<crossref>books/mk/04/FK2004</crossref>
+<url>db/books/collections/FK2004.html#Szalay004</url>
+</incollection>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DB-0403017" mdate="2020-01-10">
+<author pid="36/723">Mar&#237;a A. Nieto-Santisteban</author>
+<author pid="05/1998">William O'Mullane</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="85/3328">Nolan Li</author>
+<author pid="49/161">Tamas Budavari</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="t/AniThakar">Aniruddha R. Thakar</author>
+<title>Extending the SDSS Batch Query System to the National Virtual Observatory Grid</title>
+<ee type="oa">http://arxiv.org/abs/cs/0403017</ee>
+<year>2004</year>
+<journal>CoRR</journal>
+<volume>cs.DB/0403017</volume>
+<url>db/journals/corr/corr0403.html#cs-DB-0403017</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DB-0403018" mdate="2020-01-10">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<title>The World Wide Telescope: An Archetype for Online Science</title>
+<ee type="oa">http://arxiv.org/abs/cs/0403018</ee>
+<year>2004</year>
+<journal>CoRR</journal>
+<volume>cs.DB/0403018</volume>
+<url>db/journals/corr/corr0403.html#cs-DB-0403018</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DB-0403020" mdate="2020-01-10">
+<author pid="t/AniThakar">Aniruddha R. Thakar</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="25/5416">Peter Z. Kunszt</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>The Sloan Digital Sky Survey Science Archive: Migrating a Multi-Terabyte Astronomical Archive from Object to Relational DBMS</title>
+<ee type="oa">http://arxiv.org/abs/cs/0403020</ee>
+<year>2004</year>
+<journal>CoRR</journal>
+<volume>cs.DB/0403020</volume>
+<url>db/journals/corr/corr0403.html#cs-DB-0403020</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DB-0403021" mdate="2020-01-10">
+<author pid="b/TomBarclay">Tom Barclay</author>
+<author pid="85/5011">Wyman Chong</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>A Quick Look at SATA Disk Performance</title>
+<ee type="oa">http://arxiv.org/abs/cs/0403021</ee>
+<year>2004</year>
+<journal>CoRR</journal>
+<volume>cs.DB/0403021</volume>
+<url>db/journals/corr/corr0403.html#cs-DB-0403021</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DB-0408030" mdate="2018-08-13">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>The Revolution In Database System Architecture</title>
+<ee type="oa">http://arxiv.org/abs/cs.DB/0408030</ee>
+<year>2004</year>
+<journal>CoRR</journal>
+<volume>cs.DB/0408030</volume>
+<url>db/journals/corr/corr0408.html#cs-DB-0408030</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DB-0408031" mdate="2018-08-13">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="t/AniThakar">Aniruddha R. Thakar</author>
+<author pid="67/3771">Gyorgy Fekete</author>
+<author pid="05/1998">William O'Mullane</author>
+<author pid="36/723">Mar&#237;a A. Nieto-Santisteban</author>
+<author pid="30/1517">Gerd Heber</author>
+<author pid="23/427">Arnold H. Rots</author>
+<title>There Goes the Neighborhood: Relational Algebra for Spatial Data Search</title>
+<ee type="oa">http://arxiv.org/abs/cs.DB/0408031</ee>
+<year>2004</year>
+<journal>CoRR</journal>
+<volume>cs.DB/0408031</volume>
+<url>db/journals/corr/corr0408.html#cs-DB-0408031</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DC-0408036" mdate="2018-08-13">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="l/LeslieLamport">Leslie Lamport</author>
+<title>Consensus on Transaction Commit</title>
+<ee type="oa">http://arxiv.org/abs/cs.DC/0408036</ee>
+<year>2004</year>
+<journal>CoRR</journal>
+<volume>cs.DC/0408036</volume>
+<url>db/journals/corr/corr0408.html#cs-DC-0408036</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-NI-0403019" mdate="2020-01-10">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Distributed Computing Economics</title>
+<ee type="oa">http://arxiv.org/abs/cs/0403019</ee>
+<year>2004</year>
+<journal>CoRR</journal>
+<volume>cs.NI/0403019</volume>
+<url>db/journals/corr/corr0403.html#cs-NI-0403019</url>
+</article>
+</r>
+<r><article key="journals/cse/ThakarSKG03" mdate="2022-08-16">
+<author pid="t/AniThakar">Ani Thakar</author>
+<author pid="s/AlexanderSSzalay">Alex Szalay</author>
+<author orcid="0000-0003-0933-4763" pid="25/5416">Peter Z. Kunszt</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Migrating a multiterabyte archive from object to relational databases.</title>
+<pages>16-29</pages>
+<year>2003</year>
+<volume>5</volume>
+<journal>Comput. Sci. Eng.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/MCISE.2003.1225857</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MCISE.2003.1225857</ee>
+<ee>https://www.wikidata.org/entity/Q113313510</ee>
+<url>db/journals/cse/cse5.html#ThakarSKG03</url>
+</article>
+</r>
+<r><article key="journals/jacm/Gray03" mdate="2018-11-14">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>What next?: A dozen information-technology research goals.</title>
+<pages>41-57</pages>
+<year>2003</year>
+<volume>50</volume>
+<journal>J. ACM</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/602382.602401</ee>
+<ee>https://www.wikidata.org/entity/Q55918697</ee>
+<url>db/journals/jacm/jacm50.html#Gray03</url>
+</article>
+</r>
+<r><inproceedings key="conf/kdd/Gray03" mdate="2018-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>On-line science: the world-wide telescope as a prototype for the new computational science.</title>
+<pages>3</pages>
+<year>2003</year>
+<crossref>conf/kdd/2003</crossref>
+<booktitle>KDD</booktitle>
+<ee>https://doi.org/10.1145/956750.956752</ee>
+<url>db/conf/kdd/kdd2003.html#Gray03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GraySSU03" mdate="2018-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="s/HansJorgSchek">Hans-J&#246;rg Schek</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="u/JeffreyDUllman">Jeffrey D. Ullman</author>
+<title>The Lowell Report.</title>
+<pages>680</pages>
+<year>2003</year>
+<crossref>conf/sigmod/2003</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2003.html#GraySSU03</url>
+<ee>https://doi.org/10.1145/872757.872873</ee>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DB-0310006" mdate="2020-01-10">
+<author pid="a/SergeAbiteboul">Serge Abiteboul</author>
+<author pid="a/RAgrawal">Rakesh Agrawal 0001</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="c/StefanoCeri">Stefano Ceri</author>
+<author pid="c/WBruceCroft">W. Bruce Croft</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="g/HGarciaMolina">Hector Garcia-Molina</author>
+<author pid="03/2725">Dieter Gawlick</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="h/LauraMHaas">Laura M. Haas</author>
+<author pid="h/AlonYHalevy">Alon Y. Halevy</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="i/YEIoannidis">Yannis E. Ioannidis</author>
+<author pid="k/MartinLKersten">Martin L. Kersten</author>
+<author pid="p/MJPazzani">Michael J. Pazzani</author>
+<author pid="l/MichaelELesk">Michael Lesk</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<author pid="s/HansJorgSchek">Hans-J&#246;rg Schek</author>
+<author pid="s/TimosKSellis">Timos K. Sellis</author>
+<author pid="s/AbrahamSilberschatz">Avi Silberschatz</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="s/RichardTSnodgrass">Richard T. Snodgrass</author>
+<author pid="u/JeffreyDUllman">Jeffrey D. Ullman</author>
+<author pid="w/GerhardWeikum">Gerhard Weikum</author>
+<author pid="w/JenniferWidom">Jennifer Widom</author>
+<author pid="z/SBZdonik">Stanley B. Zdonik</author>
+<title>The Lowell Database Research Self Assessment</title>
+<ee type="oa">http://arxiv.org/abs/cs/0310006</ee>
+<year>2003</year>
+<journal>CoRR</journal>
+<volume>cs.DB/0310006</volume>
+<url>db/journals/corr/corr0310.html#cs-DB-0310006</url>
+</article>
+</r>
+<r><article key="journals/cacm/BellG02" mdate="2018-11-06">
+<author pid="b/GBell">Gordon Bell</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>What's next in high-performance computing?</title>
+<pages>91-95</pages>
+<year>2002</year>
+<volume>45</volume>
+<journal>Commun. ACM</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/503124.503129</ee>
+<url>db/journals/cacm/cacm45.html#BellG02</url>
+</article>
+</r>
+<r><article key="journals/cacm/GrayS02" mdate="2018-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<title>The world-wide telescope.</title>
+<pages>50-55</pages>
+<year>2002</year>
+<volume>45</volume>
+<journal>Commun. ACM</journal>
+<number>11</number>
+<ee>https://doi.org/10.1145/581571.581572</ee>
+<url>db/journals/cacm/cacm45.html#GrayS02</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/SzalayGTKMRSv02" mdate="2021-02-03">
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="t/AniThakar">Ani Thakar</author>
+<author pid="25/5416">Peter Z. Kunszt</author>
+<author pid="m/TanuMalik">Tanu Malik</author>
+<author pid="175/7284">M. Jordan Raddick</author>
+<author pid="06/4897">Christopher Stoughton</author>
+<author pid="16/1558">Jan vandenBerg</author>
+<title>The SDSS skyserver: public access to the sloan digital sky server data.</title>
+<pages>570-581</pages>
+<year>2002</year>
+<crossref>conf/sigmod/2002</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<ee>https://doi.org/10.1145/564691.564758</ee>
+<url>db/conf/sigmod/sigmod2002.html#SzalayGTKMRSv02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wdas/GraySTKSSv02" mdate="2017-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="t/AniThakar">Ani Thakar</author>
+<author pid="25/5416">Peter Z. Kunszt</author>
+<author pid="06/4897">Christopher Stoughton</author>
+<author pid="33/6589">Donald R. Slutz</author>
+<author pid="16/1558">Jan vandenBerg</author>
+<title>Data Mining the SDSS SkyServer Database.</title>
+<pages>189-208</pages>
+<year>2002</year>
+<crossref>conf/wdas/2002</crossref>
+<booktitle>WDAS</booktitle>
+<url>db/conf/wdas/wdas2002.html#GraySTKSSv02</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DB-0202014" mdate="2020-01-10">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="t/AniThakar">Ani Thakar</author>
+<author pid="25/5416">Peter Z. Kunszt</author>
+<author pid="06/4897">Christopher Stoughton</author>
+<author pid="33/6589">Donald R. Slutz</author>
+<author pid="16/1558">Jan vandenBerg</author>
+<title>Data Mining the SDSS SkyServer Database</title>
+<ee type="oa">https://arxiv.org/abs/cs/0202014</ee>
+<year>2002</year>
+<journal>CoRR</journal>
+<volume>cs.DB/0202014</volume>
+<url>db/journals/corr/corr0202.html#cs-DB-0202014</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DB-0208013" mdate="2020-03-27">
+<author orcid="0000-0002-4108-3282" pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="16/1558">Jan vandenBerg</author>
+<title>Petabyte Scale Data Mining: Dream or Reality?</title>
+<ee type="oa">https://arxiv.org/abs/cs/0208013</ee>
+<year>2002</year>
+<journal>CoRR</journal>
+<volume>cs.DB/0208013</volume>
+<url>db/journals/corr/corr0208.html#cs-DB-0208013</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DB-0208015" mdate="2021-01-23">
+<author orcid="0000-0002-4108-3282" pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="49/161">Tamas Budavari</author>
+<author pid="117/4231">Andrew J. Connolly</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author orcid="0000-0001-8221-5782" pid="27/3939">Takahiko Matsubara</author>
+<author pid="43/2739">Adrian Pope</author>
+<author orcid="0000-0003-2274-0301" pid="11/2912">Istvan Szapudi</author>
+<title>Spatial Clustering of Galaxies in Large Datasets</title>
+<ee type="oa">https://arxiv.org/abs/cs/0208015</ee>
+<year>2002</year>
+<journal>CoRR</journal>
+<volume>cs.DB/0208015</volume>
+<url>db/journals/corr/corr0208.html#cs-DB-0208015</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DC-0208014" mdate="2020-03-27">
+<author orcid="0000-0002-4108-3282" pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="49/161">Tamas Budavari</author>
+<author pid="m/TanuMalik">Tanu Malik</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="t/AniThakar">Ani Thakar</author>
+<title>Web Services for the Virtual Observatory</title>
+<ee type="oa">https://arxiv.org/abs/cs/0208014</ee>
+<year>2002</year>
+<journal>CoRR</journal>
+<volume>cs.DC/0208014</volume>
+<url>db/journals/corr/corr0208.html#cs-DC-0208014</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DL-0202013" mdate="2021-02-03">
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="t/AniThakar">Ani Thakar</author>
+<author pid="25/5416">Peter Z. Kunszt</author>
+<author pid="m/TanuMalik">Tanu Malik</author>
+<author pid="175/7284">M. Jordan Raddick</author>
+<author pid="06/4897">Christopher Stoughton</author>
+<author pid="16/1558">Jan vandenBerg</author>
+<title>The SDSS SkyServer: Public Access to the Sloan Digital Sky Server Data</title>
+<ee type="oa">https://arxiv.org/abs/cs/0202013</ee>
+<year>2002</year>
+<journal>CoRR</journal>
+<volume>cs.DL/0202013</volume>
+<url>db/journals/corr/corr0202.html#cs-DL-0202013</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DL-0208010" mdate="2020-01-10">
+<author pid="b/TomBarclay">Tom Barclay</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="27/6521">Eric Strand</author>
+<author pid="61/3343">Steve Ekblad</author>
+<author pid="58/6352">Jeffrey Richter</author>
+<title>TerraService.NET: An Introduction to Web Services</title>
+<ee type="oa">https://arxiv.org/abs/cs/0208010</ee>
+<year>2002</year>
+<journal>CoRR</journal>
+<volume>cs.DL/0208010</volume>
+<url>db/journals/corr/corr0208.html#cs-DL-0208010</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DL-0208012" mdate="2020-03-27">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author orcid="0000-0002-4108-3282" pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="t/AniThakar">Ani Thakar</author>
+<author pid="06/4897">Christopher Stoughton</author>
+<author pid="16/1558">Jan vandenBerg</author>
+<title>Online Scientific Data Curation, Publication, and Archiving</title>
+<ee type="oa">https://arxiv.org/abs/cs/0208012</ee>
+<year>2002</year>
+<journal>CoRR</journal>
+<volume>cs.DL/0208012</volume>
+<url>db/journals/corr/corr0208.html#cs-DL-0208012</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-NI-0208011" mdate="2020-01-10">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="85/5011">Wyman Chong</author>
+<author pid="b/TomBarclay">Tom Barclay</author>
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="16/1558">Jan vandenBerg</author>
+<title>TeraScale SneakerNet: Using Inexpensive Disks for Backup, Archiving, and Data Exchange</title>
+<ee type="oa">https://arxiv.org/abs/cs/0208011</ee>
+<year>2002</year>
+<journal>CoRR</journal>
+<volume>cs.NI/0208011</volume>
+<url>db/journals/corr/corr0208.html#cs-NI-0208011</url>
+</article>
+</r>
+<r><article key="journals/cacm/BellG01" mdate="2018-11-06">
+<author pid="b/GBell">Gordon Bell</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Digital immortality.</title>
+<pages>28-31</pages>
+<year>2001</year>
+<volume>44</volume>
+<journal>Commun. ACM</journal>
+<number>3</number>
+<ee>https://doi.org/10.1145/365181.365182</ee>
+<url>db/journals/cacm/cacm44.html#BellG01</url>
+</article>
+</r>
+<r><inproceedings key="conf/vldb/OzdenGHNSDGGW01" mdate="2020-03-12">
+<author pid="o/BanuOzden">Banu &#214;zden</author>
+<author pid="25/598">Eran Gabber</author>
+<author pid="h/BruceHillyer">Bruce Hillyer</author>
+<author pid="n/WeeTeckNg">Wee Teck Ng</author>
+<author pid="64/2667">Elizabeth A. M. Shriver</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="24/6059">Bruce Gordon</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="w/JohnWilkes">John Wilkes</author>
+<title>Storage Service Providers: a Solution for Storage Management? (Panel).</title>
+<pages>618-619</pages>
+<ee type="oa">http://www.vldb.org/conf/2001/P618.pdf</ee>
+<year>2001</year>
+<crossref>conf/vldb/2001</crossref>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb2001.html#OzdenGHNSDGGW01</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DL-0111015" mdate="2021-02-03">
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="t/AniThakar">Ani Thakar</author>
+<author pid="25/5416">Peter Z. Kunszt</author>
+<author pid="m/TanuMalik">Tanu Malik</author>
+<author pid="175/7284">M. Jordan Raddick</author>
+<author pid="06/4897">Christopher Stoughton</author>
+<author pid="16/1558">Jan vandenBerg</author>
+<title>The SDSS SkyServer, Public Access to the Sloan Digital Sky Server Data</title>
+<ee type="oa">https://arxiv.org/abs/cs/0111015</ee>
+<year>2001</year>
+<journal>CoRR</journal>
+<volume>cs.DL/0111015</volume>
+<url>db/journals/corr/corr0111.html#cs-DL-0111015</url>
+</article>
+</r>
+<r><article key="journals/disc/Gray00" mdate="2020-08-20">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>What Next? A Few Remaining Problems in Information Technlogy, SIGMOD Conference 1999, ACM Turing Award Lecture, Video</title>
+<year>2000</year>
+<volume>2</volume>
+<number>2</number>
+<journal>ACM SIGMOD Digit. Symp. Collect.</journal>
+<cdrom>DiSC2_2/index.htm</cdrom>
+<url>db/journals/disc/disc2.html#Gray00</url>
+</article>
+</r>
+<r><article key="journals/network/GemmellGS00" mdate="2021-04-01">
+<author pid="g/JimGemmell">Jim Gemmell</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="72/2163">Eve M. Schooler</author>
+<title>Fcast multicast file distribution.</title>
+<pages>58-68</pages>
+<year>2000</year>
+<volume>14</volume>
+<journal>IEEE Netw.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/65.819172</ee>
+<url>db/journals/network/network14.html#GemmellGS00</url>
+</article>
+</r>
+<r><inproceedings key="conf/icde/GrayS00" mdate="2017-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="s/PrashantJShenoy">Prashant J. Shenoy</author>
+<title>Rules of Thumb in Data Engineering.</title>
+<pages>3-10</pages>
+<year>2000</year>
+<crossref>conf/icde/2000</crossref>
+<booktitle>ICDE</booktitle>
+<ee>https://doi.org/10.1109/ICDE.2000.839382</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.2000.839382</ee>
+<url>db/conf/icde/icde2000.html#GrayS00</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BarclaySG00" mdate="2021-03-12">
+<ee>https://doi.org/10.1145/342009.335424</ee>
+<ee>https://doi.org/10.1145/335191.335424</ee>
+<author pid="b/TomBarclay">Tom Barclay</author>
+<author pid="33/6589">Donald R. Slutz</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>TerraServer: A Spatial Data Warehouse.</title>
+<pages>307-318</pages>
+<year>2000</year>
+<crossref>conf/sigmod/2000</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2000.html#BarclaySG00</url>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/mss/KoblerBCH95</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/aw/Samet90</cite>
+<cite>...</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SzalayGKT00" mdate="2021-04-09">
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author orcid="0000-0003-0933-4763" pid="25/5416">Peter Z. Kunszt</author>
+<author pid="t/AniThakar">Ani Thakar</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="33/6589">Donald R. Slutz</author>
+<author pid="38/603">Robert J. Brunner</author>
+<title>Designing and Mining Multi-Terabyte Astronomy Archives: The Sloan Digital Sky Survey.</title>
+<pages>451-462</pages>
+<ee>https://doi.org/10.1145/342009.335439</ee>
+<ee>https://doi.org/10.1145/335191.335439</ee>
+<year>2000</year>
+<crossref>conf/sigmod/2000</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod2000.html#SzalayGKT00</url>
+<cite>conf/sigmod/AcharyaAFZ95</cite>
+<cite>...</cite>
+<cite>conf/iopads/Arpaci-DusseauATCHPY99</cite>
+<cite>journals/sigmod/BarclayBGS94</cite>
+<cite>journals/cacm/DeWittG92</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/csur/Graefe93</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/aw/Samet90</cite>
+<cite>...</cite>
+<cite>conf/sigmod/StonebrakerFGM93</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>books/mk/ZdonikM90</cite>
+</inproceedings>
+</r>
+<r><article key="journals/ibmsj/BlasgenACGKLLMPPSSSSTWY99" mdate="2020-03-13">
+<author pid="77/481">Mike W. Blasgen</author>
+<author pid="33/2015">Morton M. Astrahan</author>
+<author pid="c/DDChamberlin">Donald D. Chamberlin</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="88/4057">W. Frank King III</author>
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<author pid="67/3397">Raymond A. Lorie</author>
+<author pid="72/5053">James W. Mehl</author>
+<author pid="35/5645">Thomas G. Price</author>
+<author pid="74/6386">Gianfranco R. Putzolu</author>
+<author pid="96/5511">Mario Schkolnick</author>
+<author pid="48/1954">Patricia G. Selinger</author>
+<author pid="33/6589">Donald R. Slutz</author>
+<author pid="08/5863">H. Raymond Strong</author>
+<author pid="17/2969">Irving L. Traiger</author>
+<author pid="59/3575">Bradford W. Wade</author>
+<author pid="72/1678">Robert A. Yost</author>
+<title>System R: An Architectural Overview.</title>
+<pages>375-396</pages>
+<year>1999</year>
+<volume>38</volume>
+<journal>IBM Syst. J.</journal>
+<number>2/3</number>
+<url>db/journals/ibmsj/ibmsj38.html#BlasgenACGKLLMPPSSSSTWY99</url>
+<ee>https://doi.org/10.1147/sj.382.0375</ee>
+</article>
+</r>
+<r><inproceedings key="conf/imsa/GemmellSG99" mdate="2019-07-28">
+<author pid="g/JimGemmell">Jim Gemmell</author>
+<author pid="72/2163">Eve M. Schooler</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Fcast Multicast File Distribution: &#34;Tune in, Download, and Drop Out&#34;.</title>
+<pages>371-377</pages>
+<year>1999</year>
+<crossref>conf/imsa/1999</crossref>
+<booktitle>IMSA</booktitle>
+<url>db/conf/imsa/imsa1999.html#GemmellSG99</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldbw/GrayH99" mdate="2017-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="h/SOHvasshovd">Svein-Olaf Hvasshovd</author>
+<title>Panel Session: Do the DBMS SW Vendors Offer the Products Required by the Industrial User in the Communication Industry?</title>
+<pages>191-206</pages>
+<year>1999</year>
+<crossref>conf/dbtel/1999</crossref>
+<booktitle>Databases in Telecommunications</booktitle>
+<url>db/conf/vldbw/vldbw1999.html#GrayH99</url>
+<ee>https://doi.org/10.1007/10721056_14</ee>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-AR-9912010" mdate="2020-01-10">
+<author pid="31/5624">Bill Devlin</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="81/4666">Bill Laing</author>
+<author pid="74/4688">George Spix</author>
+<title>Scalability Terminology: Farms, Clones, Partitions, Packs, RACS and RAPS</title>
+<ee type="oa">https://arxiv.org/abs/cs/9912010</ee>
+<year>1999</year>
+<journal>CoRR</journal>
+<volume>cs.AR/9912010</volume>
+<url>db/journals/corr/corr9912.html#cs-AR-9912010</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DB-9907009" mdate="2020-01-10">
+<author pid="s/AlexanderSSzalay">Alexander S. Szalay</author>
+<author pid="25/5416">Peter Z. Kunszt</author>
+<author pid="t/AniThakar">Ani Thakar</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Designing and Mining Multi-Terabyte Astronomy Archives: The Sloan Digital Sky Survey</title>
+<ee type="oa">https://arxiv.org/abs/cs/9907009</ee>
+<year>1999</year>
+<journal>CoRR</journal>
+<volume>cs.DB/9907009</volume>
+<url>db/journals/corr/corr9907.html#cs-DB-9907009</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DB-9907016" mdate="2020-01-10">
+<author pid="b/TomBarclay">Tom Barclay</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="33/6589">Donald R. Slutz</author>
+<title>Microsoft TerraServer: A Spatial Data Warehouse</title>
+<ee type="oa">https://arxiv.org/abs/cs/9907016</ee>
+<year>1999</year>
+<journal>CoRR</journal>
+<volume>cs.DB/9907016</volume>
+<url>db/journals/corr/corr9907.html#cs-DB-9907016</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-GL-9911005" mdate="2020-01-10">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>What Next? A Dozen Information-Technology Research Goals</title>
+<ee type="oa">https://arxiv.org/abs/cs/9911005</ee>
+<year>1999</year>
+<journal>CoRR</journal>
+<volume>cs.GL/9911005</volume>
+<url>db/journals/corr/corr9911.html#cs-GL-9911005</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/dr/Gray99" mdate="2020-03-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Review - Benchmarking Database Systems A Systematic Approach.</title>
+<year>1999</year>
+<volume>1</volume>
+<journal>ACM SIGMOD Digit. Rev.</journal>
+<url>db/journals/dr/dr1.html#Gray99</url>
+<ee>db/journals/dr/Gray99.html</ee>
+<cite>conf/vldb/BittonDT83</cite>
+</article>
+</r>
+<r><article key="journals/sigmod/BernsteinBCDFGGHHJLMNPSU98" mdate="2020-03-06">
+<ee>https://doi.org/10.1145/306101.306137</ee>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="95/3763">Michael L. Brodie</author>
+<author pid="c/StefanoCeri">Stefano Ceri</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="g/HGarciaMolina">Hector Garcia-Molina</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="21/4031">Gerald Held</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<author pid="l/MichaelELesk">Michael Lesk</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="u/JeffreyDUllman">Jeffrey D. Ullman</author>
+<title>The Asilomar Report on Database Research.</title>
+<pages>74-80</pages>
+<cdrom>sigmodR/27-4/P074.pdf</cdrom>
+<year>1998</year>
+<volume>27</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<url>db/journals/sigmod/sigmod27.html#BernsteinBCDFGGHHJLMNPSU98</url>
+</article>
+</r>
+<r><inproceedings key="conf/ftcs/VogelsDBGMSVBG98" mdate="2017-11-06">
+<author pid="v/WernerVogels">Werner Vogels</author>
+<author pid="99/3944">Dan Dumitriu</author>
+<author pid="b/KPBirman">Kenneth P. Birman</author>
+<author pid="39/1976">Rod Gamache</author>
+<author pid="13/1911">Mike Massa</author>
+<author pid="53/4010">Rob Short</author>
+<author pid="78/1846">John Vert</author>
+<author pid="10/2017">Joe Barrera</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>The Design and Architecture of the Microsoft Cluster Service - A Practical Approach to High-Availability and Scalability.</title>
+<pages>422-431</pages>
+<year>1998</year>
+<crossref>conf/ftcs/1998</crossref>
+<booktitle>FTCS</booktitle>
+<url>db/conf/ftcs/ftcs98.html#VogelsDBGMSVBG98</url>
+<ee>https://doi.org/10.1109/FTCS.1998.689494</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/FTCS.1998.689494</ee>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-AR-9809007" mdate="2020-01-10">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Locally Served Network Computers</title>
+<ee type="oa">https://arxiv.org/abs/cs/9809007</ee>
+<year>1998</year>
+<journal>CoRR</journal>
+<volume>cs.AR/9809007</volume>
+<url>db/journals/corr/corr9809.html#cs-AR-9809007</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DB-9809004" mdate="2020-01-10">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="13/5439">Joshua Coates</author>
+<author pid="56/100">Chris Nyberg</author>
+<title>Performance / Price Sort</title>
+<ee type="oa">https://arxiv.org/abs/cs/9809004</ee>
+<year>1998</year>
+<journal>CoRR</journal>
+<volume>cs.DB/9809004</volume>
+<url>db/journals/corr/corr9809.html#cs-DB-9809004</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DB-9809005" mdate="2020-01-10">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb</title>
+<ee type="oa">https://arxiv.org/abs/cs/9809005</ee>
+<year>1998</year>
+<journal>CoRR</journal>
+<volume>cs.DB/9809005</volume>
+<url>db/journals/corr/corr9809.html#cs-DB-9809005</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DB-9809011" mdate="2020-01-10">
+<author pid="b/TomBarclay">Tom Barclay</author>
+<author pid="17/3631">Robert Eberl</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="63/4653">John Nordlinger</author>
+<author pid="25/5781">Guru Raghavendran</author>
+<author pid="33/6589">Donald R. Slutz</author>
+<author pid="47/3228">Greg Smith</author>
+<author pid="85/4140">Phil Smoot</author>
+<author pid="69/3986">John Hoffman</author>
+<author pid="34/2657">Natt Robb III</author>
+<author pid="84/2604">Hedy Rossmeissl</author>
+<author pid="89/3785">Beth Duff</author>
+<author pid="23/2203">George Lee</author>
+<author pid="14/5638">Theresa Mathesmier</author>
+<author pid="24/3126">Randall Sunne</author>
+<title>Microsoft TerraServer</title>
+<ee type="oa">https://arxiv.org/abs/cs/9809011</ee>
+<year>1998</year>
+<journal>CoRR</journal>
+<volume>cs.DB/9809011</volume>
+<url>db/journals/corr/corr9809.html#cs-DB-9809011</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-DB-9811013" mdate="2020-01-10">
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="95/3763">Michael L. Brodie</author>
+<author pid="c/StefanoCeri">Stefano Ceri</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="f/MJFranklin">Michael J. Franklin</author>
+<author pid="g/HGarciaMolina">Hector Garcia-Molina</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="21/4031">Gerald Held</author>
+<author pid="h/JosephMHellerstein">Joseph M. Hellerstein</author>
+<author pid="j/HVJagadish">H. V. Jagadish</author>
+<author pid="l/MichaelELesk">Michael Lesk</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<author pid="n/JeffreyFNaughton">Jeffrey F. Naughton</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="u/JeffreyDUllman">Jeffrey D. Ullman</author>
+<title>The Asilomar Report on Database Research</title>
+<ee type="oa">https://arxiv.org/abs/cs/9811013</ee>
+<year>1998</year>
+<journal>CoRR</journal>
+<volume>cs.DB/9811013</volume>
+<url>db/journals/corr/corr9811.html#cs-DB-9811013</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/cs-GL-9809010" mdate="2020-01-10">
+<author pid="b/GBell">Gordon Bell</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>The Revolution Yet to Happen</title>
+<ee type="oa">https://arxiv.org/abs/cs/9809010</ee>
+<year>1998</year>
+<journal>CoRR</journal>
+<volume>cs.GL/9809010</volume>
+<url>db/journals/corr/corr9809.html#cs-GL-9809010</url>
+</article>
+</r>
+<r><article key="journals/datamine/GrayCBLRVPP97" mdate="2019-06-02">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="02/5473">Adam Bosworth</author>
+<author pid="57/2527">Andrew Layman</author>
+<author pid="32/6006">Don Reichart</author>
+<author pid="52/1171">Murali Venkatrao</author>
+<author pid="01/579">Frank Pellow</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<title>Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals.</title>
+<pages>29-53</pages>
+<year>1997</year>
+<volume>1</volume>
+<journal>Data Min. Knowl. Discov.</journal>
+<number>1</number>
+<url>db/journals/datamine/datamine1.html#GrayCBLRVPP97</url>
+<ee>https://doi.org/10.1023/A:1009726021843</ee>
+<ee>https://www.wikidata.org/entity/Q61795230</ee>
+</article>
+</r>
+<r><article key="journals/sigmod/GrayG97" mdate="2020-03-06">
+<ee>https://doi.org/10.1145/271074.271094</ee>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="g/GoetzGraefe">Goetz Graefe</author>
+<title>The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules of Thumb.</title>
+<pages>63-68</pages>
+<cdrom>sigmodR/26-4/P063.pdf</cdrom>
+<year>1997</year>
+<volume>26</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<url>db/journals/sigmod/sigmod26.html#GrayG97</url>
+</article>
+</r>
+<r><article key="journals/computer/Gray96" mdate="2020-08-12">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Evolution of Data Management.</title>
+<pages>38-46</pages>
+<year>1996</year>
+<volume>29</volume>
+<journal>Computer</journal>
+<number>10</number>
+<url>db/journals/computer/computer29.html#Gray96</url>
+<ee>https://doi.org/10.1109/2.539719</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/2.539719</ee>
+</article>
+</r>
+<r><inproceedings key="conf/icde/GrayBLP96" mdate="2017-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="02/5473">Adam Bosworth</author>
+<author pid="57/2527">Andrew Layman</author>
+<author pid="p/HamidPirahesh">Hamid Pirahesh</author>
+<title>Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total.</title>
+<pages>152-159</pages>
+<cdrom>ICDE96/P152.pdf</cdrom>
+<year>1996</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde96.html#GrayBLP96</url>
+<crossref>conf/icde/96</crossref>
+<ee>https://doi.org/10.1109/ICDE.1996.492099</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.1996.492099</ee>
+<cite label="Access">...</cite>
+<cite label="Essbase">...</cite>
+<cite label="Illustra">...</cite>
+<cite label="Melton &#38; Simon">books/mk/MeltonS93</cite>
+<cite label="Red Brick">...</cite>
+<cite label="TPC">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icde/ChaudhuriCDGSWV96" mdate="2017-11-06">
+<author pid="c/SurajitChaudhuri">Surajit Chaudhuri</author>
+<author pid="56/4267">Ashok K. Chandra</author>
+<author pid="76/2198">Umeshwar Dayal</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="w/GioWiederhold">Gio Wiederhold</author>
+<author pid="v/MosheYVardi">Moshe Y. Vardi</author>
+<title>Database Research: Lead, Follow, or Get Out of the Way? - Panel Abstract.</title>
+<pages>190</pages>
+<cdrom>ICDE96/P190.pdf</cdrom>
+<year>1996</year>
+<booktitle>ICDE</booktitle>
+<url>db/conf/icde/icde96.html#ChaudhuriCDGSWV96</url>
+<crossref>conf/icde/96</crossref>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GrayHOS96" mdate="2021-06-21">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="h/PatHelland">Pat Helland</author>
+<author pid="o/PatrickEONeil">Patrick E. O'Neil</author>
+<author pid="s/DennisShasha">Dennis E. Shasha</author>
+<title>The Dangers of Replication and a Solution.</title>
+<pages>173-182</pages>
+<year>1996</year>
+<crossref>conf/sigmod/96</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod96.html#GrayHOS96</url>
+<ee>https://doi.org/10.1145/233269.233330</ee>
+<ee>https://doi.org/10.1145/235968.233330</ee>
+<ee>https://www.wikidata.org/entity/Q30039951</ee>
+<cdrom>SIGMOD96/P173.PDF</cdrom>
+<cite label="Bernstein, Hadzilacos, Goddman">books/aw/BernsteinHG87</cite>
+<cite label="Berenson, et al.">conf/sigmod/BerensonBGMOO95</cite>
+<cite label="Garcia Molina">...</cite>
+<cite label="Garcia Molina, Barbara">journals/jacm/Garcia-MolinaB85</cite>
+<cite label="Gifford">conf/sosp/Gifford79</cite>
+<cite label="Gray &#38; Reuter">books/mk/GrayR93</cite>
+<cite label="Gray, et al.">...</cite>
+<cite label="Hammond">...</cite>
+<cite label="Herman">conf/sigmod/HermanGLW87</cite>
+<cite label="Kawell">...</cite>
+<cite label="Oracle">...</cite>
+</inproceedings>
+</r>
+<r><article key="journals/vldb/NybergBCGL95" mdate="2020-03-12">
+<author pid="56/100">Chris Nyberg</author>
+<author pid="b/TomBarclay">Tom Barclay</author>
+<author pid="42/2159">Zarka Cvetanovic</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="l/DavidBLomet">David B. Lomet</author>
+<title>AlphaSort: A Cache-Sensitive Parallel External Sort</title>
+<journal>VLDB J.</journal>
+<volume>4</volume>
+<number>4</number>
+<year>1995</year>
+<pages>603-627</pages>
+<ee type="oa">http://www.vldb.org/journal/VLDBJ4/P603.pdf</ee>
+<url>db/journals/vldb/vldb4.html#NybergBCGL95</url>
+<cite label="Anon et al. 1989">...</cite>
+<cite label="Baer &#38; Lin 1989">journals/tse/BaerL89</cite>
+<cite label="Baugsto &#38; Greipsland 1989">conf/iwdm/BaugstoG89</cite>
+<cite label="Baugsto et al. 1990">...</cite>
+<cite label="Beck et al. 1988">journals/tc/BeckBW88</cite>
+<cite label="Bitton 1981">...</cite>
+<cite label="Connor 1977">...</cite>
+<cite label="Cvetanovic &#38; Bhandarkar 1994">conf/isca/CvetanovicB94</cite>
+<cite label="DeWitt et al. 1992">conf/pdis/DeWittNS91</cite>
+<cite label="Graefe 1990">...</cite>
+<cite label="Graefe &#38; Thakkar 1992">journals/spe/GraefeT92</cite>
+<cite label="Gray 1991">books/mk/Gray91</cite>
+<cite label="Kaivalya 1993">...</cite>
+<cite label="Kim 1986">journals/tc/Kim86</cite>
+<cite label="Kitsuregawa et al. 1989">conf/iwdm/KitsuregawaYF89</cite>
+<cite label="Knuth 1973">books/aw/Knuth73</cite>
+<cite label="Lorie &#38; Young 1989">conf/vldb/LorieY89</cite>
+<cite label="Lorin 1974">...</cite>
+<cite label="Nyberg et al. 1994">conf/sigmod/NybergBCGL94</cite>
+<cite label="Salzberg et al. 1990">conf/sigmod/SalzbergTGSUV90</cite>
+<cite label="Tsukerman 1986">...</cite>
+<cite label="Weinberger 1986">...</cite>
+<cite label="Yamane &#38; Take 1988">conf/iwdm/YamaneT87</cite>
+</article>
+</r>
+<r><inproceedings key="conf/btw/Gray95" mdate="2019-06-24">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Super Servers: Commodity Computer Clusters Pose a Software Challenge.</title>
+<pages>30-47</pages>
+<year>1995</year>
+<crossref>conf/btw/95</crossref>
+<booktitle>BTW</booktitle>
+<url>db/conf/btw/btw95.html#Gray95</url>
+<ee>https://doi.org/10.1007/978-3-642-79646-3_2</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/BerensonBGMOO95" mdate="2021-06-11">
+<author pid="24/3500">Hal Berenson</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="60/927">Jim Melton</author>
+<author pid="40/6709">Elizabeth J. O'Neil</author>
+<author pid="o/PatrickEONeil">Patrick E. O'Neil</author>
+<title>A Critique of ANSI SQL Isolation Levels.</title>
+<pages>1-10</pages>
+<year>1995</year>
+<crossref>conf/sigmod/95</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod95.html#BerensonBGMOO95</url>
+<ee>https://doi.org/10.1145/223784.223785</ee>
+<ee>https://doi.org/10.1145/568271.223785</ee>
+<cdrom>SIGMOD95/P001.PDF</cdrom>
+<cite label="ANSI">...</cite>
+<cite label="ABJ">...</cite>
+<cite label="BHG">books/aw/BernsteinHG87</cite>
+<cite label="DAT">books/aw/Date90</cite>
+<cite label="DB2">...</cite>
+<cite label="EGLT">journals/cacm/EswarranGLT76</cite>
+<cite label="GLPT">...</cite>
+<cite label="GR">books/mk/GrayR93</cite>
+<cite label="HOB">...</cite>
+<cite label="ILL">...</cite>
+<cite label="MS">books/mk/MeltonS93</cite>
+<cite label="OOBBGM">...</cite>
+<cite label="ORA">...</cite>
+<cite label="PAP">...</cite>
+<cite label="PON">books/mk/ONeil94</cite>
+<cite label="REE">journals/tocs/Reed83</cite>
+<cite label="STO">conf/vldb/Stonebraker87</cite>
+<cite label="THA">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Gray95" mdate="2021-06-11">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Parallel Database Systems 101.</title>
+<pages>436</pages>
+<year>1995</year>
+<crossref>conf/sigmod/95</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod95.html#Gray95</url>
+<ee>https://doi.org/10.1145/223784.223864</ee>
+<ee>https://doi.org/10.1145/568271.223864</ee>
+<cdrom>SIGMOD95/P436.PDF</cdrom>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ReuterCGSW95" mdate="2017-11-06">
+<crossref>conf/vldb/95</crossref>
+<author pid="r/AReuter">Andreas Reuter 0001</author>
+<author pid="c/StefanoCeri">Stefano Ceri</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="s/BettySalzberg">Betty Salzberg</author>
+<author pid="w/GerhardWeikum">Gerhard Weikum</author>
+<title>Databases and Workflow Management: What is it All About? (Panel).</title>
+<pages>632</pages>
+<year>1995</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb95.html#ReuterCGSW95</url>
+<ee>http://www.vldb.org/conf/1995/P632.PDF</ee>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/BarclayBGS94" mdate="2020-03-06">
+<ee>https://doi.org/10.1145/190627.190647</ee>
+<author pid="b/TomBarclay">Tom Barclay</author>
+<author pid="31/5435">Robert Barnes</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="34/301">Prakash Sundaresan</author>
+<title>Loading Databases Using Dataflow Parallelism.</title>
+<pages>72-83</pages>
+<cdrom>sigmodR/23-4/P072.pdf</cdrom>
+<year>1994</year>
+<volume>23</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<url>db/journals/sigmod/sigmod23.html#BarclayBGS94</url>
+</article>
+</r>
+<r><inproceedings key="conf/compcon/GrayN94" mdate="2017-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="56/100">Chris Nyberg</author>
+<title>Desktop Batch Processing.</title>
+<pages>206-211</pages>
+<year>1994</year>
+<crossref>conf/compcon/1994</crossref>
+<booktitle>COMPCON</booktitle>
+<url>db/conf/compcon/compcon94.html#GrayN94</url>
+<ee>https://doi.org/10.1109/CMPCON.1994.282922</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/NybergBCGL94" mdate="2021-03-22">
+<author pid="56/100">Chris Nyberg</author>
+<author pid="b/TomBarclay">Tom Barclay</author>
+<author pid="42/2159">Zarka Cvetanovic</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="l/DavidBLomet">David B. Lomet</author>
+<title>AlphaSort: A RISC Machine Sort.</title>
+<pages>233-242</pages>
+<year>1994</year>
+<crossref>conf/sigmod/94</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod94.html#NybergBCGL94</url>
+<ee>https://doi.org/10.1145/191839.191884</ee>
+<ee>https://doi.org/10.1145/191843.191884</ee>
+<cdrom>SIGMOD94/P233.PDF</cdrom>
+<cite>...</cite>
+<cite>journals/tse/BaerL89</cite>
+<cite>conf/iwdm/BaugstoG89</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/tc/BeckBW88</cite>
+<cite>...</cite>
+<cite>conf/pdis/DeWittNS91</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/spe/GraefeT92</cite>
+<cite>books/mk/Gray91</cite>
+<cite>...</cite>
+<cite>conf/iwdm/KitsuregawaYF89</cite>
+<cite>journals/tc/Kim86</cite>
+<cite>books/aw/Knuth73</cite>
+<cite>conf/vldb/LorieY89</cite>
+<cite>...</cite>
+<cite>conf/sigmod/SalzbergTGSUV90</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GraySEBW94" mdate="2021-03-22">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="34/301">Prakash Sundaresan</author>
+<author pid="58/5099">Susanne Englert</author>
+<author pid="b/KBaclawski">Kenneth Baclawski</author>
+<author pid="74/1361">Peter J. Weinberger</author>
+<title>Quickly Generating Billion-Record Synthetic Databases.</title>
+<pages>243-252</pages>
+<year>1994</year>
+<crossref>conf/sigmod/94</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod94.html#GraySEBW94</url>
+<ee>https://doi.org/10.1145/191839.191886</ee>
+<ee>https://doi.org/10.1145/191843.191886</ee>
+<cdrom>SIGMOD94/P243.PDF</cdrom>
+<cite label="Bitton 1">...</cite>
+<cite label="Bitton 2">conf/vldb/BittonDT83</cite>
+<cite label="Coppersmith">journals/algorithmica/CoppersmithOS86</cite>
+<cite label="DeWitt 1">conf/vldb/DeWittGGHKM86</cite>
+<cite label="DeWitt 2">journals/tkde/DeWittGSBHR90</cite>
+<cite label="DeWitt 3">conf/pdis/DeWittNS91</cite>
+<cite label="Englert">conf/sigmetrics/EnglertGKS90</cite>
+<cite label="Gerber">...</cite>
+<cite label="Hobbs">...</cite>
+<cite label="Horst">...</cite>
+<cite label="Jain">...</cite>
+<cite label="Kim">journals/tc/Kim86</cite>
+<cite label="Knuth">books/aw/Knuth81</cite>
+<cite label="Kronenberg">...</cite>
+<cite label="Nyberg">conf/sigmod/NybergBCGL94</cite>
+<cite label="Press">books/cu/PressTVF92</cite>
+<cite label="Ripley">...</cite>
+<cite label="Schrage">...</cite>
+<cite label="Smith">conf/iwdm/SmithABCKSY89</cite>
+<cite label="Stonebraker">journals/debu/Stonebraker86</cite>
+<cite label="Tanenbaum">...</cite>
+<cite label="Teradata">...</cite>
+<cite label="Thekkath">journals/tocs/ThekkathL93</cite>
+<cite label="TPC">...</cite>
+<cite label="Uren">...</cite>
+</inproceedings>
+</r>
+<r><book key="books/mk/GrayR93" mdate="2017-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="r/AReuter">Andreas Reuter 0001</author>
+<title>Transaction Processing: Concepts and Techniques</title>
+<publisher href="db/publishers/mkp.html">Morgan Kaufmann</publisher>
+<year>1993</year>
+<isbn>1-55860-190-2</isbn>
+<url>db/books/dbtext/Gray93.html</url>
+</book>
+</r>
+<r><inproceedings key="conf/hpts/Gray93" mdate="2019-08-07">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Why TP-Lite will Dominate the TP Market.</title>
+<year>1993</year>
+<crossref>conf/hpts/1993</crossref>
+<booktitle>HPTS</booktitle>
+<url>db/conf/hpts/hpts93.html#Gray93</url>
+</inproceedings>
+</r>
+<r><incollection key="books/mk/gray93/Gray93" mdate="2017-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Database and Transaction Processing Performance Handbook.</title>
+<year>1993</year>
+<booktitle>The Benchmark Handbook</booktitle>
+<url>db/books/collections/gray93.html#Gray93</url>
+<crossref>books/mk/Gray93</crossref>
+<cdrom>Gray/chapter1.pdf</cdrom>
+</incollection>
+</r>
+<r><book key="books/mk/Gray93" mdate="2017-11-06">
+<editor pid="g/JimGray">Jim Gray 0001</editor>
+<title>The Benchmark Handbook for Database and Transaction Systems (2nd Edition).</title>
+<publisher href="db/publishers/mkp.html">Morgan Kaufmann</publisher>
+<year>1993</year>
+<isbn>1-55860-292-5</isbn>
+<url>db/books/collections/gray93.html</url>
+</book>
+</r>
+<r><article key="journals/cacm/DeWittG92" mdate="2018-11-14">
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Parallel Database Systems: The Future of High Performance Database Systems.</title>
+<pages>85-98</pages>
+<year>1992</year>
+<volume>35</volume>
+<journal>Commun. ACM</journal>
+<number>6</number>
+<url>db/journals/cacm/cacm35.html#DeWittG92</url>
+<ee>https://doi.org/10.1145/129888.129894</ee>
+<ee>https://www.wikidata.org/entity/Q29394166</ee>
+<cdrom>CACMs1/CACM3506/P0085.pdf</cdrom>
+<cite>conf/sigmod/AlexanderC88</cite>
+<cite>conf/vldb/BittonG88</cite>
+<cite>conf/iwdm/BoralD83</cite>
+<cite>journals/tkde/BoralACCDFHSV90</cite>
+<cite>journals/cacm/Codd70</cite>
+<cite>conf/sigmod/CopelandABK88</cite>
+<cite>conf/sigmod/DeWittKOSSW84</cite>
+<cite>conf/vldb/DeWittGGHKM86</cite>
+<cite>journals/tkde/DeWittGSBHR90</cite>
+<cite>conf/sigmetrics/EnglertGKS90</cite>
+<cite>conf/icde/GhandeharizadehD90</cite>
+<cite>conf/vldb/GhandeharizadehD90</cite>
+<cite>...</cite>
+<cite>conf/sigmod/Graefe90</cite>
+<cite>conf/sigmod/GraefeW89</cite>
+<cite>...</cite>
+<cite>conf/vldb/HuaL91</cite>
+<cite>journals/ngc/KitsuregawaTM83</cite>
+<cite>conf/iwdm/KitsuregawaYF89</cite>
+<cite>conf/vldb/KitsuregawaO90</cite>
+<cite>journals/debu/LorieDHSY89</cite>
+<cite>conf/sigmod/PattersonGK88</cite>
+<cite>...</cite>
+<cite>conf/icde/SalemG86</cite>
+<cite>conf/sigmod/SchneiderD89</cite>
+<cite>conf/vldb/SchneiderD90</cite>
+<cite>conf/sigmod/SelingerACLP79</cite>
+<cite>...</cite>
+<cite>journals/debu/Stonebraker86</cite>
+<cite>conf/vldb/StonebrakerKPO88</cite>
+<cite>conf/hpts/Group87</cite>
+<cite>conf/sigmod/Group88</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/isca/ThakkarS90</cite>
+<cite>books/mk/Gray91</cite>
+<cite>conf/vldb/WaltonDJ91</cite>
+<cite>conf/dpds/WolfDY90</cite>
+<cite>conf/vldb/ZellerG90</cite>
+</article>
+</r>
+<r><article key="journals/sigops/Gray92" mdate="2020-07-14">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Increasing the Effectiveness of OS Research.</title>
+<pages>4-5</pages>
+<year>1992</year>
+<volume>26</volume>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
+<number>1</number>
+<url>db/journals/sigops/sigops26.html#Gray92</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/Gray92" mdate="2021-06-21">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Database and Transaction Processing Benchmarks.</title>
+<pages>6</pages>
+<year>1992</year>
+<crossref>conf/sigmod/92</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod92.html#Gray92</url>
+<ee>https://doi.org/10.1145/130283.130288</ee>
+<ee>https://doi.org/10.1145/141484.130288</ee>
+<cdrom>SIGMOD92/P006.PDF</cdrom>
+</inproceedings>
+</r>
+<r><article key="journals/computer/GrayS91" mdate="2020-08-12">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="50/842">Daniel P. Siewiorek</author>
+<title>High-Availability Computer Systems.</title>
+<pages>39-48</pages>
+<year>1991</year>
+<volume>24</volume>
+<journal>Computer</journal>
+<number>9</number>
+<url>db/journals/computer/computer24.html#GrayS91</url>
+<ee>https://doi.org/10.1109/2.84898</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/2.84898</ee>
+<ee>https://www.wikidata.org/entity/Q56882961</ee>
+</article>
+</r>
+<r><incollection key="books/mk/gray91/Gray91" mdate="2019-08-03">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Introduction.</title>
+<pages>1-17</pages>
+<year>1991</year>
+<crossref>books/mk/Gray91</crossref>
+<booktitle>The Benchmark Handbook</booktitle>
+<url>db/books/collections/gray91.html#Gray91</url>
+</incollection>
+</r>
+<r><book key="books/mk/Gray91" mdate="2019-08-03">
+<editor pid="g/JimGray">Jim Gray 0001</editor>
+<title>The Benchmark Handbook for Database and Transaction Systems (1st Edition).</title>
+<publisher href="db/publishers/mkp.html">Morgan Kaufmann</publisher>
+<year>1991</year>
+<crossref>books/mk/Gray91</crossref>
+<url>db/books/collections/gray91.html</url>
+</book>
+</r>
+<r><article key="journals/sigmod/StonebrakerRLGCBBB90" mdate="2020-03-06">
+<ee>https://doi.org/10.1145/101077.390001</ee>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="r/LawrenceARowe">Lawrence A. Rowe</author>
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="95/3763">Michael L. Brodie</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="39/1371">David Beech</author>
+<title>Third-Generation Database System Manifesto - The Committee for Advanced DBMS Function.</title>
+<pages>31-44</pages>
+<cdrom>sigmodR/19-3/P031.pdf</cdrom>
+<year>1990</year>
+<volume>19</volume>
+<journal>SIGMOD Rec.</journal>
+<number>3</number>
+<url>db/journals/sigmod/sigmod19.html#StonebrakerRLGCBBB90</url>
+</article>
+</r>
+<r><article key="journals/sigmod/DeWittG90" mdate="2020-03-06">
+<ee>https://doi.org/10.1145/122058.122071</ee>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Parallel Database Systems: The Future of Database Processing or a Passing Fad?</title>
+<pages>104-112</pages>
+<cdrom>sigmodR/19-4/P104.pdf</cdrom>
+<year>1990</year>
+<volume>19</volume>
+<journal>SIGMOD Rec.</journal>
+<number>4</number>
+<url>db/journals/sigmod/sigmod19.html#DeWittG90</url>
+</article>
+</r>
+<r><inproceedings key="conf/ds/StonebrakerRLGCBBB90" mdate="2017-11-07">
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="r/LawrenceARowe">Lawrence A. Rowe</author>
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="95/3763">Michael L. Brodie</author>
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="39/1371">David Beech</author>
+<title>Third-Generation Database System Manifesto - The Committee for Advanced DBMS Function.</title>
+<pages>495-511</pages>
+<year>1990</year>
+<crossref>conf/ds/90</crossref>
+<booktitle>DS-4</booktitle>
+<url>db/conf/ds/ds90.html#StonebrakerRLGCBBB90</url>
+<note>published simultaneously in SIGMOD Record 19(3): 31-44 (September 1990)</note>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmetrics/EnglertGKS90" mdate="2021-07-30">
+<author pid="58/5099">Susanne Englert</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="49/1796">Terrye Kocher</author>
+<author pid="92/3558">Praful Shah</author>
+<title>A Benchmark of NonStop SQL Release 2 Demonstrating Near-Linear Speedup and Scaleup on Large Databases.</title>
+<pages>245-246</pages>
+<year>1990</year>
+<crossref>conf/sigmetrics/1990</crossref>
+<booktitle>SIGMETRICS</booktitle>
+<url>db/conf/sigmetrics/sigmetrics90.html#EnglertGKS90</url>
+<ee>https://doi.org/10.1145/98457.98766</ee>
+<ee>https://doi.org/10.1145/98460.98766</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/SalzbergTGSUV90" mdate="2021-06-21">
+<author pid="s/BettySalzberg">Betty Salzberg</author>
+<author pid="83/3231">Alex Tsukerman</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="84/2846-2">Michael Stewart 0002</author>
+<author pid="55/4049">Susan Uren</author>
+<author pid="16/5825">Bonnie Vaughan</author>
+<title>FastSort: A Distributed Single-Input Single-Output External Sort.</title>
+<pages>94-101</pages>
+<year>1990</year>
+<crossref>conf/sigmod/90</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod90.html#SalzbergTGSUV90</url>
+<ee>https://doi.org/10.1145/93597.98719</ee>
+<ee>https://doi.org/10.1145/93605.98719</ee>
+<cdrom>SIGMOD90/P094.PDF</cdrom>
+<cite label="Anon">...</cite>
+<cite label="Beck">journals/tc/BeckBW88</cite>
+<cite label="DeWitt">conf/vldb/DeWittGGHKM86</cite>
+<cite label="Graefe">...</cite>
+<cite label="Knuth">books/aw/Knuth73</cite>
+<cite label="Lorie">conf/vldb/LorieY89</cite>
+<cite label="Salzberg 88">books/ph/Salzberg88</cite>
+<cite label="Salzberg 89">journals/acta/Salzberg89</cite>
+<cite label="Tsukerman">...</cite>
+<cite label="Uren">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/StonebrakerRLGCB90" mdate="2021-06-21">
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<author pid="r/LawrenceARowe">Lawrence A. Rowe</author>
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="31/3455">Michael J. Carey 0001</author>
+<author pid="39/1371">David Beech</author>
+<title>&#34;The Committee for Advanced DBMS Function&#34;: Third Generation Data Base System Manifesto.</title>
+<pages>396</pages>
+<year>1990</year>
+<crossref>conf/sigmod/90</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod90.html#StonebrakerRLGCB90</url>
+<cdrom>SIGMOD90/P396.PDF</cdrom>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/GrayHW90" mdate="2017-11-06">
+<crossref>conf/vldb/90</crossref>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="76/1617">Bob Horst</author>
+<author pid="36/6607">Mark Walker</author>
+<title>Parity Striping of Disk Arrays: Low-Cost Reliable Storage with Acceptable Throughput.</title>
+<pages>148-161</pages>
+<year>1990</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb90.html#GrayHW90</url>
+<ee>http://www.vldb.org/conf/1990/P148.PDF</ee>
+<cite label="AS400">...</cite>
+<cite label="Chen">...</cite>
+<cite label="Gelb">journals/ibmsj/Gelb89</cite>
+<cite label="Hardy">...</cite>
+<cite label="Patterson">conf/sigmod/PattersonGK88</cite>
+<cite label="Bitton1">conf/vldb/BittonG88</cite>
+<cite label="Bitton2">conf/compcon/Bitton89</cite>
+<cite label="Chan">...</cite>
+<cite label="Katzman">...</cite>
+<cite label="Kim">journals/tc/Kim86</cite>
+<cite label="Schneider">conf/sigmod/SchneiderD89</cite>
+<cite label="Schulze">conf/compcon/SchulzeKP89</cite>
+<cite label="Scranton">...</cite>
+<cite label="Wilhelm">journals/jacm/Wilhelm77</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/ZellerG90" mdate="2017-11-06">
+<crossref>conf/vldb/90</crossref>
+<author pid="09/6853">Hansj&#246;rg Zeller</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>An Adaptive Hash Join Algorithm for Multiuser Environments.</title>
+<pages>186-197</pages>
+<year>1990</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb90.html#ZellerG90</url>
+<ee>http://www.vldb.org/conf/1990/P186.PDF</ee>
+<cite label="Brat84">conf/vldb/Bratbergsengen84</cite>
+<cite label="Bitt83">conf/vldb/BittonDT83</cite>
+<cite label="DeWi84">conf/sigmod/DeWittKOSSW84</cite>
+<cite label="DeWi85">conf/vldb/DeWittG85</cite>
+<cite label="Dupp88">...</cite>
+<cite label="Gerb86">...</cite>
+<cite label="Kits83">journals/ngc/KitsuregawaTM83</cite>
+<cite label="Naka88">conf/vldb/NakayamaK88</cite>
+<cite label="Pong88">...</cite>
+<cite label="Schn89">conf/sigmod/SchneiderD89</cite>
+<cite label="Shap86">journals/tods/Shapiro86</cite>
+<cite label="Ston89">...</cite>
+<cite label="Tand87">conf/hpts/Group87</cite>
+<cite label="Vald84">journals/tods/ValduriezG84</cite>
+<cite label="Zell89">conf/btw/Zeller89</cite>
+</inproceedings>
+</r>
+<r><article key="journals/sigmod/BernsteinDDGGJLLMNRRSSSS89" mdate="2022-07-12">
+<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+<author pid="76/2198">Umeshwar Dayal</author>
+<author pid="d/DJDeWitt">David J. DeWitt</author>
+<author pid="03/2725">Dieter Gawlick</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="j/MatthiasJarke">Matthias Jarke</author>
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<author pid="l/PCLockemann">Peter C. Lockemann</author>
+<author pid="m/DavidMaier">David Maier 0001</author>
+<author pid="n/ErichJNeuhold">Erich J. Neuhold</author>
+<author pid="r/AReuter">Andreas Reuter 0001</author>
+<author pid="r/LawrenceARowe">Lawrence A. Rowe</author>
+<author pid="s/HansJorgSchek">Hans-J&#246;rg Schek</author>
+<author pid="s/JoachimWSchmidt">Joachim W. Schmidt</author>
+<author pid="s/MichaelSchrefl">Michael Schrefl</author>
+<author pid="s/MichaelStonebraker">Michael Stonebraker</author>
+<title>Future Directions in DBMS Research - The Laguna Beach Participants.</title>
+<pages>17-26</pages>
+<cdrom>sigmodR/18-1/P017.pdf</cdrom>
+<year>1989</year>
+<volume>18</volume>
+<journal>SIGMOD Rec.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1145/382272.1367994</ee>
+<url>db/journals/sigmod/sigmod18.html#BernsteinDDGGJLLMNRRSSSS89</url>
+</article>
+</r>
+<r><inproceedings key="conf/sigmod/Gray89" mdate="2017-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Database Performance Metrics.</title>
+<pages>2</pages>
+<year>1989</year>
+<crossref>conf/sigmod/89</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod89.html#Gray89</url>
+<cdrom>SIGMOD89/P002.PDF</cdrom>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/podc/Gray88" mdate="2018-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>The Cost of Messages.</title>
+<pages>1-7</pages>
+<year>1988</year>
+<crossref>conf/podc/1988</crossref>
+<booktitle>PODC</booktitle>
+<url>db/conf/podc/podc88.html#Gray88</url>
+<ee>https://doi.org/10.1145/62546.62547</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/BittonG88" mdate="2017-11-06">
+<crossref>conf/vldb/88</crossref>
+<author pid="03/2311">Dina Bitton</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Disk Shadowing.</title>
+<pages>331-338</pages>
+<year>1988</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb88.html#BittonG88</url>
+<ee>http://www.vldb.org/conf/1988/P331.PDF</ee>
+<cite label="BT85">...</cite>
+<cite label="Ki85">journals/tc/Kim86</cite>
+<cite label="MGB74">...</cite>
+<cite label="PGK87">conf/sigmod/PattersonGK88</cite>
+<cite label="SG86">conf/icde/SalemG86</cite>
+<cite label="STH83">...</cite>
+<cite label="TP72">journals/cacm/TeoreyP72</cite>
+<cite label="Sit86">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmetrics/Gray87" mdate="2021-07-30">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>A View of Database System Performance Measures.</title>
+<pages>3-4</pages>
+<year>1987</year>
+<crossref>conf/sigmetrics/1987</crossref>
+<booktitle>SIGMETRICS</booktitle>
+<url>db/conf/sigmetrics/sigmetrics87.html#Gray87</url>
+<ee>https://doi.org/10.1145/29903.29905</ee>
+<ee>https://doi.org/10.1145/29904.29905</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Gray87" mdate="2017-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Operating System Support for Data Management Systems.</title>
+<pages>4</pages>
+<year>1987</year>
+<crossref>conf/sigmod/87</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod87.html#Gray87</url>
+<cdrom>SIGMOD87/P004.PDF</cdrom>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/GrayP87" mdate="2021-06-21">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="74/6386">Gianfranco R. Putzolu</author>
+<title>The 5 Minute Rule for Trading Memory for Disk Accesses and The 10 Byte Rule for Trading Memory for CPU Time.</title>
+<pages>395-398</pages>
+<year>1987</year>
+<crossref>conf/sigmod/87</crossref>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod87.html#GrayP87</url>
+<cdrom>SIGMOD87/P395.PDF</cdrom>
+<ee>https://doi.org/10.1145/38713.38755</ee>
+<ee>https://doi.org/10.1145/38714.38755</ee>
+<cite label="Carr">...</cite>
+<cite label="Fromm &#38; Hoelsken">...</cite>
+<cite label="Tandem">...</cite>
+</inproceedings>
+</r>
+<r><article key="journals/tse/Gray86" mdate="2017-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>An Approach to Decentralized Computer Systems.</title>
+<pages>684-692</pages>
+<year>1986</year>
+<volume>12</volume>
+<journal>IEEE Trans. Software Eng.</journal>
+<number>6</number>
+<url>db/journals/tse/tse12.html#Gray86</url>
+<ee>https://doi.org/10.1109/TSE.1986.6312966</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TSE.1986.6312966</ee>
+</article>
+</r>
+<r><inproceedings key="conf/ftdc/Gray86" mdate="2017-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>A Comparison of the Byzantine Agreement Problem and the Transaction Commit Problem.</title>
+<pages>10-17</pages>
+<year>1986</year>
+<crossref>conf/ftdc/1986</crossref>
+<booktitle>Fault-Tolerant Distributed Computing</booktitle>
+<url>db/conf/ftdc/ftdc1986.html#Gray86</url>
+<ee>https://doi.org/10.1007/BFb0042322</ee>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/srds/Gray86" mdate="2017-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Why Do Computers Stop and What Can Be Done About It?</title>
+<pages>3-12</pages>
+<year>1986</year>
+<crossref>conf/srds/1986</crossref>
+<booktitle>Symposium on Reliability in Distributed Software and Database Systems</booktitle>
+<url>db/conf/srds/srds86.html#Gray86</url>
+</inproceedings>
+</r>
+<r><article key="journals/debu/ChouG85" mdate="2020-03-10">
+<author pid="14/5340">Timothy C. K. Chou</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Transaction Acceleration.</title>
+<pages>40-52</pages>
+<year>1985</year>
+<ee type="oa">http://sites.computer.org/debull/85MAR-CD.pdf</ee>
+<volume>8</volume>
+<journal>IEEE Database Eng. Bull.</journal>
+<number>1</number>
+<url>db/journals/debu/debu8.html#ChouG85</url>
+</article>
+</r>
+<r><inproceedings key="conf/bueroautomation/Gray85" mdate="2017-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Why do Computer Stop and What Can be About it?</title>
+<pages>128-145</pages>
+<year>1985</year>
+<crossref>conf/bueroautomation/1985</crossref>
+<booktitle>B&#252;roautomation</booktitle>
+<url>db/conf/bueroautomation/bueroautomation1985.html#Gray85</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/compcon/GrayHSGG85" mdate="2017-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="59/6519">Pete Homan</author>
+<author pid="36/6261">Harald Sammer</author>
+<author pid="24/5994">Bob Good</author>
+<author pid="03/2725">Dieter Gawlick</author>
+<title>One Thousand Transactions per Second.</title>
+<pages>96-101</pages>
+<year>1985</year>
+<crossref>conf/compcon/1985</crossref>
+<booktitle>COMPCON</booktitle>
+<url>db/conf/compcon/compcon1985.html#GrayHSGG85</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/hpts/Gray85" mdate="2019-08-07">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Fault Tolerance in Tandem Systems.</title>
+<year>1985</year>
+<crossref>conf/hpts/1985</crossref>
+<booktitle>HPTS</booktitle>
+<url>db/conf/hpts/hpts85.html#Gray85</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/sigmod/Gray83" mdate="2018-11-06">
+<crossref>conf/sigmod/83</crossref>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Practical Problems in Data Management - A Position Paper.</title>
+<pages>3</pages>
+<year>1983</year>
+<booktitle>SIGMOD Conference</booktitle>
+<url>db/conf/sigmod/sigmod83.html#Gray83</url>
+<cdrom>SIGMOD83/P003.PDF</cdrom>
+<ee>https://doi.org/10.1145/582192.582196</ee>
+</inproceedings>
+</r>
+<r><article key="journals/tods/TraigerGGL82" mdate="2018-11-06">
+<author pid="17/2969">Irving L. Traiger</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="39/4111">Cesare A. Galtieri</author>
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<title>Transactions and Consistency in Distributed Database Systems.</title>
+<pages>323-342</pages>
+<cdrom>TODS7/P323.PDF</cdrom>
+<year>1982</year>
+<volume>7</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>3</number>
+<url>db/journals/tods/tods7.html#TraigerGGL82</url>
+<ee>https://doi.org/10.1145/319732.319734</ee>
+<cite>journals/tods/RothnieBFGHLRSW80</cite>
+<cite>...</cite>
+<cite>journals/cacm/EswarranGLT76</cite>
+<cite>conf/sosp/Gifford79</cite>
+<cite>conf/ac/Gray78</cite>
+<cite>...</cite>
+<cite>journals/cacm/Lamport78</cite>
+<cite>...</cite>
+<cite>journals/tods/RosenkrantzSL78</cite>
+<cite>conf/focs/StearnsLR76</cite>
+<cite>journals/tse/Stonebraker79</cite>
+<cite>conf/vldb/Borr81</cite>
+</article>
+</r>
+<r><article key="journals/cacm/ChamberlinABGKLLMPPSSSTWY81" mdate="2018-11-14">
+<author pid="c/DDChamberlin">Donald D. Chamberlin</author>
+<author pid="33/2015">Morton M. Astrahan</author>
+<author pid="77/481">Mike W. Blasgen</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="88/4057">W. Frank King III</author>
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<author pid="67/3397">Raymond A. Lorie</author>
+<author pid="72/5053">James W. Mehl</author>
+<author pid="35/5645">Thomas G. Price</author>
+<author pid="74/6386">Gianfranco R. Putzolu</author>
+<author pid="48/1954">Patricia G. Selinger</author>
+<author pid="96/5511">Mario Schkolnick</author>
+<author pid="33/6589">Donald R. Slutz</author>
+<author pid="17/2969">Irving L. Traiger</author>
+<author pid="59/3575">Bradford W. Wade</author>
+<author pid="72/1678">Robert A. Yost</author>
+<title>A History and Evaluation of System R.</title>
+<pages>632-646</pages>
+<year>1981</year>
+<volume>24</volume>
+<journal>Commun. ACM</journal>
+<number>10</number>
+<url>db/journals/cacm/cacm24.html#ChamberlinABGKLLMPPSSSTWY81</url>
+<ee>https://doi.org/10.1145/358769.358784</ee>
+<ee>https://www.wikidata.org/entity/Q56135756</ee>
+<cdrom>CACMs1/CACM24/P632.pdf</cdrom>
+</article>
+</r>
+<r><article key="journals/csur/GrayMBLLPPT81" mdate="2018-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="m/PaulRMcJones">Paul R. McJones</author>
+<author pid="77/481">Mike W. Blasgen</author>
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<author pid="67/3397">Raymond A. Lorie</author>
+<author pid="35/5645">Thomas G. Price</author>
+<author pid="74/6386">Gianfranco R. Putzolu</author>
+<author pid="17/2969">Irving L. Traiger</author>
+<title>The Recovery Manager of the System R Database Manager.</title>
+<pages>223-243</pages>
+<year>1981</year>
+<volume>13</volume>
+<journal>ACM Comput. Surv.</journal>
+<number>2</number>
+<url>db/journals/csur/csur13.html#GrayMBLLPPT81</url>
+<ee>https://doi.org/10.1145/356842.356847</ee>
+<cdrom>CSURs1/csur13/P223.pdf</cdrom>
+<cite label="Astr76">journals/tods/AstrahanBCEGGKLMMPTWW76</cite>
+<cite label="Bjor73">...</cite>
+<cite label="Blas79">journals/sigops/BlasgenGMP79</cite>
+<cite label="Cham76">journals/ibmrd/ChamberlinAEGLMRW76</cite>
+<cite label="Davi73">...</cite>
+<cite label="Eswa76">journals/cacm/EswarranGLT76</cite>
+<cite label="Gray75">...</cite>
+<cite label="Gray76">conf/ds/GrayLPT76</cite>
+<cite label="Gray78">conf/ac/Gray78</cite>
+<cite label="IBMa">...</cite>
+<cite label="IBMb">...</cite>
+<cite label="Lamp81">...</cite>
+<cite label="Lori77">journals/tods/Lorie77</cite>
+<cite label="Mari75">...</cite>
+<cite label="Naum78">conf/ds/Nauman79</cite>
+<cite label="Teit72">...</cite>
+</article>
+</r>
+<r><article key="journals/ibmsj/BlasgenACGKLLMPPSSSSTWY81" mdate="2020-03-13">
+<author pid="77/481">Mike W. Blasgen</author>
+<author pid="33/2015">Morton M. Astrahan</author>
+<author pid="c/DDChamberlin">Donald D. Chamberlin</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="88/4057">W. Frank King III</author>
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<author pid="67/3397">Raymond A. Lorie</author>
+<author pid="72/5053">James W. Mehl</author>
+<author pid="35/5645">Thomas G. Price</author>
+<author pid="74/6386">Gianfranco R. Putzolu</author>
+<author pid="96/5511">Mario Schkolnick</author>
+<author pid="48/1954">Patricia G. Selinger</author>
+<author pid="33/6589">Donald R. Slutz</author>
+<author pid="08/5863">H. Raymond Strong</author>
+<author pid="17/2969">Irving L. Traiger</author>
+<author pid="59/3575">Bradford W. Wade</author>
+<author pid="72/1678">Robert A. Yost</author>
+<title>System R: An Architectural Overview.</title>
+<pages>41-62</pages>
+<year>1981</year>
+<volume>20</volume>
+<journal>IBM Syst. J.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1147/sj.201.0041</ee>
+<url>db/journals/ibmsj/ibmsj20.html#BlasgenACGKLLMPPSSSSTWY81</url>
+<cdrom>ibmsj/20/P041.pdf</cdrom>
+</article>
+</r>
+<r><inproceedings key="conf/berkeley/GrayHKO81" mdate="2019-08-03">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="59/6519">Pete Homan</author>
+<author pid="k/HenryFKorth">Henry F. Korth</author>
+<author pid="53/6002">Ron Obermarck</author>
+<title>A Straw Man Analysis of the Probability of Waiting and Deadlock in a Database System.</title>
+<pages>125</pages>
+<year>1981</year>
+<crossref>conf/berkeley/1981</crossref>
+<booktitle>Berkeley Workshop</booktitle>
+<url>db/conf/berkeley/berkeley81.html#GrayHKO81</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nato/Gray81" mdate="2017-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>An Approach to End-Users Application Design.</title>
+<pages>89-105</pages>
+<year>1981</year>
+<booktitle>NATO ASI DBM</booktitle>
+<ee>https://doi.org/10.1007/978-94-009-7029-8_5</ee>
+<crossref>conf/nato/1981</crossref>
+<url>db/conf/nato/dbm1981.html#Gray81</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/Gray81" mdate="2017-11-06">
+<crossref>conf/vldb/81</crossref>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>The Transaction Concept: Virtues and Limitations (Invited Paper)</title>
+<cdrom>VLDB81/P144.PDF</cdrom>
+<pages>144-154</pages>
+<year>1981</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb81.html#Gray81</url>
+<cite label="Alsberg">conf/icse/AlsbergD76</cite>
+<cite label="Bartlett1">...</cite>
+<cite label="Bartlett2">conf/sosp/Bartlett81</cite>
+<cite label="Beeri">conf/vldb/BeeriO81</cite>
+<cite label="Bernstein">journals/tods/BernsteinSR80</cite>
+<cite label="Borr">conf/vldb/Borr81</cite>
+<cite label="Davies and Bjork">...</cite>
+<cite label="Bjork">...</cite>
+<cite label="Eswaran">journals/cacm/EswarranGLT76</cite>
+<cite label="Gray1">conf/ac/Gray78</cite>
+<cite label="Gray2">conf/icalp/Gray80</cite>
+<cite label="Gray3">conf/berkeley/GrayHKO81</cite>
+<cite label="Heistand">...</cite>
+<cite label="Japan">...</cite>
+<cite label="Katzman">...</cite>
+<cite label="Obermarck">...</cite>
+<cite label="Randell">journals/tse/Randell75</cite>
+<cite label="Reed1">...</cite>
+<cite label="Reed2">conf/sosp/Reed79</cite>
+<cite label="Rosenkrantz">journals/tods/RosenkrantzSL78</cite>
+<cite label="Severance">journals/tods/SeveranceL76</cite>
+<cite label="Svobodova">...</cite>
+<cite label="Von Neumann ">...</cite>
+<cite label="Wood">...</cite>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icalp/Gray80" mdate="2017-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>A Transaction Model.</title>
+<pages>282-298</pages>
+<year>1980</year>
+<crossref>conf/icalp/1980</crossref>
+<booktitle>ICALP</booktitle>
+<url>db/conf/icalp/icalp80.html#Gray80</url>
+<ee>https://doi.org/10.1007/3-540-10003-2_78</ee>
+</inproceedings>
+</r>
+<r><article key="journals/computer/AstrahanBCGKLLMPPSSSSTTWY79" mdate="2020-08-12">
+<author pid="33/2015">Morton M. Astrahan</author>
+<author pid="77/481">Mike W. Blasgen</author>
+<author pid="c/DDChamberlin">Donald D. Chamberlin</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="88/4057">W. Frank King III</author>
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<author pid="67/3397">Raymond A. Lorie</author>
+<author pid="72/5053">James W. Mehl</author>
+<author pid="35/5645">Thomas G. Price</author>
+<author pid="74/6386">Gianfranco R. Putzolu</author>
+<author pid="96/5511">Mario Schkolnick</author>
+<author pid="48/1954">Patricia G. Selinger</author>
+<author pid="33/6589">Donald R. Slutz</author>
+<author pid="08/5863">H. Raymond Strong</author>
+<author pid="t/PaoloTiberio">Paolo Tiberio</author>
+<author pid="17/2969">Irving L. Traiger</author>
+<author pid="59/3575">Bradford W. Wade</author>
+<author pid="72/1678">Robert A. Yost</author>
+<title>System R: A Relational Data Base Management System.</title>
+<pages>42-48</pages>
+<year>1979</year>
+<volume>12</volume>
+<journal>Computer</journal>
+<number>5</number>
+<url>db/journals/computer/computer12.html#AstrahanBCGKLLMPPSSSSTTWY79</url>
+<ee>https://doi.org/10.1109/MC.1979.1658743</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/MC.1979.1658743</ee>
+<cdrom>computer/12-5/P042.pdf</cdrom>
+</article>
+</r>
+<r><article key="journals/sigops/BlasgenGMP79" mdate="2020-07-14">
+<author pid="77/481">Mike W. Blasgen</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="25/5361">Michael F. Mitoma</author>
+<author pid="35/5645">Thomas G. Price</author>
+<title>The Convoy Phenomenon.</title>
+<pages>20-25</pages>
+<year>1979</year>
+<volume>13</volume>
+<journal>ACM SIGOPS Oper. Syst. Rev.</journal>
+<number>2</number>
+<url>db/journals/sigops/sigops13.html#BlasgenGMP79</url>
+<ee>https://doi.org/10.1145/850657.850659</ee>
+<cdrom>sigops/13-2/P020.pdf</cdrom>
+</article>
+</r>
+<r><article publtype="informal" key="tr/ibm/RJ2555" mdate="2020-02-21">
+<author pid="17/2969">Irving L. Traiger</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="39/4111">Cesare A. Galtieri</author>
+<author pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</author>
+<title>Transactions and Consistency in Distributed Database Systems.</title>
+<journal>Research Report / RJ / IBM / San Jose, California</journal>
+<volume>RJ2555</volume>
+<month>June</month>
+<year>1979</year>
+<note>republished on &#34;ACM SIGMOD Anthology&#34;</note>
+</article>
+</r>
+<r><inproceedings key="conf/ac/Gray78" mdate="2017-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<title>Notes on Data Base Operating Systems.</title>
+<pages>393-481</pages>
+<cdrom>GrayOS/Gray_DBOS.pdf</cdrom>
+<year>1978</year>
+<crossref>conf/ac/1978os</crossref>
+<booktitle>Advanced Course: Operating Systems</booktitle>
+<url>db/conf/ac/os.html#Gray78</url>
+<ee>https://doi.org/10.1007/3-540-08755-9_9</ee>
+</inproceedings>
+</r>
+<r><proceedings key="conf/ac/1978os" mdate="2019-05-14">
+<editor pid="f/MichaelJFlynn">Michael J. Flynn</editor>
+<editor pid="g/JimGray">Jim Gray 0001</editor>
+<editor pid="01/5537">Anita K. Jones</editor>
+<editor pid="16/3571">Klaus Lagally</editor>
+<editor pid="42/4231">Holger Opderbeck</editor>
+<editor pid="62/6214">Gerald J. Popek</editor>
+<editor pid="r/BrianRandell">Brian Randell</editor>
+<editor pid="s/JeromeHSaltzer">Jerome H. Saltzer</editor>
+<editor pid="44/2083">Hans-R&#252;diger Wiehle</editor>
+<title>Operating Systems, An Advanced Course</title>
+<booktitle>Advanced Course: Operating Systems</booktitle>
+<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+<volume>60</volume>
+<publisher>Springer</publisher>
+<year>1978</year>
+<isbn>3-540-08755-9</isbn>
+<ee>https://doi.org/10.1007/3-540-08755-9</ee>
+<url>db/conf/ac/os.html</url>
+</proceedings>
+</r>
+<r><article key="journals/cacm/EswarranGLT76" mdate="2018-11-14">
+<author pid="95/4104">Kapali P. Eswaran</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="67/3397">Raymond A. Lorie</author>
+<author pid="17/2969">Irving L. Traiger</author>
+<title>The Notions of Consistency and Predicate Locks in a Database System.</title>
+<pages>624-633</pages>
+<year>1976</year>
+<volume>19</volume>
+<journal>Commun. ACM</journal>
+<number>11</number>
+<url>db/journals/cacm/cacm19.html#EswarranGLT76</url>
+<cdrom>CACMs1/CACM19/P624.pdf</cdrom>
+<ee>https://doi.org/10.1145/360363.360369</ee>
+<ee>https://www.wikidata.org/entity/Q56224673</ee>
+</article>
+</r>
+<r><article key="journals/tods/AstrahanBCEGGKLMMPTWW76" mdate="2018-11-06">
+<author pid="33/2015">Morton M. Astrahan</author>
+<author pid="77/481">Mike W. Blasgen</author>
+<author pid="c/DDChamberlin">Donald D. Chamberlin</author>
+<author pid="95/4104">Kapali P. Eswaran</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="43/2549">Patricia P. Griffiths</author>
+<author pid="88/4057">W. Frank King III</author>
+<author pid="67/3397">Raymond A. Lorie</author>
+<author pid="m/PaulRMcJones">Paul R. McJones</author>
+<author pid="72/5053">James W. Mehl</author>
+<author pid="74/6386">Gianfranco R. Putzolu</author>
+<author pid="17/2969">Irving L. Traiger</author>
+<author pid="59/3575">Bradford W. Wade</author>
+<author pid="28/4312">Vera Watson</author>
+<title>System R: Relational Approach to Database Management.</title>
+<pages>97-137</pages>
+<year>1976</year>
+<volume>1</volume>
+<journal>ACM Trans. Database Syst.</journal>
+<number>2</number>
+<url>db/journals/tods/tods1.html#AstrahanBCEGGKLMMPTWW76</url>
+<cdrom>TODS1/P097.PDF</cdrom>
+<ee>https://doi.org/10.1145/320455.320457</ee>
+<cite>journals/cacm/AstrahanC75</cite>
+<cite>conf/pacific/AstrahanL75</cite>
+<cite>journals/acta/BayerM72</cite>
+<cite>...</cite>
+<cite>conf/sigmod/ChamberlinB74</cite>
+<cite>...</cite>
+<cite>journals/cacm/Codd70</cite>
+<cite>persons/Codd72</cite>
+<cite>conf/vldb/DonovanFGG75</cite>
+<cite>conf/vldb/EswaranC75</cite>
+<cite>...</cite>
+<cite>conf/sigmod/GoldsteinS70</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>conf/sigmod/GriffithsW76</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>...</cite>
+<cite>journals/tse/Reisner77</cite>
+<cite>...</cite>
+<cite>conf/vldb/SchmidB75</cite>
+<cite>journals/cacm/SmithC75</cite>
+<cite>conf/sigmod/Stonebraker75</cite>
+<cite>conf/vldb/Todd75</cite>
+<cite>...</cite>
+<cite>...</cite>
+</article>
+</r>
+<r><inproceedings key="conf/ds/GrayLPT76" mdate="2017-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="67/3397">Raymond A. Lorie</author>
+<author pid="74/6386">Gianfranco R. Putzolu</author>
+<author pid="17/2969">Irving L. Traiger</author>
+<title>Granularity of Locks and Degrees of Consistency in a Shared Data Base.</title>
+<pages>365-394</pages>
+<year>1976</year>
+<crossref>conf/ds/76</crossref>
+<booktitle>IFIP Working Conference on Modelling in Data Base Management Systems</booktitle>
+<url>db/conf/ds/modelling76.html#GrayLPT76</url>
+<cdrom>DS/DS1976/p365.pdf</cdrom>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/afips/ChamberlinGT75" mdate="2018-11-06">
+<author pid="c/DDChamberlin">Donald D. Chamberlin</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="17/2969">Irving L. Traiger</author>
+<title>Views, Authorization, and Locking in a Relational Data Base System.</title>
+<pages>425-430</pages>
+<year>1975</year>
+<booktitle>AFIPS National Computer Conference</booktitle>
+<ee>https://doi.org/10.1145/1499949.1500032</ee>
+<crossref>conf/afips/1975</crossref>
+<url>db/conf/afips/ncc75.html#ChamberlinGT75</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vldb/GrayLPT75" mdate="2018-11-06">
+<crossref>conf/vldb/75</crossref>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="67/3397">Raymond A. Lorie</author>
+<author pid="74/6386">Gianfranco R. Putzolu</author>
+<author pid="17/2969">Irving L. Traiger</author>
+<title>Granularity of Locks in a Large Shared Data Base.</title>
+<pages>428-451</pages>
+<year>1975</year>
+<booktitle>VLDB</booktitle>
+<url>db/conf/vldb/vldb75.html#GrayLPT75</url>
+<cdrom>VLDB75/P428.PDF</cdrom>
+<cite>journals/cacm/EswarranGLT76</cite>
+<cite>...</cite>
+<cite>...</cite>
+<ee>https://doi.org/10.1145/1282480.1282513</ee>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="tr/ibm/RJ1579" mdate="2020-02-21">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="28/4312">Vera Watson</author>
+<title>A Shared Segment and Interprocess Communication Facility for VM/370</title>
+<journal>Research Report / RJ / IBM / San Jose, California</journal>
+<volume>RJ1579</volume>
+<month>May</month>
+<year>1975</year>
+<note>republished on &#34;ACM SIGMOD Anthology&#34;</note>
+</article>
+</r>
+<r><article key="journals/jacm/GrayH73" mdate="2018-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="h/MichaelAHarrison">Michael A. Harrison</author>
+<title>Canonical Precedence Schemes.</title>
+<pages>214-234</pages>
+<year>1973</year>
+<volume>20</volume>
+<journal>J. ACM</journal>
+<number>2</number>
+<ee>https://doi.org/10.1145/321752.321755</ee>
+<url>db/journals/jacm/jacm20.html#GrayH73</url>
+</article>
+</r>
+<r><article key="journals/jacm/GrayH72" mdate="2018-11-06">
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="h/MichaelAHarrison">Michael A. Harrison</author>
+<title>On the Covering and Reduction Problems for Context-Free Grammars.</title>
+<pages>675-698</pages>
+<year>1972</year>
+<volume>19</volume>
+<journal>J. ACM</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/321724.321732</ee>
+<url>db/journals/jacm/jacm19.html#GrayH72</url>
+</article>
+</r>
+<r><inproceedings key="conf/focs/GrayH69" mdate="2021-12-15">
+<title>Single Pass Precedence Analysis (Extended Abstract)</title>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="h/MichaelAHarrison">Michael A. Harrison</author>
+<pages>106-117</pages>
+<crossref>conf/focs/FOCS10</crossref>
+<year>1969</year>
+<booktitle>SWAT</booktitle>
+<url>db/conf/focs/focs69.html#GrayH69</url>
+<ee>https://doi.org/10.1109/SWAT.1969.20</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/SWAT.1969.20</ee>
+</inproceedings>
+</r>
+<r><article key="journals/jcss/GallaireGHH68" mdate="2021-02-16">
+<author pid="38/1430">Herv&#233; Gallaire</author>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="h/MichaelAHarrison">Michael A. Harrison</author>
+<author pid="h/GaborTHerman">Gabor T. Herman</author>
+<title>Infinite Linear Sequential Machines.</title>
+<pages>381-419</pages>
+<year>1968</year>
+<volume>2</volume>
+<journal>J. Comput. Syst. Sci.</journal>
+<number>4</number>
+<url>db/journals/jcss/jcss2.html#GallaireGHH68</url>
+<ee type="oa">https://doi.org/10.1016/S0022-0000(68)80035-2</ee>
+</article>
+</r>
+<r><article key="journals/iandc/GrayHI67" mdate="2021-02-12">
+<title>Two-Way Pushdown Automata</title>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="h/MichaelAHarrison">Michael A. Harrison</author>
+<author pid="i/OscarHIbarra">Oscar H. Ibarra</author>
+<pages>30-70</pages>
+<journal>Inf. Control.</journal>
+<month>July-August</month>
+<year>1967</year>
+<volume>11</volume>
+<number>1/2</number>
+<url>db/journals/iandc/iandc11.html#GrayHI67</url>
+<ee type="oa">https://doi.org/10.1016/S0019-9958(67)90369-5</ee>
+<ee>https://www.wikidata.org/entity/Q29039863</ee>
+</article>
+</r>
+<r><article key="journals/iandc/GrayH66" mdate="2021-02-12">
+<title>The Theory of Sequential Relations</title>
+<author pid="g/JimGray">Jim Gray 0001</author>
+<author pid="h/MichaelAHarrison">Michael A. Harrison</author>
+<pages>435-468</pages>
+<journal>Inf. Control.</journal>
+<month>October</month>
+<year>1966</year>
+<volume>9</volume>
+<number>5</number>
+<url>db/journals/iandc/iandc9.html#GrayH66</url>
+<ee type="oa">https://doi.org/10.1016/S0019-9958(66)80011-6</ee>
+</article>
+</r>
+<coauthors n="217" nc="4">
+<co c="0"><na f="a/Abdulla:Ghaleb" pid="11/3661">Ghaleb Abdulla</na></co>
+<co c="0"><na f="a/Abiteboul:Serge" pid="a/SergeAbiteboul">Serge Abiteboul</na></co>
+<co c="0"><na f="a/Agrawal_0001:Rakesh" pid="a/RAgrawal">Rakesh Agrawal 0001</na></co>
+<co c="0"><na f="a/Annis:James" pid="99/2261">James Annis</na></co>
+<co c="0"><na f="a/Astrahan:Morton_M=" pid="33/2015">Morton M. Astrahan</na></co>
+<co c="0"><na f="b/Baclawski:Kenneth" pid="b/KBaclawski">Kenneth Baclawski</na></co>
+<co c="0"><na f="b/Balazinska:Magdalena" pid="b/MagdalenaBalazinska">Magdalena Balazinska</na></co>
+<co c="0"><na f="b/Barclay:Tom" pid="b/TomBarclay">Tom Barclay</na></co>
+<co c="0"><na f="b/Barnes:Robert" pid="31/5435">Robert Barnes</na></co>
+<co c="0"><na f="b/Barrera:Joe" pid="10/2017">Joe Barrera</na></co>
+<co c="0"><na f="b/Becla:Jacek" pid="60/1926">Jacek Becla</na></co>
+<co c="0"><na f="b/Beech:David" pid="39/1371">David Beech</na></co>
+<co c="0"><na f="b/Bell:Gordon" pid="b/GBell">Gordon Bell</na></co>
+<co c="0"><na f="b/Berenson:Hal" pid="24/3500">Hal Berenson</na></co>
+<co c="0"><na f="b/Bernstein:Philip_A=" pid="b/PhilipABernstein">Philip A. Bernstein</na></co>
+<co c="0"><na f="b/Birman:Kenneth_P=" pid="b/KPBirman">Kenneth P. Birman</na></co>
+<co c="0"><na f="b/Bitton:Dina" pid="03/2311">Dina Bitton</na></co>
+<co c="0"><na f="b/Blasgen:Mike_W=" pid="77/481">Mike W. Blasgen</na></co>
+<co c="0"><na f="b/Boroski:Bill" pid="07/4586">Bill Boroski</na></co>
+<co c="0"><na f="b/Bosworth:Adam" pid="02/5473">Adam Bosworth</na></co>
+<co c="0"><na f="b/Brodie:Michael_L=" pid="95/3763">Michael L. Brodie</na></co>
+<co c="0"><na f="b/Brunner:Robert_J=" pid="38/603">Robert J. Brunner</na></co>
+<co c="0" n="2"><na f="b/Budav=aacute=ri:Tam=aacute=s" pid="49/161">Tam&#225;s Budav&#225;ri</na><na>Tamas Budavari</na></co>
+<co c="0"><na f="b/Burns:Randal_C=" pid="b/RandalCBurns">Randal C. Burns</na></co>
+<co c="0"><na f="c/Carey_0001:Michael_J=" pid="31/3455">Michael J. Carey 0001</na></co>
+<co c="0"><na f="c/Ceri:Stefano" pid="c/StefanoCeri">Stefano Ceri</na></co>
+<co c="0"><na f="c/Chamberlin:Donald_D=" pid="c/DDChamberlin">Donald D. Chamberlin</na></co>
+<co c="0"><na f="c/Chandra:Ashok_K=" pid="56/4267">Ashok K. Chandra</na></co>
+<co c="0"><na f="c/Chaudhuri:Surajit" pid="c/SurajitChaudhuri">Surajit Chaudhuri</na></co>
+<co c="0"><na f="c/Chong:Wyman" pid="85/5011">Wyman Chong</na></co>
+<co c="-1"><na f="c/Chou:Timothy_C=_K=" pid="14/5340">Timothy C. K. Chou</na></co>
+<co c="0"><na f="c/Coates:Joshua" pid="13/5439">Joshua Coates</na></co>
+<co c="0"><na f="c/Cogan:Joshua" pid="29/469">Joshua Cogan</na></co>
+<co c="-1"><na f="c/Compton:Mark" pid="05/3395">Mark Compton</na></co>
+<co c="0"><na f="c/Connolly:Andrew_J=" pid="117/4231">Andrew J. Connolly</na></co>
+<co c="0"><na f="c/Croft:W=_Bruce" pid="c/WBruceCroft">W. Bruce Croft</na></co>
+<co c="0"><na f="c/Cvetanovic:Zarka" pid="42/2159">Zarka Cvetanovic</na></co>
+<co c="0"><na f="d/Dayal:Umeshwar" pid="76/2198">Umeshwar Dayal</na></co>
+<co c="0"><na f="d/Deshpande:Amol" pid="d/AmolDeshpande">Amol Deshpande</na></co>
+<co c="2"><na f="d/Devlin:Bill" pid="31/5624">Bill Devlin</na></co>
+<co c="0"><na f="d/DeWitt:David_J=" pid="d/DJDeWitt">David J. DeWitt</na></co>
+<co c="0"><na f="d/Duff:Beth" pid="89/3785">Beth Duff</na></co>
+<co c="0"><na f="d/Dumitriu:Dan" pid="99/3944">Dan Dumitriu</na></co>
+<co c="0"><na f="e/Eberl:Robert" pid="17/3631">Robert Eberl</na></co>
+<co c="0"><na f="e/Ekblad:Steve" pid="61/3343">Steve Ekblad</na></co>
+<co c="0"><na f="e/Englert:Susanne" pid="58/5099">Susanne Englert</na></co>
+<co c="0"><na f="e/Eswaran:Kapali_P=" pid="95/4104">Kapali P. Eswaran</na></co>
+<co c="0"><na f="f/Fekete:George" pid="34/1800">George Fekete</na></co>
+<co c="0"><na f="f/Fekete:Gyorgy" pid="67/3771">Gyorgy Fekete</na></co>
+<co c="-1"><na f="f/Fitzgerald:Bob" pid="90/7124">Bob Fitzgerald</na></co>
+<co c="0"><na f="f/Flynn:Michael_J=" pid="f/MichaelJFlynn">Michael J. Flynn</na></co>
+<co c="0"><na f="f/Franklin:Michael_J=" pid="f/MJFranklin">Michael J. Franklin</na></co>
+<co c="0"><na f="g/Gabber:Eran" pid="25/598">Eran Gabber</na></co>
+<co c="0"><na f="g/Gallaire:Herv=eacute=" pid="38/1430">Herv&#233; Gallaire</na></co>
+<co c="0"><na f="g/Galtieri:Cesare_A=" pid="39/4111">Cesare A. Galtieri</na></co>
+<co c="0"><na f="g/Gamache:Rod" pid="39/1976">Rod Gamache</na></co>
+<co c="0"><na f="g/Garcia=Molina:Hector" pid="g/HGarciaMolina">Hector Garcia-Molina</na></co>
+<co c="0"><na f="g/Gawlick:Dieter" pid="03/2725">Dieter Gawlick</na></co>
+<co c="0"><na f="g/Gemmell:Jim" pid="g/JimGemmell">Jim Gemmell</na></co>
+<co c="0"><na f="g/Gibbons:Phillip_B=" pid="g/PhillipBGibbons">Phillip B. Gibbons</na></co>
+<co c="0"><na f="g/Good:Bob" pid="24/5994">Bob Good</na></co>
+<co c="0"><na f="g/Gordon:Bruce" pid="24/6059">Bruce Gordon</na></co>
+<co c="1"><na f="g/Govindaraju:Naga_K=" pid="42/5865">Naga K. Govindaraju</na></co>
+<co c="0"><na f="g/Graefe:Goetz" pid="g/GoetzGraefe">Goetz Graefe</na></co>
+<co c="0"><na f="g/Griffiths:Patricia_P=" pid="43/2549">Patricia P. Griffiths</na></co>
+<co c="0"><na f="g/Gupchup:Jayant" pid="27/981">Jayant Gupchup</na></co>
+<co c="0"><na f="h/Haas:Laura_M=" pid="h/LauraMHaas">Laura M. Haas</na></co>
+<co c="0"><na f="h/Halevy:Alon_Y=" pid="h/AlonYHalevy">Alon Y. Halevy</na></co>
+<co c="0"><na f="h/Hansen:Mark_H=" pid="h/MarkHHansen">Mark H. Hansen</na></co>
+<co c="0"><na f="h/Hanushevsky:Andrew" pid="93/914">Andrew Hanushevsky</na></co>
+<co c="0"><na f="h/Harrison:Michael_A=" pid="h/MichaelAHarrison">Michael A. Harrison</na></co>
+<co c="0"><na f="h/Heber:Gerd" pid="30/1517">Gerd Heber</na></co>
+<co c="0"><na f="h/Held:Gerald" pid="21/4031">Gerald Held</na></co>
+<co c="0"><na f="h/Helland:Pat" pid="h/PatHelland">Pat Helland</na></co>
+<co c="0"><na f="h/Hellerstein:Joseph_M=" pid="h/JosephMHellerstein">Joseph M. Hellerstein</na></co>
+<co c="0"><na f="h/Herman:Gabor_T=" pid="h/GaborTHerman">Gabor T. Herman</na></co>
+<co c="0"><na f="h/Hillyer:Bruce" pid="h/BruceHillyer">Bruce Hillyer</na></co>
+<co c="0"><na f="h/Hoffman:John" pid="69/3986">John Hoffman</na></co>
+<co c="0"><na f="h/Homan:Pete" pid="59/6519">Pete Homan</na></co>
+<co c="3"><na f="h/Horst:Bob" pid="76/1617">Bob Horst</na></co>
+<co c="0"><na f="h/Hvasshovd:Svein=Olaf" pid="h/SOHvasshovd">Svein-Olaf Hvasshovd</na></co>
+<co c="0"><na f="i/Ibarra:Oscar_H=" pid="i/OscarHIbarra">Oscar H. Ibarra</na></co>
+<co c="0"><na f="i/Ingen:Catharine_van" pid="i/CatharinevanIngen">Catharine van Ingen</na></co>
+<co c="0"><na f="i/Ioannidis:Yannis_E=" pid="i/YEIoannidis">Yannis E. Ioannidis</na></co>
+<co c="0"><na f="j/Jagadish:H=_V=" pid="j/HVJagadish">H. V. Jagadish</na></co>
+<co c="0"><na f="j/Jarke:Matthias" pid="j/MatthiasJarke">Matthias Jarke</na></co>
+<co c="0"><na f="j/Jones:Anita_K=" pid="01/5537">Anita K. Jones</na></co>
+<co c="0"><na f="k/Kersten:Martin_L=" pid="k/MartinLKersten">Martin L. Kersten</na></co>
+<co c="0"><na f="k/King_III:W=_Frank" pid="88/4057">W. Frank King III</na></co>
+<co c="0"><na f="k/Kocher:Terrye" pid="49/1796">Terrye Kocher</na></co>
+<co c="0"><na f="k/Korth:Henry_F=" pid="k/HenryFKorth">Henry F. Korth</na></co>
+<co c="0"><na f="k/Kukol:Peter" pid="90/433">Peter Kukol</na></co>
+<co c="1"><na f="k/Kumar:Ritesh" pid="49/3538">Ritesh Kumar</na></co>
+<co c="0"><na f="k/Kunszt:Peter_Z=" pid="25/5416">Peter Z. Kunszt</na></co>
+<co c="0"><na f="l/Lagally:Klaus" pid="16/3571">Klaus Lagally</na></co>
+<co c="2"><na f="l/Laing:Bill" pid="81/4666">Bill Laing</na></co>
+<co c="0"><na f="l/Lamport:Leslie" pid="l/LeslieLamport">Leslie Lamport</na></co>
+<co c="1"><na f="l/Larsen:Scott" pid="45/4965">Scott Larsen</na></co>
+<co c="0"><na f="l/Layman:Andrew" pid="57/2527">Andrew Layman</na></co>
+<co c="0"><na f="l/Lebedeva:Svetlana" pid="00/6197">Svetlana Lebedeva</na></co>
+<co c="0"><na f="l/Lee:George" pid="23/2203">George Lee</na></co>
+<co c="0" n="2"><na f="l/Lesk:Michael_E=" pid="l/MichaelELesk">Michael E. Lesk</na><na>Michael Lesk</na></co>
+<co c="0"><na f="l/Levine:Charles" pid="46/2270">Charles Levine</na></co>
+<co c="0"><na f="l/Li:Nolan" pid="85/3328">Nolan Li</na></co>
+<co c="0"><na f="l/Liang:Chieh=Jan_Mike" pid="92/445">Chieh-Jan Mike Liang</na></co>
+<co c="0"><na f="l/Liebhold:Michael" pid="02/59">Michael Liebhold</na></co>
+<co c="0"><na f="l/Lindsay_0001:Bruce_G=" pid="l/BruceGLindsay1">Bruce G. Lindsay 0001</na></co>
+<co c="0"><na f="l/Liu:David_T=" pid="l/DavidTLiu">David T. Liu</na></co>
+<co c="0"><na f="l/Lockemann:Peter_C=" pid="l/PCLockemann">Peter C. Lockemann</na></co>
+<co c="0"><na f="l/Lomet:David_B=" pid="l/DavidBLomet">David B. Lomet</na></co>
+<co c="0"><na f="l/Lorie:Raymond_A=" pid="67/3397">Raymond A. Lorie</na></co>
+<co c="0"><na f="l/Lupton:Robert" pid="75/531">Robert Lupton</na></co>
+<co c="0"><na f="m/Maier_0001:David" pid="m/DavidMaier">David Maier 0001</na></co>
+<co c="0"><na f="m/Malik:Tanu" pid="m/TanuMalik">Tanu Malik</na></co>
+<co c="1"><na f="m/Manocha:Dinesh" pid="m/DineshManocha">Dinesh Manocha</na></co>
+<co c="0"><na f="m/Massa:Mike" pid="13/1911">Mike Massa</na></co>
+<co c="0"><na f="m/Mathesmier:Theresa" pid="14/5638">Theresa Mathesmier</na></co>
+<co c="0"><na f="m/Matsubara:Takahiko" pid="27/3939">Takahiko Matsubara</na></co>
+<co c="0"><na f="m/McJones:Paul_R=" pid="m/PaulRMcJones">Paul R. McJones</na></co>
+<co c="0"><na f="m/Mehl:James_W=" pid="72/5053">James W. Mehl</na></co>
+<co c="0"><na f="m/Melton:Jim" pid="60/927">Jim Melton</na></co>
+<co c="0"><na f="m/Mitoma:Michael_F=" pid="25/5361">Michael F. Mitoma</na></co>
+<co c="0"><na f="m/Musaloiu=Elefteri:Razvan" pid="77/2271">Razvan Musaloiu-Elefteri</na></co>
+<co c="0"><na f="n/Nath:Suman" pid="85/6293">Suman Nath</na></co>
+<co c="0"><na f="n/Naughton:Jeffrey_F=" pid="n/JeffreyFNaughton">Jeffrey F. Naughton</na></co>
+<co c="0"><na f="n/Neuhold:Erich_J=" pid="n/ErichJNeuhold">Erich J. Neuhold</na></co>
+<co c="0"><na f="n/Ng:Wee_Teck" pid="n/WeeTeckNg">Wee Teck Ng</na></co>
+<co c="0"><na f="n/Nieto=Santisteban:Mar=iacute=a_A=" pid="36/723">Mar&#237;a A. Nieto-Santisteban</na></co>
+<co c="0"><na f="n/Nikolaev:Sergei" pid="88/1669">Sergei Nikolaev</na></co>
+<co c="0"><na f="n/Nordlinger:John" pid="63/4653">John Nordlinger</na></co>
+<co c="0"><na f="n/Nyberg:Chris" pid="56/100">Chris Nyberg</na></co>
+<co c="0"><na f="o/Obermarck:Ron" pid="53/6002">Ron Obermarck</na></co>
+<co c="0"><na f="o/O=Mullane:William" pid="05/1998">William O'Mullane</na></co>
+<co c="0"><na f="o/O=Neil:Elizabeth_J=" pid="40/6709">Elizabeth J. O'Neil</na></co>
+<co c="0"><na f="o/O=Neil:Patrick_E=" pid="o/PatrickEONeil">Patrick E. O'Neil</na></co>
+<co c="0"><na f="o/Opderbeck:Holger" pid="42/4231">Holger Opderbeck</na></co>
+<co c="0"><na f="=/=Ouml=zden:Banu" pid="o/BanuOzden">Banu &#214;zden</na></co>
+<co c="0"><na f="o/Ozer:Stuart" pid="32/3542">Stuart Ozer</na></co>
+<co c="0"><na f="p/Pazzani:Michael_J=" pid="p/MJPazzani">Michael J. Pazzani</na></co>
+<co c="0"><na f="p/Pellow:Frank" pid="01/579">Frank Pellow</na></co>
+<co c="0"><na f="p/Pirahesh:Hamid" pid="p/HamidPirahesh">Hamid Pirahesh</na></co>
+<co c="0"><na f="p/Pope:Adrian" pid="43/2739">Adrian Pope</na></co>
+<co c="0"><na f="p/Popek:Gerald_J=" pid="62/6214">Gerald J. Popek</na></co>
+<co c="0"><na f="p/Price:Thomas_G=" pid="35/5645">Thomas G. Price</na></co>
+<co c="0"><na f="p/Putzolu:Gianfranco_R=" pid="74/6386">Gianfranco R. Putzolu</na></co>
+<co c="0"><na f="r/Raddick:M=_Jordan" pid="175/7284">M. Jordan Raddick</na></co>
+<co c="0"><na f="r/Raghavendran:Guru" pid="25/5781">Guru Raghavendran</na></co>
+<co c="0"><na f="r/Randell:Brian" pid="r/BrianRandell">Brian Randell</na></co>
+<co c="0"><na f="r/Reichart:Don" pid="32/6006">Don Reichart</na></co>
+<co c="0"><na f="r/Reuter_0001:Andreas" pid="r/AReuter">Andreas Reuter 0001</na></co>
+<co c="0"><na f="r/Richter:Jeffrey" pid="58/6352">Jeffrey Richter</na></co>
+<co c="0"><na f="r/Robb_III:Natt" pid="34/2657">Natt Robb III</na></co>
+<co c="0"><na f="r/Rossmeissl:Hedy" pid="84/2604">Hedy Rossmeissl</na></co>
+<co c="0"><na f="r/Rots:Arnold_H=" pid="23/427">Arnold H. Rots</na></co>
+<co c="0"><na f="r/Rowe:Lawrence_A=" pid="r/LawrenceARowe">Lawrence A. Rowe</na></co>
+<co c="0"><na f="s/Saltzer:Jerome_H=" pid="s/JeromeHSaltzer">Jerome H. Saltzer</na></co>
+<co c="0"><na f="s/Salzberg:Betty" pid="s/BettySalzberg">Betty Salzberg</na></co>
+<co c="0"><na f="s/Sammer:Harald" pid="36/6261">Harald Sammer</na></co>
+<co c="0"><na f="s/Schek:Hans=J=ouml=rg" pid="s/HansJorgSchek">Hans-J&#246;rg Schek</na></co>
+<co c="0"><na f="s/Schkolnick:Mario" pid="96/5511">Mario Schkolnick</na></co>
+<co c="0"><na f="s/Schmidt:Joachim_W=" pid="s/JoachimWSchmidt">Joachim W. Schmidt</na></co>
+<co c="0"><na f="s/Schooler:Eve_M=" pid="72/2163">Eve M. Schooler</na></co>
+<co c="0"><na f="s/Schrefl:Michael" pid="s/MichaelSchrefl">Michael Schrefl</na></co>
+<co c="0"><na f="s/Sears:Russell" pid="54/129">Russell Sears</na></co>
+<co c="0"><na f="s/Selinger:Patricia_G=" pid="48/1954">Patricia G. Selinger</na></co>
+<co c="0"><na f="s/Sellis:Timos_K=" pid="s/TimosKSellis">Timos K. Sellis</na></co>
+<co c="0"><na f="s/Shah:Praful" pid="92/3558">Praful Shah</na></co>
+<co c="0"><na f="s/Shasha:Dennis_E=" pid="s/DennisShasha">Dennis E. Shasha</na></co>
+<co c="0"><na f="s/Shenoy:Prashant_J=" pid="s/PrashantJShenoy">Prashant J. Shenoy</na></co>
+<co c="0"><na f="s/Short:Rob" pid="53/4010">Rob Short</na></co>
+<co c="0"><na f="s/Shriver:Elizabeth_A=_M=" pid="64/2667">Elizabeth A. M. Shriver</na></co>
+<co c="0"><na f="s/Siewiorek:Daniel_P=" pid="50/842">Daniel P. Siewiorek</na></co>
+<co c="0"><na f="s/Silberschatz:Avi" pid="s/AbrahamSilberschatz">Avi Silberschatz</na></co>
+<co c="0"><na f="s/Singh:Vik" pid="26/6223">Vik Singh</na></co>
+<co c="0"><na f="s/Slutz:Donald_R=" pid="33/6589">Donald R. Slutz</na></co>
+<co c="0"><na f="s/Small:Sam" pid="62/3777">Sam Small</na></co>
+<co c="0"><na f="s/Smith:Greg" pid="47/3228">Greg Smith</na></co>
+<co c="0"><na f="s/Smoot:Phil" pid="85/4140">Phil Smoot</na></co>
+<co c="0"><na f="s/Snodgrass:Richard_T=" pid="s/RichardTSnodgrass">Richard T. Snodgrass</na></co>
+<co c="2"><na f="s/Spix:George" pid="74/4688">George Spix</na></co>
+<co c="0"><na f="s/Stewart_0002:Michael" pid="84/2846-2">Michael Stewart 0002</na></co>
+<co c="0"><na f="s/Stonebraker:Michael" pid="s/MichaelStonebraker">Michael Stonebraker</na></co>
+<co c="0"><na f="s/Stoughton:Christopher" pid="06/4897">Christopher Stoughton</na></co>
+<co c="0"><na f="s/Strand:Eric" pid="27/6521">Eric Strand</na></co>
+<co c="0" n="2"><na f="s/Strong:Ray" pid="08/5863">Ray Strong</na><na>H. Raymond Strong</na></co>
+<co c="0"><na f="s/Sundaresan:Prakash" pid="34/301">Prakash Sundaresan</na></co>
+<co c="0"><na f="s/Sunne:Randall" pid="24/3126">Randall Sunne</na></co>
+<co c="0" n="2"><na f="s/Szalay:Alex" pid="s/AlexanderSSzalay">Alex Szalay</na><na>Alexander S. Szalay</na></co>
+<co c="0"><na f="s/Szapudi:Istvan" pid="11/2912">Istvan Szapudi</na></co>
+<co c="0"><na f="s/Szlavecz:Katalin" pid="36/5986">Katalin Szlavecz</na></co>
+<co c="0"><na f="t/Tao:Vincent" pid="75/3420">Vincent Tao</na></co>
+<co c="0"><na f="t/Terzis:Andreas" pid="12/6664">Andreas Terzis</na></co>
+<co c="0" n="2"><na f="t/Thakar:Ani" pid="t/AniThakar">Ani Thakar</na><na>Aniruddha R. Thakar</na></co>
+<co c="0"><na f="t/Tiberio:Paolo" pid="t/PaoloTiberio">Paolo Tiberio</na></co>
+<co c="0"><na f="t/Traiger:Irving_L=" pid="17/2969">Irving L. Traiger</na></co>
+<co c="0"><na f="t/Tsukerman:Alex" pid="83/3231">Alex Tsukerman</na></co>
+<co c="0"><na f="u/Ullman:Jeffrey_D=" pid="u/JeffreyDUllman">Jeffrey D. Ullman</na></co>
+<co c="0"><na f="u/Uren:Susan" pid="55/4049">Susan Uren</na></co>
+<co c="0"><na f="v/vandenBerg:Jan" pid="16/1558">Jan vandenBerg</na></co>
+<co c="0"><na f="v/Vardi:Moshe_Y=" pid="v/MosheYVardi">Moshe Y. Vardi</na></co>
+<co c="0"><na f="v/Vaughan:Bonnie" pid="16/5825">Bonnie Vaughan</na></co>
+<co c="0"><na f="v/Venkatrao:Murali" pid="52/1171">Murali Venkatrao</na></co>
+<co c="0"><na f="v/Vert:John" pid="78/1846">John Vert</na></co>
+<co c="0"><na f="v/Vogels:Werner" pid="v/WernerVogels">Werner Vogels</na></co>
+<co c="0"><na f="w/Wade:Bradford_W=" pid="59/3575">Bradford W. Wade</na></co>
+<co c="3"><na f="w/Walker:Mark" pid="36/6607">Mark Walker</na></co>
+<co c="0"><na f="w/Watson:Vera" pid="28/4312">Vera Watson</na></co>
+<co c="0"><na f="w/Weikum:Gerhard" pid="w/GerhardWeikum">Gerhard Weikum</na></co>
+<co c="0"><na f="w/Weinberger:Peter_J=" pid="74/1361">Peter J. Weinberger</na></co>
+<co c="0"><na f="w/Widom:Jennifer" pid="w/JenniferWidom">Jennifer Widom</na></co>
+<co c="0"><na f="w/Wiederhold:Gio" pid="w/GioWiederhold">Gio Wiederhold</na></co>
+<co c="0"><na f="w/Wiehle:Hans=R=uuml=diger" pid="44/2083">Hans-R&#252;diger Wiehle</na></co>
+<co c="0"><na f="w/Wilkes:John" pid="w/JohnWilkes">John Wilkes</na></co>
+<co c="0"><na f="y/Yanny:Brian" pid="26/2507">Brian Yanny</na></co>
+<co c="0"><na f="y/Yost:Robert_A=" pid="72/1678">Robert A. Yost</na></co>
+<co c="0"><na f="z/Zdonik:Stanley_B=" pid="z/SBZdonik">Stanley B. Zdonik</na></co>
+<co c="0"><na f="z/Zeller:Hansj=ouml=rg" pid="09/6853">Hansj&#246;rg Zeller</na></co>
+</coauthors>
+</dblpperson>
