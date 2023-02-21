@@ -1,19 +1,29 @@
 package com.iith.json;
 
+import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.net.URL;
 import java.net.URLConnection;
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
+import java.util.TreeMap;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.Unmarshaller;
+
+import org.dblp.mmdb.Person;
+import org.dblp.mmdb.RecordDb;
+import org.dblp.mmdb.RecordDbInterface;
+import org.xml.sax.SAXException;
 
 import jakarta.ws.rs.Consumes;
 import jakarta.ws.rs.POST;
@@ -22,13 +32,75 @@ import jakarta.ws.rs.Produces;
 import jakarta.ws.rs.core.MediaType;
 
 /*
- * curl -H "Content-Type: application/json" -X POST -d "[\"83/3735\", \"223/7862\", \"g/JimGray\", \"t/AniThakar\", \"25/5416\"]" http://localhost:8080/json/find
+ * Generates Graph from set of person names
  */
-
 @Path("/json")
 public class JsonResource {
     boolean debug = false;
+ 
+    static Map<String, String> personNameIdMap = new TreeMap<String, String>();
 
+    static RecordDbInterface dblp;
+    static String dblpXmlFilename = "dblp.xml.gz";
+    static String dblpDtdFilename = "dblp.dtd";
+
+    static {
+
+        loadPersonDetailsFromCsvFle();
+
+        System.out.println("personNameIdMap.size(): " + personNameIdMap.size());
+
+        if(personNameIdMap.size() == 0) {
+            loadPersonDetailsFromXmlFle();
+        }
+    }
+
+    static void loadPersonDetailsFromCsvFle() {
+        try {
+            long t1 = System.currentTimeMillis();
+            BufferedReader br = new BufferedReader(new FileReader("Persons.csv"));
+            String line =  null;
+            while((line=br.readLine())!=null) {
+                if(line.trim().length() > 0) {
+                    String arr[] = line.split(",");
+                    personNameIdMap.put(arr[0], arr[1]);
+                }
+            }
+            System.out.println("Loaded Persons data in " + (System.currentTimeMillis()- t1)/1000 + " seconds...");
+        } catch (final IOException ex) {
+            System.err.println("cannot read Persons.csv: " + ex.getMessage());
+        }
+    }
+ 
+    static void loadPersonDetailsFromXmlFle() {
+ 
+        System.setProperty("entityExpansionLimit", "10000000");
+        System.out.println("building the dblp main memory DB ...");
+
+        FileWriter personWriter = null;
+        try {
+            personWriter = new FileWriter("Persons.csv");
+            long t1 = System.currentTimeMillis();
+            dblp = new RecordDb(dblpXmlFilename, dblpDtdFilename, false);
+            Collection<Person> persons = dblp.getPersons();
+            Iterator<Person> iter = persons.iterator();
+            while(iter.hasNext()) {
+                Person person = iter.next();
+                personNameIdMap.put(person.getPrimaryName().name(), person.getPid());
+                personWriter.write(person.getPrimaryName() + "," + person.getPid()+"\n");
+            }
+            personWriter.close();
+            System.out.println("Loaded in " + (System.currentTimeMillis()- t1)/1000 + " seconds...");
+        }
+        catch (final IOException ex) {
+            System.err.println("cannot read dblp XML: " + ex.getMessage());
+        }
+        catch (final SAXException ex) {
+            System.err.println("cannot parse XML: " + ex.getMessage());
+        }
+        System.out.format("MMDB ready: %d publs, %d pers\n\n", dblp.numberOfPublications(), dblp.numberOfPersons());
+    }
+    
     @Path("/find")
     @POST
     @Consumes(MediaType.APPLICATION_JSON)
@@ -73,7 +145,7 @@ public class JsonResource {
         List<String> graph = new ArrayList<String>();
 
         // build graph
-        System.out.println("Graph:\n-----");
+        //System.out.println("Graph:\n-----");
         for(int i = 0; i < pids.length-1;i++) {
             List<Publication> pubs_i = pidPublicationsMap.get(pids[i]);
             for(Publication pub_i : pubs_i) {
@@ -82,7 +154,7 @@ public class JsonResource {
                     if(key != null) {
                         String edge = "" + (i+1) + "," + (j+1);// + " " + key;
                         if(!graph.contains(edge)) {
-                            System.out.println(edge);
+                            //System.out.println(edge);
                             graph.add(edge);
                         }
                     }            
@@ -93,8 +165,8 @@ public class JsonResource {
             System.out.println("No common edges found with the given input.");
         }
         else {
-            writeGraph(graph);
-            System.out.println("Graph is created.");
+            writeGraphToFile(graph);
+            System.out.println("Graph is generated. Check Output.csv file.");
         }
         if(debug) System.out.println("Time taken to build graph (in secs): " + (System.currentTimeMillis()-t1)/1000);
 
@@ -114,7 +186,7 @@ public class JsonResource {
     }
 
     // Write edges to graph
-    public void writeGraph(List<String> edgeList) {
+    public void writeGraphToFile(List<String> edgeList) {
         try {
             FileWriter myWriter = new FileWriter("Output.csv");
             for(String edge : edgeList) {
@@ -129,15 +201,20 @@ public class JsonResource {
     }
 
     // read input
-    public String[] readInput() {
+    public String[] readInputFromFile() {
         List<String> inList = new ArrayList<String>();
         try {
             File myObj = new File("Input.txt");
             Scanner myReader = new Scanner(myObj);
             while (myReader.hasNextLine()) {
-                String data = myReader.nextLine();
-                if(data.trim().length() > 0) {
-                    inList.add(data);
+                String name = myReader.nextLine();
+                if(name.trim().length() > 0) {
+                    String id = personNameIdMap.get(name);
+                    if(id.trim().length() > 0) {
+                        inList.add(id);
+                    } else {
+                        System.out.println("Could not locate the pid for name: " + name);
+                    }
                 }
             }
             myReader.close();
@@ -150,7 +227,7 @@ public class JsonResource {
 
     public static void main(String [] args) {
         JsonResource instance = new JsonResource();
-        String [] pids = instance.readInput();
+        String [] pids = instance.readInputFromFile();
         instance.findCoAuthorCombinations(pids);
     }
 }
