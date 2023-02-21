@@ -36,7 +36,7 @@ import jakarta.ws.rs.core.MediaType;
  */
 @Path("/json")
 public class JsonResource {
-    boolean debug = false;
+    static boolean debug = false;
  
     static Map<String, String> personNameIdMap = new TreeMap<String, String>();
 
@@ -46,15 +46,16 @@ public class JsonResource {
 
     static {
 
+        // Loading person details from csv file
         loadPersonDetailsFromCsvFle();
 
-        System.out.println("personNameIdMap.size(): " + personNameIdMap.size());
-
         if(personNameIdMap.size() == 0) {
+            // Loading person details from dblp XML file
             loadPersonDetailsFromXmlFle();
         }
     }
 
+    // Load person details from Persons.csv file (generated based on the data available in https://dblp.uni-trier.de/xml/dblp.xml.gz)
     static void loadPersonDetailsFromCsvFle() {
         try {
             long t1 = System.currentTimeMillis();
@@ -66,12 +67,13 @@ public class JsonResource {
                     personNameIdMap.put(arr[0], arr[1]);
                 }
             }
-            System.out.println("Loaded Persons data in " + (System.currentTimeMillis()- t1)/1000 + " seconds...");
+            if(debug) System.out.println("Loaded Persons data in " + (System.currentTimeMillis()- t1)/1000 + " seconds...");
         } catch (final IOException ex) {
             System.err.println("cannot read Persons.csv: " + ex.getMessage());
         }
     }
  
+    // Load person details from dblp.xml.gz file (downloaded from https://dblp.uni-trier.de/xml/)
     static void loadPersonDetailsFromXmlFle() {
  
         System.setProperty("entityExpansionLimit", "10000000");
@@ -164,10 +166,7 @@ public class JsonResource {
         if(graph.size() == 0) {
             System.out.println("No common edges found with the given input.");
         }
-        else {
-            writeGraphToFile(graph);
-            System.out.println("Graph is generated. Check Output.csv file.");
-        }
+
         if(debug) System.out.println("Time taken to build graph (in secs): " + (System.currentTimeMillis()-t1)/1000);
 
         return graph;
@@ -228,6 +227,10 @@ public class JsonResource {
     public static void main(String [] args) {
         JsonResource instance = new JsonResource();
         String [] pids = instance.readInputFromFile();
-        instance.findCoAuthorCombinations(pids);
+        List<String> graph = instance.findCoAuthorCombinations(pids);
+        if(graph.size() > 0) {
+            instance.writeGraphToFile(graph);
+            System.out.println("Graph is generated. Check Output.csv file.");
+        }
     }
 }
