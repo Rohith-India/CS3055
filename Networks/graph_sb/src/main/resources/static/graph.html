@@ -8,7 +8,7 @@
       <link rel="stylesheet" href="graph.css">
       <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
       <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
-      <script src="https://d3js.org/d3.v4.min.js"></script>
+      <script src="https://d3js.org/d3.v7.min.js"></script>
       <script>
       $(function() {
     	  
@@ -56,108 +56,70 @@
              refresh(data);
           }
 
-          function refresh(data) {
+          function refresh(graph) {
 
-             graph = JSON.parse(data);
-             var svg = d3.select("svg"),
-                width = +svg.attr("width"),
-                height = +svg.attr("height");
+             data = JSON.parse(graph);
+             const svg = d3.select("svg");
+             
+             const simulation = d3.forceSimulation(data.nodes)
+               .force("link", d3.forceLink(data.links).id(d => d.id))
+               .force("charge", d3.forceManyBody())
+               .force("center", d3.forceCenter(250, 250))
+               .force("x", d3.forceX().strength(0.1))
+               .force("y", d3.forceY().strength(0.1));
+             
+             const link = svg.selectAll(".link")
+               .data(data.links)
+               .enter().append("line")
+               .attr("class", "link");
+             
+             const node = svg.selectAll(".node")
+               .data(data.nodes)
+               .enter().append("g")
+               .attr("class", "node")
+               .call(drag(simulation));
+             
+             node.append("circle")
+               .attr("r", 10)
+               .attr("fill", function(d) {
+                            return 'red';
+                         });
+             
+             node.append("text")
+               .text(d => d.id);
+             
+             simulation.on("tick", () => {
+               link.attr("x1", d => Math.max(0, Math.min(600, d.source.x)))
+                 .attr("y1", d => Math.max(0, Math.min(600, d.source.y)))
+                 .attr("x2", d => Math.max(0, Math.min(600, d.target.x)))
+                 .attr("y2", d => Math.max(0, Math.min(600, d.target.y)));
+             
+               node.attr("transform", d => `translate(${Math.max(10, Math.min(490, d.x))},${Math.max(10, Math.min(490, d.y))})`);
+             });
+             
+             function drag(simulation) {
+               function dragstarted(event, d) {
+                 if (!event.active) simulation.alphaTarget(0.3).restart();
+                 d.fx = d.x;
+                 d.fy = d.y;
+               }
+             
+               function dragged(event, d) {
+                 d.fx = event.x;
+                 d.fy = event.y;
+               }
+             
+               function dragended(event, d) {
+                 if (!event.active) simulation.alphaTarget(0);
+                 d.fx = null;
+                 d.fy = null;
+               }
 
-             var color = d3.scaleOrdinal(d3.schemeCategory20);
-
-             var simulation = d3.forceSimulation()
-                .force("link", d3.forceLink().id(function(d) {
-                   return d.id;
-                }))
-                .force("charge", d3.forceManyBody())
-                .force("center", d3.forceCenter(width / 2, height / 2));
-
-             var link = svg.append("g")
-                .attr("class", "links")
-                .selectAll("line")
-                .data(graph.links)
-                .enter().append("line")
-                .attr("stroke-width", function(d) {
-                   return 2;
-                });
-
-             var node = svg.append("g")
-                .attr("class", "nodes")
-                .selectAll("g")
-                .data(graph.nodes)
-                .enter().append("g")
-
-             var circles = node.append("circle")
-                .attr("r", 6)
-                .attr("fill", function(d) {
-                   return 'red';
-                });
-
-             // Create a drag handler and append it to the node object instead
-             var drag_handler = d3.drag()
-                .on("start", dragstarted)
-                .on("drag", dragged)
-                .on("end", dragended);
-
-             drag_handler(node);
-
-             var lables = node.append("text")
-                .text(function(d) {
-                   return d.id;
-                })
-                .attr('x', 7)
-                .attr('y', 4);
-
-             node.append("title")
-                .text(function(d) {
-                   return d.id;
-                });
-
-             simulation
-                .nodes(graph.nodes)
-                .on("tick", ticked);
-
-             simulation.force("link")
-                .links(graph.links);
-
-             function ticked() {
-                link
-                   .attr("x1", function(d) {
-                      return d.source.x;
-                   })
-                   .attr("y1", function(d) {
-                      return d.source.y;
-                   })
-                   .attr("x2", function(d) {
-                      return d.target.x;
-                   })
-                   .attr("y2", function(d) {
-                      return d.target.y;
-                   });
-
-                node
-                   .attr("transform", function(d) {
-                      return "translate(" + d.x + "," + d.y + ")";
-                   })
-             }
-
-             function dragstarted(d) {
-                if (!d3.event.active) simulation.alphaTarget(0.3).restart();
-                d.fx = d.x;
-                d.fy = d.y;
-             }
-
-             function dragged(d) {
-                d.fx = d3.event.x;
-                d.fy = d3.event.y;
-             }
-
-             function dragended(d) {
-                if (!d3.event.active) simulation.alphaTarget(0);
-                d.fx = null;
-                d.fy = null;
-             }
-          };
+           return d3.drag()
+             .on("start", dragstarted)
+             .on("drag", dragged)
+             .on("end", dragended);
+          }};
 
           $("#tags")
              // don't navigate away from the field on tab when selecting an item
@@ -207,6 +169,6 @@
          <input id="tags" size="75">
       </div>
       <!-- Create a div where the graph will take place -->
-      <svg id = "graph" width="960" height="600"></svg>
+      <svg id = "graph" width="600" height="600"></svg>
    </body>
 </html>
