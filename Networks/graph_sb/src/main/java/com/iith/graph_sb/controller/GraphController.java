@@ -80,6 +80,7 @@ public class GraphController {
                 }
             }
             System.out.println("Loaded Persons data in " + (System.currentTimeMillis()- t1)/1000 + " seconds...");
+            br.close();
         } catch (final IOException ex) {
             System.err.println("cannot read Persons.csv: " + ex.getMessage());
         }
@@ -88,6 +89,7 @@ public class GraphController {
     // Load person details from dblp.xml.gz file (downloaded from https://dblp.uni-trier.de/xml/)
     static void loadPersonDetailsFromXmlFle() {
 
+        if(dblp != null) return;
         System.setProperty("entityExpansionLimit", "10000000");
         System.out.println("building the dblp main memory DB ...");
 
@@ -292,18 +294,19 @@ public class GraphController {
 
         loadPersonDetailsFromXmlFle();
 
+        FileWriter myWriter = null;
         try {
-            FileWriter myWriter = new FileWriter("AuthorGraph.csv");
+            myWriter = new FileWriter("AuthorGraph.csv");
         long t1 = System.currentTimeMillis();
             List<Person> persons = new ArrayList<Person>();
             long iIndex = 0;
             System.out.println("authorList.size(): " + authorList.size());
             //Map<List<String>, List<String>> coAuthorMap = new HashMap<List<String>, List<String>>();
             Collection<org.dblp.mmdb.Publication> publications = new HashSet<org.dblp.mmdb.Publication>();
-            for(PersonName authorName : personNamesObjList) {
-                Person per = dblp.getPerson(authorName);
-                persons.add(per);
-                Collection<org.dblp.mmdb.Publication> personPublications = dblp.getPublications(per);
+            for(Person author : authorList) {
+//                Person per = dblp.getPerson(authorName);
+//                persons.add(per);
+                Collection<org.dblp.mmdb.Publication> personPublications = dblp.getPublications(author);
                 //System.out.println("authorName: " + authorName + " publication size: " + personPublications.size());
                 publications.addAll(personPublications);
                 /*
@@ -335,11 +338,11 @@ public class GraphController {
             for(org.dblp.mmdb.Publication pub : publications) {
                 List<PersonName> personNames = pub.getNames();
                 if(debug) System.out.println("personNames.size(): " + personNames.size());
-                List<Integer> usersKey = new ArrayList<Integer>();
+                List<Integer> userKeys = new ArrayList<Integer>();
                 //for(int k=0; k < personNamesList.size(); k++) {
                     for(PersonName personName : personNames) {
                         int k = personNamesObjList.indexOf(personName);
-                        if(k >= 0) usersKey.add(k);
+                        if(k >= 0) userKeys.add(k);
 //                        System.out.println(personName.getPrimaryName().getPrimaryName());
 //                        if(personName.getPrimaryName().getPrimaryName().equals(personNamesList.get(k).getPrimaryName())) {
 //                            System.out.println(k);
@@ -349,17 +352,25 @@ public class GraphController {
                     }
 
                 //}
-                    if(debug)  System.out.println(pub.getKey() + " usersKey.size(): " + usersKey.size());
-                if(usersKey.size() > 1)
+                if(debug) System.out.println(pub.getKey() + " usersKey.size(): " + userKeys.size());
+                if(userKeys.size() > 1)
                 {
-                    for(int i=0; i< usersKey.size(); i++) {
-                        for(int j=i+1; j< usersKey.size(); j++) {
-                            authorCombinations.add((usersKey.get(i)+1) + "," + (usersKey.get(j)+1));
+                    for(int i=0; i< userKeys.size(); i++) {
+                        for(int j=i+1; j< userKeys.size(); j++) {
+                            StringBuilder edge = new StringBuilder();
+                            edge.append(userKeys.get(i)+1).append(",").append(userKeys.get(j)+1);
+                            boolean added = authorCombinations.add(edge.toString());
+//                            if(added) {
+//                                if(debug) System.out.println(edge.toString());
+//                                myWriter.write(edge.toString());
+//                                myWriter.write("\n");
+//                            }
                         }
                     }
                 }
                 lIndex++;
                 //if(lIndex % 10000 == 0) break;
+                if(debug) System.out.println("publication: " + (lIndex+1));
             }
             System.out.println("authorCombinations.size(): " + authorCombinations.size());
             Iterator<String> iter = authorCombinations.iterator();
@@ -369,10 +380,18 @@ public class GraphController {
             }
 
             System.out.println("Time taken to generate graph (in secs): " + (System.currentTimeMillis()-t1)/1000);
-            myWriter.close();
+            
         } catch (IOException e) {
             System.out.println("An error occurred.");
             e.printStackTrace();
+        }
+        finally {
+            try {
+                if(myWriter != null) myWriter.close();
+            } catch (IOException e) {
+                // TODO Auto-generated catch block
+                e.printStackTrace();
+            }
         }
     }
 
@@ -402,7 +421,7 @@ public class GraphController {
 
     public static void main(String [] args) {
         //generateAuthorsGraphFromOnlineDblpDB();
-        //generateAuthorsGraphFromOfflineDblpDB();
         generatePublicationsCountsPerYearFromOfflineDblpDB();
+        generateAuthorsGraphFromOfflineDblpDB();
     }
 }
