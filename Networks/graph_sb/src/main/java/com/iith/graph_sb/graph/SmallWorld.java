@@ -107,13 +107,13 @@ public class SmallWorld {
         String delimiter = args[1];
         Graph graph = new Graph(filename, delimiter);
 
-//        StdOut.printf("number of vertices     = %7d\n", graph.V());
-//        StdOut.printf("number of edges        = %7d\n", graph.E());
-//        StdOut.printf("average degree         = %7.3f\n", averageDegree(graph));
-//        StdOut.printf("maximum degree         = %7d\n",   maxDegree(graph));
-//        StdOut.printf("clustering coefficient = %7.3f\n", clusteringCoefficient(graph));
-//        StdOut.printf("average path length    = %7.3f\n", averagePathLength(graph));
-//        degreeDistribution(graph);
+        StdOut.printf("number of vertices     = %7d\n", graph.V());
+        StdOut.printf("number of edges        = %7d\n", graph.E());
+        StdOut.printf("average degree         = %7.3f\n", averageDegree(graph));
+        StdOut.printf("maximum degree         = %7d\n",   maxDegree(graph));
+        StdOut.printf("clustering coefficient = %7.3f\n", clusteringCoefficient(graph));
+        degreeDistribution(graph);
+        StdOut.printf("average path length    = %7.3f\n", averagePathLength(graph));
 
     }
 
