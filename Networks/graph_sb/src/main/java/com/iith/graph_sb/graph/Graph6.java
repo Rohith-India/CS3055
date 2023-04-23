@@ -13,6 +13,7 @@ import java.util.TreeMap;
 
 public class Graph6 {
     private int V;
+    private int V_updated; // after removing vertices with zero count
     private List<List<Integer>> adj;
 
     public Graph6(int V) {
@@ -31,8 +32,8 @@ public class Graph6 {
     public double averageDistance() {
         double totalDistance = 0;
         int diameter = 0;
+        long t1 = System.currentTimeMillis();
         for (int i = 0; i < V; i++) {
-            long t1 = System.currentTimeMillis();
             int[] dist = new int[V];
             Arrays.fill(dist, -1);
             Queue<Integer> q = new LinkedList<>();
@@ -51,8 +52,10 @@ public class Graph6 {
                 if (i != j) {
                     totalDistance += dist[j];
                 }
-                if(dist[j] > diameter) diameter = dist[j];
-                //System.out.println("totalDistance: " + dist[j]);
+                // set diameter
+                if(dist[j] > diameter) {
+                    diameter = dist[j];
+                }
             }
             if((i+1)%1000 == 0) {
                 System.out.print(new StringBuilder("i:").append(i+1).append(" ").append(totalDistance).append(" d: ").append(diameter).toString());
@@ -60,7 +63,7 @@ public class Graph6 {
                 t1 = System.currentTimeMillis();
             }
         }
-        return totalDistance / (V * (V - 1));
+        return totalDistance / (V_updated * (V_updated - 1));
     }
     public double clusteringCoefficient() {
         double total = 0.0;
@@ -81,7 +84,7 @@ public class Graph6 {
                 total += 1.0 * actual / possible;
             }
         }
-        return total / (V-129201); // Subtracted no. of vertices with '0' degree
+        return total / V_updated; 
     }
     
     public int degree(int v) {
@@ -107,18 +110,12 @@ public class Graph6 {
             int count = degreeDistributionMap.get(degree);
             System.out.println("degree: " + degree + " count: " + count);
         }
+        V_updated = V - degreeDistributionMap.get(0);
+        System.out.println("V_updated: " + V_updated);
     }
 
     public static void main(String [] args) {
-        /*
-        Graph6 g = new Graph6(6);
-        g.addEdge(0, 1);
-        g.addEdge(0, 2);
-        g.addEdge(1, 3);
-        g.addEdge(1, 5);
-        g.addEdge(2, 4);
-        g.addEdge(3, 5);
-        g.addEdge(4, 5);*/
+
         String fileName = "AuthorGraph.csv";
         int vCount = 3218009;
         System.out.println(args.length);
