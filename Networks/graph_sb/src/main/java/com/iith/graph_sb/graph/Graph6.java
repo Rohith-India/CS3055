@@ -81,7 +81,7 @@ public class Graph6 {
                 total += 1.0 * actual / possible;
             }
         }
-        return total / V;
+        return total / (V-129201); // Subtracted no. of vertices with '0' degree
     }
     
     public int degree(int v) {
