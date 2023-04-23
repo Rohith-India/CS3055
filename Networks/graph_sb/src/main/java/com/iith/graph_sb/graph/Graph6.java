@@ -65,6 +65,7 @@ public class Graph6 {
         }
         return totalDistance / (V_updated * (V_updated - 1));
     }
+
     public double clusteringCoefficient() {
         double total = 0.0;
         for (int v = 0; v < V; v++) {
@@ -97,12 +98,10 @@ public class Graph6 {
             int degree = degree(v);
             //System.out.println("v: " + v + " " + degree);
             int count = 0;
-            if(degree != -1) {
-                if(degreeDistributionMap.containsKey(degree)) {
-                    count = degreeDistributionMap.get(degree);
-                }
-                degreeDistributionMap.put(degree, ++count); 
+            if(degreeDistributionMap.containsKey(degree)) {
+                count = degreeDistributionMap.get(degree);
             }
+            degreeDistributionMap.put(degree, ++count); 
         }
         Iterator<Integer> iter = degreeDistributionMap.keySet().iterator();
         while(iter.hasNext()) {
