@@ -1,0 +1,1428 @@
+java -Xmx8g -cp ".;libs/*:build/libs/*" com.iith.graph_sb.graph.Graph6
+0
+AuthorGraph.csv 3218009
+degree: 0 count: 129201
+degree: 1 count: 299750
+degree: 2 count: 404935
+degree: 3 count: 381881
+degree: 4 count: 311965
+degree: 5 count: 246827
+degree: 6 count: 183741
+degree: 7 count: 145550
+degree: 8 count: 116534
+degree: 9 count: 96670
+degree: 10 count: 79463
+degree: 11 count: 67921
+degree: 12 count: 57938
+degree: 13 count: 50488
+degree: 14 count: 44069
+degree: 15 count: 38186
+degree: 16 count: 34424
+degree: 17 count: 30670
+degree: 18 count: 27955
+degree: 19 count: 25103
+degree: 20 count: 22577
+degree: 21 count: 20580
+degree: 22 count: 19084
+degree: 23 count: 17487
+degree: 24 count: 15953
+degree: 25 count: 14819
+degree: 26 count: 13941
+degree: 27 count: 12840
+degree: 28 count: 11868
+degree: 29 count: 11248
+degree: 30 count: 10577
+degree: 31 count: 10055
+degree: 32 count: 9208
+degree: 33 count: 8941
+degree: 34 count: 8116
+degree: 35 count: 7739
+degree: 36 count: 7344
+degree: 37 count: 6873
+degree: 38 count: 6706
+degree: 39 count: 6331
+degree: 40 count: 5962
+degree: 41 count: 5740
+degree: 42 count: 5556
+degree: 43 count: 5308
+degree: 44 count: 5096
+degree: 45 count: 4729
+degree: 46 count: 4562
+degree: 47 count: 4521
+degree: 48 count: 4180
+degree: 49 count: 4058
+degree: 50 count: 3912
+degree: 51 count: 3737
+degree: 52 count: 3583
+degree: 53 count: 3395
+degree: 54 count: 3258
+degree: 55 count: 3294
+degree: 56 count: 3155
+degree: 57 count: 2959
+degree: 58 count: 2895
+degree: 59 count: 2694
+degree: 60 count: 2651
+degree: 61 count: 2376
+degree: 62 count: 2380
+degree: 63 count: 2280
+degree: 64 count: 2321
+degree: 65 count: 2299
+degree: 66 count: 2229
+degree: 67 count: 2078
+degree: 68 count: 2134
+degree: 69 count: 2084
+degree: 70 count: 1953
+degree: 71 count: 1820
+degree: 72 count: 1880
+degree: 73 count: 1895
+degree: 74 count: 1720
+degree: 75 count: 1568
+degree: 76 count: 1653
+degree: 77 count: 1561
+degree: 78 count: 1526
+degree: 79 count: 1474
+degree: 80 count: 1411
+degree: 81 count: 1413
+degree: 82 count: 1305
+degree: 83 count: 1368
+degree: 84 count: 1323
+degree: 85 count: 1220
+degree: 86 count: 1221
+degree: 87 count: 1289
+degree: 88 count: 1178
+degree: 89 count: 1232
+degree: 90 count: 1082
+degree: 91 count: 1127
+degree: 92 count: 1015
+degree: 93 count: 967
+degree: 94 count: 1241
+degree: 95 count: 1000
+degree: 96 count: 925
+degree: 97 count: 947
+degree: 98 count: 952
+degree: 99 count: 866
+degree: 100 count: 995
+degree: 101 count: 933
+degree: 102 count: 813
+degree: 103 count: 887
+degree: 104 count: 809
+degree: 105 count: 796
+degree: 106 count: 788
+degree: 107 count: 773
+degree: 108 count: 698
+degree: 109 count: 715
+degree: 110 count: 704
+degree: 111 count: 700
+degree: 112 count: 697
+degree: 113 count: 706
+degree: 114 count: 621
+degree: 115 count: 664
+degree: 116 count: 659
+degree: 117 count: 567
+degree: 118 count: 767
+degree: 119 count: 536
+degree: 120 count: 686
+degree: 121 count: 593
+degree: 122 count: 606
+degree: 123 count: 550
+degree: 124 count: 530
+degree: 125 count: 543
+degree: 126 count: 502
+degree: 127 count: 575
+degree: 128 count: 504
+degree: 129 count: 604
+degree: 130 count: 482
+degree: 131 count: 495
+degree: 132 count: 470
+degree: 133 count: 426
+degree: 134 count: 437
+degree: 135 count: 459
+degree: 136 count: 389
+degree: 137 count: 396
+degree: 138 count: 423
+degree: 139 count: 412
+degree: 140 count: 388
+degree: 141 count: 392
+degree: 142 count: 470
+degree: 143 count: 492
+degree: 144 count: 375
+degree: 145 count: 340
+degree: 146 count: 371
+degree: 147 count: 354
+degree: 148 count: 326
+degree: 149 count: 347
+degree: 150 count: 356
+degree: 151 count: 313
+degree: 152 count: 306
+degree: 153 count: 280
+degree: 154 count: 325
+degree: 155 count: 304
+degree: 156 count: 296
+degree: 157 count: 369
+degree: 158 count: 301
+degree: 159 count: 294
+degree: 160 count: 259
+degree: 161 count: 286
+degree: 162 count: 303
+degree: 163 count: 279
+degree: 164 count: 301
+degree: 165 count: 259
+degree: 166 count: 254
+degree: 167 count: 234
+degree: 168 count: 231
+degree: 169 count: 224
+degree: 170 count: 242
+degree: 171 count: 255
+degree: 172 count: 222
+degree: 173 count: 238
+degree: 174 count: 228
+degree: 175 count: 316
+degree: 176 count: 222
+degree: 177 count: 212
+degree: 178 count: 219
+degree: 179 count: 239
+degree: 180 count: 213
+degree: 181 count: 279
+degree: 182 count: 228
+degree: 183 count: 205
+degree: 184 count: 198
+degree: 185 count: 214
+degree: 186 count: 200
+degree: 187 count: 175
+degree: 188 count: 204
+degree: 189 count: 180
+degree: 190 count: 169
+degree: 191 count: 197
+degree: 192 count: 195
+degree: 193 count: 199
+degree: 194 count: 162
+degree: 195 count: 153
+degree: 196 count: 178
+degree: 197 count: 179
+degree: 198 count: 172
+degree: 199 count: 174
+degree: 200 count: 158
+degree: 201 count: 158
+degree: 202 count: 157
+degree: 203 count: 151
+degree: 204 count: 155
+degree: 205 count: 141
+degree: 206 count: 147
+degree: 207 count: 122
+degree: 208 count: 156
+degree: 209 count: 148
+degree: 210 count: 159
+degree: 211 count: 148
+degree: 212 count: 130
+degree: 213 count: 124
+degree: 214 count: 98
+degree: 215 count: 126
+degree: 216 count: 129
+degree: 217 count: 127
+degree: 218 count: 131
+degree: 219 count: 129
+degree: 220 count: 109
+degree: 221 count: 114
+degree: 222 count: 112
+degree: 223 count: 112
+degree: 224 count: 111
+degree: 225 count: 89
+degree: 226 count: 116
+degree: 227 count: 109
+degree: 228 count: 107
+degree: 229 count: 99
+degree: 230 count: 114
+degree: 231 count: 105
+degree: 232 count: 124
+degree: 233 count: 100
+degree: 234 count: 92
+degree: 235 count: 90
+degree: 236 count: 101
+degree: 237 count: 101
+degree: 238 count: 99
+degree: 239 count: 96
+degree: 240 count: 110
+degree: 241 count: 100
+degree: 242 count: 90
+degree: 243 count: 82
+degree: 244 count: 77
+degree: 245 count: 91
+degree: 246 count: 78
+degree: 247 count: 76
+degree: 248 count: 88
+degree: 249 count: 97
+degree: 250 count: 73
+degree: 251 count: 75
+degree: 252 count: 76
+degree: 253 count: 78
+degree: 254 count: 86
+degree: 255 count: 63
+degree: 256 count: 82
+degree: 257 count: 59
+degree: 258 count: 155
+degree: 259 count: 80
+degree: 260 count: 67
+degree: 261 count: 82
+degree: 262 count: 64
+degree: 263 count: 82
+degree: 264 count: 74
+degree: 265 count: 69
+degree: 266 count: 68
+degree: 267 count: 63
+degree: 268 count: 77
+degree: 269 count: 72
+degree: 270 count: 67
+degree: 271 count: 55
+degree: 272 count: 71
+degree: 273 count: 64
+degree: 274 count: 76
+degree: 275 count: 63
+degree: 276 count: 75
+degree: 277 count: 63
+degree: 278 count: 68
+degree: 279 count: 59
+degree: 280 count: 50
+degree: 281 count: 62
+degree: 282 count: 58
+degree: 283 count: 50
+degree: 284 count: 242
+degree: 285 count: 64
+degree: 286 count: 60
+degree: 287 count: 56
+degree: 288 count: 66
+degree: 289 count: 56
+degree: 290 count: 55
+degree: 291 count: 67
+degree: 292 count: 50
+degree: 293 count: 55
+degree: 294 count: 54
+degree: 295 count: 47
+degree: 296 count: 55
+degree: 297 count: 62
+degree: 298 count: 46
+degree: 299 count: 55
+degree: 300 count: 51
+degree: 301 count: 52
+degree: 302 count: 44
+degree: 303 count: 52
+degree: 304 count: 44
+degree: 305 count: 47
+degree: 306 count: 50
+degree: 307 count: 56
+degree: 308 count: 47
+degree: 309 count: 40
+degree: 310 count: 43
+degree: 311 count: 42
+degree: 312 count: 55
+degree: 313 count: 44
+degree: 314 count: 56
+degree: 315 count: 38
+degree: 316 count: 47
+degree: 317 count: 41
+degree: 318 count: 44
+degree: 319 count: 26
+degree: 320 count: 44
+degree: 321 count: 49
+degree: 322 count: 30
+degree: 323 count: 40
+degree: 324 count: 35
+degree: 325 count: 37
+degree: 326 count: 30
+degree: 327 count: 30
+degree: 328 count: 47
+degree: 329 count: 39
+degree: 330 count: 29
+degree: 331 count: 37
+degree: 332 count: 33
+degree: 333 count: 40
+degree: 334 count: 41
+degree: 335 count: 24
+degree: 336 count: 59
+degree: 337 count: 35
+degree: 338 count: 26
+degree: 339 count: 34
+degree: 340 count: 31
+degree: 341 count: 34
+degree: 342 count: 45
+degree: 343 count: 31
+degree: 344 count: 33
+degree: 345 count: 26
+degree: 346 count: 59
+degree: 347 count: 36
+degree: 348 count: 29
+degree: 349 count: 36
+degree: 350 count: 18
+degree: 351 count: 22
+degree: 352 count: 30
+degree: 353 count: 24
+degree: 354 count: 29
+degree: 355 count: 25
+degree: 356 count: 28
+degree: 357 count: 23
+degree: 358 count: 34
+degree: 359 count: 36
+degree: 360 count: 31
+degree: 361 count: 29
+degree: 362 count: 36
+degree: 363 count: 25
+degree: 364 count: 24
+degree: 365 count: 30
+degree: 366 count: 18
+degree: 367 count: 25
+degree: 368 count: 32
+degree: 369 count: 28
+degree: 370 count: 38
+degree: 371 count: 27
+degree: 372 count: 26
+degree: 373 count: 39
+degree: 374 count: 32
+degree: 375 count: 19
+degree: 376 count: 29
+degree: 377 count: 24
+degree: 378 count: 17
+degree: 379 count: 20
+degree: 380 count: 20
+degree: 381 count: 22
+degree: 382 count: 25
+degree: 383 count: 15
+degree: 384 count: 18
+degree: 385 count: 19
+degree: 386 count: 27
+degree: 387 count: 21
+degree: 388 count: 12
+degree: 389 count: 24
+degree: 390 count: 18
+degree: 391 count: 20
+degree: 392 count: 25
+degree: 393 count: 28
+degree: 394 count: 19
+degree: 395 count: 17
+degree: 396 count: 21
+degree: 397 count: 19
+degree: 398 count: 17
+degree: 399 count: 29
+degree: 400 count: 24
+degree: 401 count: 19
+degree: 402 count: 18
+degree: 403 count: 9
+degree: 404 count: 15
+degree: 405 count: 19
+degree: 406 count: 21
+degree: 407 count: 18
+degree: 408 count: 18
+degree: 409 count: 16
+degree: 410 count: 17
+degree: 411 count: 9
+degree: 412 count: 18
+degree: 413 count: 20
+degree: 414 count: 14
+degree: 415 count: 14
+degree: 416 count: 11
+degree: 417 count: 25
+degree: 418 count: 15
+degree: 419 count: 26
+degree: 420 count: 13
+degree: 421 count: 18
+degree: 422 count: 17
+degree: 423 count: 11
+degree: 424 count: 17
+degree: 425 count: 15
+degree: 426 count: 20
+degree: 427 count: 14
+degree: 428 count: 12
+degree: 429 count: 16
+degree: 430 count: 12
+degree: 431 count: 24
+degree: 432 count: 13
+degree: 433 count: 15
+degree: 434 count: 8
+degree: 435 count: 15
+degree: 436 count: 14
+degree: 437 count: 18
+degree: 438 count: 11
+degree: 439 count: 12
+degree: 440 count: 16
+degree: 441 count: 10
+degree: 442 count: 9
+degree: 443 count: 12
+degree: 444 count: 12
+degree: 445 count: 303
+degree: 446 count: 21
+degree: 447 count: 22
+degree: 448 count: 17
+degree: 449 count: 22
+degree: 450 count: 20
+degree: 451 count: 12
+degree: 452 count: 22
+degree: 453 count: 7
+degree: 454 count: 12
+degree: 455 count: 17
+degree: 456 count: 26
+degree: 457 count: 17
+degree: 458 count: 11
+degree: 459 count: 14
+degree: 460 count: 15
+degree: 461 count: 8
+degree: 462 count: 19
+degree: 463 count: 18
+degree: 464 count: 12
+degree: 465 count: 8
+degree: 466 count: 14
+degree: 467 count: 8
+degree: 468 count: 17
+degree: 469 count: 15
+degree: 470 count: 13
+degree: 471 count: 4
+degree: 472 count: 10
+degree: 473 count: 14
+degree: 474 count: 6
+degree: 475 count: 9
+degree: 476 count: 15
+degree: 477 count: 8
+degree: 478 count: 15
+degree: 479 count: 7
+degree: 480 count: 14
+degree: 481 count: 13
+degree: 482 count: 11
+degree: 483 count: 11
+degree: 484 count: 6
+degree: 485 count: 9
+degree: 486 count: 5
+degree: 487 count: 9
+degree: 488 count: 11
+degree: 489 count: 11
+degree: 490 count: 10
+degree: 491 count: 8
+degree: 492 count: 14
+degree: 493 count: 9
+degree: 494 count: 10
+degree: 495 count: 9
+degree: 496 count: 12
+degree: 497 count: 14
+degree: 498 count: 8
+degree: 499 count: 14
+degree: 500 count: 9
+degree: 501 count: 11
+degree: 502 count: 9
+degree: 503 count: 7
+degree: 504 count: 10
+degree: 505 count: 7
+degree: 506 count: 8
+degree: 507 count: 7
+degree: 508 count: 7
+degree: 509 count: 11
+degree: 510 count: 11
+degree: 511 count: 11
+degree: 512 count: 5
+degree: 513 count: 4
+degree: 514 count: 6
+degree: 515 count: 7
+degree: 516 count: 14
+degree: 517 count: 7
+degree: 518 count: 9
+degree: 519 count: 8
+degree: 520 count: 5
+degree: 521 count: 8
+degree: 522 count: 4
+degree: 523 count: 6
+degree: 524 count: 6
+degree: 525 count: 4
+degree: 526 count: 11
+degree: 527 count: 7
+degree: 528 count: 7
+degree: 529 count: 10
+degree: 530 count: 10
+degree: 531 count: 8
+degree: 532 count: 8
+degree: 533 count: 5
+degree: 534 count: 6
+degree: 535 count: 9
+degree: 536 count: 4
+degree: 537 count: 9
+degree: 538 count: 7
+degree: 539 count: 4
+degree: 540 count: 4
+degree: 541 count: 9
+degree: 542 count: 9
+degree: 543 count: 4
+degree: 544 count: 7
+degree: 545 count: 4
+degree: 546 count: 11
+degree: 547 count: 6
+degree: 548 count: 3
+degree: 549 count: 9
+degree: 550 count: 4
+degree: 551 count: 4
+degree: 552 count: 7
+degree: 553 count: 6
+degree: 554 count: 4
+degree: 555 count: 8
+degree: 556 count: 5
+degree: 557 count: 5
+degree: 558 count: 5
+degree: 559 count: 6
+degree: 560 count: 2
+degree: 561 count: 6
+degree: 562 count: 5
+degree: 563 count: 4
+degree: 564 count: 8
+degree: 565 count: 4
+degree: 566 count: 5
+degree: 567 count: 10
+degree: 568 count: 7
+degree: 569 count: 5
+degree: 570 count: 3
+degree: 571 count: 6
+degree: 572 count: 6
+degree: 573 count: 7
+degree: 574 count: 4
+degree: 575 count: 8
+degree: 576 count: 7
+degree: 577 count: 4
+degree: 578 count: 4
+degree: 579 count: 6
+degree: 580 count: 3
+degree: 581 count: 6
+degree: 582 count: 6
+degree: 583 count: 3
+degree: 584 count: 6
+degree: 585 count: 6
+degree: 586 count: 6
+degree: 587 count: 4
+degree: 588 count: 7
+degree: 589 count: 5
+degree: 590 count: 9
+degree: 591 count: 6
+degree: 592 count: 5
+degree: 593 count: 6
+degree: 594 count: 3
+degree: 595 count: 5
+degree: 596 count: 7
+degree: 597 count: 3
+degree: 598 count: 9
+degree: 599 count: 5
+degree: 600 count: 1
+degree: 601 count: 1
+degree: 602 count: 5
+degree: 603 count: 3
+degree: 604 count: 4
+degree: 605 count: 3
+degree: 606 count: 3
+degree: 607 count: 2
+degree: 608 count: 5
+degree: 609 count: 4
+degree: 610 count: 4
+degree: 611 count: 6
+degree: 612 count: 5
+degree: 613 count: 1
+degree: 614 count: 3
+degree: 615 count: 4
+degree: 616 count: 4
+degree: 617 count: 2
+degree: 618 count: 5
+degree: 619 count: 3
+degree: 620 count: 3
+degree: 621 count: 1
+degree: 622 count: 3
+degree: 623 count: 7
+degree: 624 count: 4
+degree: 625 count: 2
+degree: 626 count: 1
+degree: 627 count: 5
+degree: 628 count: 6
+degree: 629 count: 6
+degree: 630 count: 3
+degree: 631 count: 4
+degree: 632 count: 6
+degree: 633 count: 5
+degree: 634 count: 3
+degree: 635 count: 5
+degree: 636 count: 6
+degree: 637 count: 5
+degree: 638 count: 3
+degree: 639 count: 2
+degree: 640 count: 4
+degree: 641 count: 4
+degree: 642 count: 5
+degree: 643 count: 3
+degree: 644 count: 2
+degree: 645 count: 1
+degree: 646 count: 1
+degree: 647 count: 4
+degree: 648 count: 2
+degree: 649 count: 1
+degree: 650 count: 3
+degree: 651 count: 5
+degree: 652 count: 1
+degree: 653 count: 3
+degree: 654 count: 2
+degree: 655 count: 7
+degree: 656 count: 5
+degree: 657 count: 3
+degree: 658 count: 3
+degree: 659 count: 2
+degree: 660 count: 7
+degree: 661 count: 3
+degree: 662 count: 4
+degree: 663 count: 3
+degree: 664 count: 1
+degree: 665 count: 3
+degree: 666 count: 2
+degree: 667 count: 1
+degree: 668 count: 2
+degree: 669 count: 3
+degree: 670 count: 3
+degree: 671 count: 4
+degree: 672 count: 4
+degree: 673 count: 5
+degree: 674 count: 4
+degree: 675 count: 2
+degree: 676 count: 3
+degree: 678 count: 3
+degree: 679 count: 2
+degree: 680 count: 3
+degree: 681 count: 1
+degree: 682 count: 1
+degree: 683 count: 1
+degree: 684 count: 1
+degree: 685 count: 1
+degree: 688 count: 5
+degree: 689 count: 4
+degree: 690 count: 3
+degree: 691 count: 4
+degree: 692 count: 4
+degree: 693 count: 3
+degree: 694 count: 2
+degree: 695 count: 6
+degree: 696 count: 3
+degree: 697 count: 2
+degree: 698 count: 2
+degree: 699 count: 1
+degree: 700 count: 1
+degree: 701 count: 1
+degree: 702 count: 5
+degree: 703 count: 2
+degree: 704 count: 5
+degree: 705 count: 4
+degree: 706 count: 2
+degree: 707 count: 5
+degree: 708 count: 2
+degree: 709 count: 3
+degree: 710 count: 2
+degree: 711 count: 2
+degree: 712 count: 5
+degree: 713 count: 1
+degree: 714 count: 2
+degree: 715 count: 2
+degree: 716 count: 4
+degree: 717 count: 3
+degree: 718 count: 5
+degree: 719 count: 1
+degree: 720 count: 2
+degree: 721 count: 1
+degree: 722 count: 3
+degree: 723 count: 3
+degree: 724 count: 5
+degree: 725 count: 1
+degree: 726 count: 2
+degree: 727 count: 7
+degree: 728 count: 1
+degree: 729 count: 1
+degree: 730 count: 6
+degree: 731 count: 3
+degree: 732 count: 5
+degree: 733 count: 1
+degree: 734 count: 1
+degree: 735 count: 3
+degree: 736 count: 2
+degree: 737 count: 3
+degree: 738 count: 4
+degree: 739 count: 3
+degree: 741 count: 2
+degree: 742 count: 5
+degree: 743 count: 4
+degree: 744 count: 1
+degree: 745 count: 1
+degree: 746 count: 3
+degree: 747 count: 1
+degree: 748 count: 2
+degree: 749 count: 6
+degree: 751 count: 1
+degree: 752 count: 1
+degree: 753 count: 1
+degree: 754 count: 1
+degree: 755 count: 3
+degree: 756 count: 1
+degree: 757 count: 7
+degree: 758 count: 1
+degree: 759 count: 3
+degree: 760 count: 1
+degree: 761 count: 1
+degree: 762 count: 2
+degree: 764 count: 1
+degree: 765 count: 2
+degree: 766 count: 5
+degree: 767 count: 1
+degree: 768 count: 2
+degree: 769 count: 4
+degree: 770 count: 2
+degree: 771 count: 2
+degree: 773 count: 1
+degree: 774 count: 2
+degree: 775 count: 7
+degree: 776 count: 3
+degree: 777 count: 1
+degree: 778 count: 4
+degree: 779 count: 1
+degree: 781 count: 1
+degree: 782 count: 2
+degree: 783 count: 1
+degree: 784 count: 2
+degree: 785 count: 1
+degree: 786 count: 6
+degree: 787 count: 1
+degree: 789 count: 3
+degree: 790 count: 2
+degree: 791 count: 2
+degree: 793 count: 3
+degree: 794 count: 3
+degree: 795 count: 2
+degree: 796 count: 1
+degree: 797 count: 3
+degree: 798 count: 1
+degree: 799 count: 5
+degree: 800 count: 1
+degree: 801 count: 2
+degree: 802 count: 1
+degree: 803 count: 5
+degree: 806 count: 3
+degree: 807 count: 3
+degree: 808 count: 3
+degree: 809 count: 2
+degree: 810 count: 1
+degree: 811 count: 1
+degree: 812 count: 3
+degree: 813 count: 2
+degree: 814 count: 2
+degree: 815 count: 2
+degree: 816 count: 3
+degree: 817 count: 1
+degree: 819 count: 2
+degree: 820 count: 3
+degree: 821 count: 1
+degree: 822 count: 1
+degree: 823 count: 1
+degree: 824 count: 2
+degree: 825 count: 1
+degree: 829 count: 2
+degree: 832 count: 3
+degree: 834 count: 3
+degree: 835 count: 1
+degree: 836 count: 2
+degree: 837 count: 6
+degree: 838 count: 1
+degree: 839 count: 3
+degree: 840 count: 3
+degree: 842 count: 1
+degree: 844 count: 1
+degree: 846 count: 4
+degree: 848 count: 1
+degree: 849 count: 2
+degree: 850 count: 1
+degree: 851 count: 2
+degree: 853 count: 1
+degree: 854 count: 1
+degree: 855 count: 2
+degree: 856 count: 1
+degree: 858 count: 2
+degree: 859 count: 1
+degree: 861 count: 3
+degree: 862 count: 1
+degree: 863 count: 1
+degree: 864 count: 1
+degree: 865 count: 4
+degree: 866 count: 2
+degree: 867 count: 2
+degree: 871 count: 1
+degree: 872 count: 1
+degree: 873 count: 5
+degree: 874 count: 2
+degree: 875 count: 2
+degree: 877 count: 2
+degree: 878 count: 1
+degree: 879 count: 1
+degree: 880 count: 1
+degree: 881 count: 1
+degree: 882 count: 1
+degree: 883 count: 2
+degree: 884 count: 2
+degree: 886 count: 1
+degree: 887 count: 1
+degree: 888 count: 2
+degree: 889 count: 2
+degree: 892 count: 4
+degree: 893 count: 1
+degree: 895 count: 2
+degree: 897 count: 3
+degree: 898 count: 1
+degree: 900 count: 1
+degree: 902 count: 1
+degree: 903 count: 2
+degree: 904 count: 1
+degree: 906 count: 1
+degree: 908 count: 1
+degree: 909 count: 2
+degree: 910 count: 1
+degree: 912 count: 1
+degree: 913 count: 2
+degree: 915 count: 2
+degree: 917 count: 2
+degree: 919 count: 1
+degree: 923 count: 1
+degree: 924 count: 1
+degree: 925 count: 1
+degree: 926 count: 1
+degree: 927 count: 1
+degree: 928 count: 1
+degree: 929 count: 2
+degree: 930 count: 2
+degree: 932 count: 1
+degree: 933 count: 1
+degree: 936 count: 2
+degree: 937 count: 1
+degree: 938 count: 2
+degree: 940 count: 2
+degree: 941 count: 3
+degree: 944 count: 1
+degree: 947 count: 2
+degree: 948 count: 1
+degree: 949 count: 1
+degree: 951 count: 3
+degree: 953 count: 2
+degree: 957 count: 1
+degree: 958 count: 1
+degree: 960 count: 1
+degree: 961 count: 1
+degree: 962 count: 1
+degree: 963 count: 2
+degree: 964 count: 1
+degree: 967 count: 1
+degree: 972 count: 1
+degree: 974 count: 2
+degree: 975 count: 2
+degree: 976 count: 1
+degree: 977 count: 1
+degree: 978 count: 1
+degree: 979 count: 1
+degree: 980 count: 2
+degree: 981 count: 1
+degree: 982 count: 1
+degree: 984 count: 2
+degree: 985 count: 1
+degree: 986 count: 1
+degree: 992 count: 1
+degree: 993 count: 1
+degree: 994 count: 1
+degree: 995 count: 1
+degree: 996 count: 3
+degree: 998 count: 1
+degree: 1000 count: 1
+degree: 1002 count: 1
+degree: 1004 count: 2
+degree: 1005 count: 1
+degree: 1007 count: 1
+degree: 1016 count: 1
+degree: 1017 count: 2
+degree: 1019 count: 2
+degree: 1021 count: 1
+degree: 1023 count: 1
+degree: 1024 count: 1
+degree: 1027 count: 1
+degree: 1028 count: 2
+degree: 1029 count: 1
+degree: 1030 count: 1
+degree: 1031 count: 1
+degree: 1032 count: 1
+degree: 1034 count: 1
+degree: 1035 count: 1
+degree: 1038 count: 1
+degree: 1039 count: 1
+degree: 1042 count: 1
+degree: 1043 count: 1
+degree: 1045 count: 2
+degree: 1053 count: 2
+degree: 1054 count: 2
+degree: 1055 count: 2
+degree: 1058 count: 1
+degree: 1062 count: 5
+degree: 1064 count: 1
+degree: 1070 count: 1
+degree: 1073 count: 1
+degree: 1074 count: 1
+degree: 1075 count: 1
+degree: 1076 count: 1
+degree: 1077 count: 1
+degree: 1078 count: 2
+degree: 1079 count: 1
+degree: 1082 count: 1
+degree: 1086 count: 1
+degree: 1088 count: 1
+degree: 1089 count: 3
+degree: 1092 count: 2
+degree: 1094 count: 1
+degree: 1097 count: 1
+degree: 1098 count: 1
+degree: 1099 count: 2
+degree: 1101 count: 1
+degree: 1102 count: 1
+degree: 1103 count: 1
+degree: 1105 count: 3
+degree: 1106 count: 3
+degree: 1108 count: 1
+degree: 1110 count: 1
+degree: 1111 count: 3
+degree: 1112 count: 1
+degree: 1113 count: 1
+degree: 1117 count: 2
+degree: 1122 count: 1
+degree: 1124 count: 1
+degree: 1125 count: 1
+degree: 1126 count: 1
+degree: 1127 count: 1
+degree: 1128 count: 1
+degree: 1129 count: 1
+degree: 1130 count: 1
+degree: 1132 count: 1
+degree: 1133 count: 1
+degree: 1136 count: 2
+degree: 1137 count: 1
+degree: 1138 count: 1
+degree: 1139 count: 1
+degree: 1140 count: 1
+degree: 1146 count: 1
+degree: 1150 count: 2
+degree: 1155 count: 1
+degree: 1156 count: 2
+degree: 1161 count: 1
+degree: 1163 count: 2
+degree: 1168 count: 1
+degree: 1170 count: 1
+degree: 1176 count: 1
+degree: 1178 count: 4
+degree: 1180 count: 1
+degree: 1182 count: 1
+degree: 1185 count: 2
+degree: 1189 count: 1
+degree: 1190 count: 1
+degree: 1194 count: 1
+degree: 1199 count: 1
+degree: 1200 count: 3
+degree: 1201 count: 2
+degree: 1208 count: 2
+degree: 1209 count: 1
+degree: 1212 count: 1
+degree: 1217 count: 1
+degree: 1218 count: 1
+degree: 1219 count: 1
+degree: 1224 count: 1
+degree: 1226 count: 1
+degree: 1231 count: 1
+degree: 1235 count: 1
+degree: 1237 count: 1
+degree: 1241 count: 1
+degree: 1249 count: 1
+degree: 1250 count: 1
+degree: 1252 count: 1
+degree: 1254 count: 1
+degree: 1263 count: 1
+degree: 1265 count: 1
+degree: 1266 count: 1
+degree: 1267 count: 1
+degree: 1268 count: 1
+degree: 1274 count: 1
+degree: 1279 count: 1
+degree: 1286 count: 1
+degree: 1287 count: 1
+degree: 1289 count: 1
+degree: 1291 count: 2
+degree: 1295 count: 1
+degree: 1297 count: 1
+degree: 1300 count: 1
+degree: 1301 count: 1
+degree: 1303 count: 1
+degree: 1304 count: 1
+degree: 1306 count: 1
+degree: 1321 count: 1
+degree: 1322 count: 1
+degree: 1323 count: 2
+degree: 1326 count: 1
+degree: 1327 count: 2
+degree: 1330 count: 2
+degree: 1334 count: 1
+degree: 1335 count: 2
+degree: 1340 count: 2
+degree: 1346 count: 2
+degree: 1348 count: 3
+degree: 1352 count: 1
+degree: 1354 count: 1
+degree: 1359 count: 1
+degree: 1360 count: 1
+degree: 1361 count: 1
+degree: 1362 count: 1
+degree: 1372 count: 1
+degree: 1375 count: 4
+degree: 1376 count: 1
+degree: 1379 count: 1
+degree: 1387 count: 1
+degree: 1388 count: 3
+degree: 1389 count: 1
+degree: 1394 count: 2
+degree: 1402 count: 1
+degree: 1403 count: 2
+degree: 1404 count: 2
+degree: 1410 count: 1
+degree: 1434 count: 1
+degree: 1453 count: 1
+degree: 1454 count: 1
+degree: 1461 count: 1
+degree: 1463 count: 1
+degree: 1475 count: 1
+degree: 1476 count: 1
+degree: 1478 count: 2
+degree: 1479 count: 1
+degree: 1482 count: 1
+degree: 1483 count: 2
+degree: 1486 count: 1
+degree: 1487 count: 1
+degree: 1495 count: 1
+degree: 1501 count: 1
+degree: 1502 count: 1
+degree: 1507 count: 1
+degree: 1510 count: 2
+degree: 1511 count: 1
+degree: 1512 count: 1
+degree: 1522 count: 1
+degree: 1527 count: 1
+degree: 1528 count: 1
+degree: 1541 count: 1
+degree: 1542 count: 1
+degree: 1543 count: 1
+degree: 1544 count: 1
+degree: 1551 count: 1
+degree: 1552 count: 1
+degree: 1555 count: 1
+degree: 1557 count: 1
+degree: 1562 count: 1
+degree: 1564 count: 1
+degree: 1571 count: 2
+degree: 1577 count: 1
+degree: 1581 count: 1
+degree: 1584 count: 1
+degree: 1588 count: 2
+degree: 1594 count: 1
+degree: 1595 count: 1
+degree: 1597 count: 1
+degree: 1599 count: 1
+degree: 1602 count: 1
+degree: 1603 count: 1
+degree: 1607 count: 1
+degree: 1612 count: 1
+degree: 1617 count: 1
+degree: 1627 count: 1
+degree: 1631 count: 1
+degree: 1634 count: 1
+degree: 1643 count: 1
+degree: 1644 count: 1
+degree: 1648 count: 1
+degree: 1653 count: 1
+degree: 1667 count: 1
+degree: 1671 count: 1
+degree: 1676 count: 1
+degree: 1678 count: 1
+degree: 1681 count: 1
+degree: 1683 count: 1
+degree: 1684 count: 1
+degree: 1685 count: 1
+degree: 1711 count: 1
+degree: 1716 count: 1
+degree: 1723 count: 1
+degree: 1724 count: 1
+degree: 1738 count: 1
+degree: 1778 count: 1
+degree: 1800 count: 1
+degree: 1806 count: 1
+degree: 1809 count: 1
+degree: 1810 count: 1
+degree: 1811 count: 1
+degree: 1815 count: 1
+degree: 1816 count: 1
+degree: 1825 count: 1
+degree: 1827 count: 1
+degree: 1833 count: 1
+degree: 1836 count: 2
+degree: 1845 count: 1
+degree: 1847 count: 1
+degree: 1856 count: 1
+degree: 1867 count: 1
+degree: 1870 count: 1
+degree: 1871 count: 1
+degree: 1874 count: 1
+degree: 1887 count: 1
+degree: 1900 count: 1
+degree: 1903 count: 1
+degree: 1905 count: 1
+degree: 1907 count: 1
+degree: 1909 count: 1
+degree: 1912 count: 1
+degree: 1913 count: 1
+degree: 1918 count: 1
+degree: 1919 count: 1
+degree: 1944 count: 1
+degree: 1947 count: 2
+degree: 1951 count: 1
+degree: 1953 count: 1
+degree: 1962 count: 1
+degree: 1970 count: 1
+degree: 1976 count: 1
+degree: 1983 count: 1
+degree: 1985 count: 1
+degree: 1997 count: 1
+degree: 2002 count: 1
+degree: 2012 count: 1
+degree: 2015 count: 1
+degree: 2019 count: 1
+degree: 2025 count: 1
+degree: 2047 count: 1
+degree: 2060 count: 2
+degree: 2080 count: 1
+degree: 2083 count: 1
+degree: 2084 count: 1
+degree: 2106 count: 1
+degree: 2134 count: 1
+degree: 2140 count: 1
+degree: 2168 count: 1
+degree: 2171 count: 1
+degree: 2190 count: 1
+degree: 2200 count: 1
+degree: 2213 count: 1
+degree: 2245 count: 1
+degree: 2246 count: 1
+degree: 2281 count: 1
+degree: 2304 count: 1
+degree: 2316 count: 1
+degree: 2324 count: 1
+degree: 2335 count: 1
+degree: 2336 count: 1
+degree: 2339 count: 2
+degree: 2366 count: 1
+degree: 2375 count: 1
+degree: 2381 count: 1
+degree: 2399 count: 1
+degree: 2413 count: 1
+degree: 2473 count: 1
+degree: 2480 count: 1
+degree: 2481 count: 1
+degree: 2482 count: 1
+degree: 2501 count: 1
+degree: 2534 count: 2
+degree: 2535 count: 1
+degree: 2538 count: 1
+degree: 2569 count: 1
+degree: 2577 count: 1
+degree: 2585 count: 1
+degree: 2597 count: 1
+degree: 2608 count: 1
+degree: 2619 count: 1
+degree: 2621 count: 1
+degree: 2636 count: 2
+degree: 2649 count: 1
+degree: 2724 count: 1
+degree: 2727 count: 1
+degree: 2764 count: 1
+degree: 2780 count: 1
+degree: 2789 count: 1
+degree: 2790 count: 1
+degree: 2795 count: 1
+degree: 2807 count: 1
+degree: 2829 count: 1
+degree: 2851 count: 1
+degree: 2856 count: 1
+degree: 2873 count: 1
+degree: 2887 count: 1
+degree: 2898 count: 1
+degree: 2929 count: 1
+degree: 2954 count: 1
+degree: 2964 count: 2
+degree: 2986 count: 1
+degree: 3019 count: 1
+degree: 3062 count: 1
+degree: 3108 count: 1
+degree: 3122 count: 1
+degree: 3163 count: 1
+degree: 3164 count: 1
+degree: 3179 count: 1
+degree: 3210 count: 1
+degree: 3370 count: 1
+degree: 3381 count: 1
+degree: 3427 count: 1
+degree: 3447 count: 1
+degree: 3478 count: 1
+degree: 3541 count: 1
+degree: 3666 count: 1
+degree: 3695 count: 1
+degree: 3746 count: 1
+degree: 3747 count: 1
+degree: 3778 count: 1
+degree: 3913 count: 1
+degree: 3969 count: 1
+degree: 4008 count: 1
+degree: 4173 count: 1
+degree: 4340 count: 1
+degree: 4432 count: 1
+degree: 4718 count: 1
+degree: 4900 count: 1
+degree: 5229 count: 1
+degree: 5716 count: 1
+V_updated: 3088808
+in seconds: 0
+clusteringCoefficient: 0.6517767071816342 in seconds: 521
+i:1000 1.3464843607E10 d: 15 in seconds: 1617
+i:2000 2.6425970424E10 d: 16 in seconds: 1553
+521521521521521521521521129201i:3000 3.9600528025E10 d: 16 in seconds: 1731
+i:4000 5.2557987276E10 d: 16 in seconds: 1588
+i:5000 6.5513704491E10 d: 16 in seconds: 1674
+i:6000 7.8691537068E10 d: 16 in seconds: 1739
+i:7000 9.1420761272E10 d: 16 in seconds: 1690
+i:8000 1.04699345686E11 d: 16 in seconds: 1583
+i:9000 1.18204186648E11 d: 17 in seconds: 1581
+i:10000 1.31921640994E11 d: 17 in seconds: 1601
+i:11000 1.45197470177E11 d: 17 in seconds: 1553
+i:12000 1.58762614417E11 d: 17 in seconds: 1611
+i:13000 1.71742253728E11 d: 17 in seconds: 1548
+i:14000 1.84839274661E11 d: 17 in seconds: 1596
+i:15000 1.97965200149E11 d: 17 in seconds: 1629
+i:16000 2.11213112183E11 d: 17 in seconds: 1628
+i:17000 2.24253338238E11 d: 17 in seconds: 1596
+i:18000 2.37536186776E11 d: 17 in seconds: 1585
+i:19000 2.50549417953E11 d: 17 in seconds: 1559
+i:20000 2.64172759931E11 d: 17 in seconds: 1617
+i:21000 2.77974745602E11 d: 17 in seconds: 1611
+i:22000 2.91476029694E11 d: 19 in seconds: 1622
+i:23000 3.0507793477E11 d: 19 in seconds: 1656
+i:24000 3.18613313269E11 d: 19 in seconds: 1624
+i:25000 3.31843338071E11 d: 19 in seconds: 1624
+i:26000 3.44840872186E11 d: 19 in seconds: 1603
+i:27000 3.57727895884E11 d: 19 in seconds: 1608
+i:28000 3.70879341052E11 d: 19 in seconds: 1614
+i:29000 3.83856242336E11 d: 19 in seconds: 1627
+i:30000 3.96909847378E11 d: 19 in seconds: 1613
+i:31000 4.10426454181E11 d: 19 in seconds: 1658
+i:32000 4.23835503355E11 d: 19 in seconds: 1637
+i:33000 4.36878480102E11 d: 19 in seconds: 1573
+i:34000 4.50635890859E11 d: 19 in seconds: 1656
+i:35000 4.64029296166E11 d: 19 in seconds: 1608
+i:36000 4.77377623246E11 d: 19 in seconds: 1649
+i:37000 4.90450438918E11 d: 19 in seconds: 1621
+i:38000 5.03605649415E11 d: 19 in seconds: 1634
+i:39000 5.16825581089E11 d: 19 in seconds: 1611
+i:40000 5.30123996498E11 d: 19 in seconds: 1601
+i:41000 5.43147541219E11 d: 19 in seconds: 1582
+i:42000 5.56288505947E11 d: 19 in seconds: 1586
+i:43000 5.69867475401E11 d: 19 in seconds: 1637
+i:44000 5.83692451893E11 d: 19 in seconds: 1623
+i:45000 5.97523511072E11 d: 19 in seconds: 1646
+i:46000 6.10928849404E11 d: 19 in seconds: 1577
+i:47000 6.23931421992E11 d: 19 in seconds: 1580
+i:48000 6.37014360179E11 d: 19 in seconds: 1592
+i:49000 6.50222355401E11 d: 19 in seconds: 1650
+i:50000 6.63242020206E11 d: 19 in seconds: 1581
+i:51000 6.76198435528E11 d: 19 in seconds: 1577
+i:52000 6.89584159581E11 d: 19 in seconds: 1622
+i:53000 7.03069969073E11 d: 19 in seconds: 1658
+i:54000 7.16448616025E11 d: 19 in seconds: 1606
+i:55000 7.29796795725E11 d: 19 in seconds: 1651
+i:56000 7.43409422013E11 d: 19 in seconds: 1671
+i:57000 7.56810881752E11 d: 19 in seconds: 1587
+i:58000 7.69883635771E11 d: 19 in seconds: 1607
+i:59000 7.82844399457E11 d: 19 in seconds: 1591
+i:60000 7.96374332332E11 d: 19 in seconds: 1625
+i:61000 8.09479271498E11 d: 19 in seconds: 1589
+i:62000 8.22784968884E11 d: 19 in seconds: 1587
+i:63000 8.35888942808E11 d: 19 in seconds: 1591
+i:64000 8.49284643835E11 d: 19 in seconds: 1608
+i:65000 8.62606271244E11 d: 19 in seconds: 1617
+i:66000 8.76229067869E11 d: 19 in seconds: 1614
+i:67000 8.89912585235E11 d: 19 in seconds: 1653
+i:68000 9.03074849635E11 d: 19 in seconds: 1584
+i:69000 9.16208940017E11 d: 19 in seconds: 1614
+i:70000 9.29249579954E11 d: 19 in seconds: 1632
+i:71000 9.42301551289E11 d: 19 in seconds: 1605
+i:72000 9.55514139322E11 d: 19 in seconds: 1592
+i:73000 9.6849296864E11 d: 19 in seconds: 1587
+i:74000 9.8149279677E11 d: 19 in seconds: 1580
+i:75000 9.94850098277E11 d: 19 in seconds: 1662
+i:76000 1.008225318452E12 d: 19 in seconds: 1626
+i:77000 1.021686463493E12 d: 19 in seconds: 1642
+i:78000 1.035108771E12 d: 19 in seconds: 1630
+i:79000 1.048534917135E12 d: 19 in seconds: 1618
+i:80000 1.061940233723E12 d: 19 in seconds: 1629
+i:81000 1.0750432688E12 d: 19 in seconds: 1617
+i:82000 1.088192360862E12 d: 19 in seconds: 1643
+i:83000 1.101403761721E12 d: 19 in seconds: 1635
+i:84000 1.114550358373E12 d: 19 in seconds: 1624
+i:85000 1.127686019863E12 d: 19 in seconds: 1620
+i:86000 1.141139478046E12 d: 19 in seconds: 1645
+i:87000 1.154475958924E12 d: 19 in seconds: 1612
+i:88000 1.167756044654E12 d: 19 in seconds: 1586
+i:89000 1.181248430802E12 d: 19 in seconds: 1592
+i:90000 1.194554549799E12 d: 19 in seconds: 2980
+i:91000 1.208092282657E12 d: 19 in seconds: 5032
+i:92000 1.221158334803E12 d: 19 in seconds: 1582
+i:93000 1.233935223411E12 d: 19 in seconds: 1544
+i:94000 1.247139548924E12 d: 19 in seconds: 1582
+i:95000 1.260429554342E12 d: 19 in seconds: 1584
+i:96000 1.273845374511E12 d: 19 in seconds: 1604
+i:97000 1.287182812945E12 d: 19 in seconds: 1597
+i:98000 1.30068568709E12 d: 19 in seconds: 1602
+i:99000 1.314429238643E12 d: 19 in seconds: 1632
+i:100000 1.328037202806E12 d: 19 in seconds: 1617
+i:101000 1.341735934165E12 d: 19 in seconds: 1619
+i:102000 1.354806249823E12 d: 19 in seconds: 1597
+i:103000 1.367952974093E12 d: 19 in seconds: 1590
+i:104000 1.381067419492E12 d: 19 in seconds: 1631
+i:105000 1.394098473152E12 d: 19 in seconds: 1588
+i:106000 1.40691515868E12 d: 19 in seconds: 1596
+i:107000 1.42010385315E12 d: 19 in seconds: 1599
+i:108000 1.43337188205E12 d: 19 in seconds: 1590
+i:109000 1.447150576033E12 d: 19 in seconds: 1618
+i:110000 1.460595207625E12 d: 19 in seconds: 1608
+i:111000 1.474145124833E12 d: 19 in seconds: 1628
+i:112000 1.487495881018E12 d: 19 in seconds: 1604
+i:113000 1.500613106175E12 d: 19 in seconds: 1569
+i:114000 1.513608832637E12 d: 19 in seconds: 1612
+i:115000 1.526642479696E12 d: 19 in seconds: 1633
+i:116000 1.539786629474E12 d: 19 in seconds: 1609
+i:117000 1.553203423834E12 d: 19 in seconds: 1668
+i:118000 1.566721387371E12 d: 19 in seconds: 1624
+i:119000 1.579829723909E12 d: 19 in seconds: 1581
+i:120000 1.593325256192E12 d: 19 in seconds: 1644
+i:121000 1.606835852518E12 d: 19 in seconds: 1652
+i:122000 1.620412048701E12 d: 19 in seconds: 1612
+i:123000 1.634360492892E12 d: 19 in seconds: 1631
+i:124000 1.647603146566E12 d: 19 in seconds: 1595
+i:125000 1.66067077208E12 d: 19 in seconds: 1646
+i:126000 1.673839628763E12 d: 19 in seconds: 1635
+i:127000 1.686934988585E12 d: 19 in seconds: 1612
+i:128000 1.699853483724E12 d: 19 in seconds: 1594
+i:129000 1.712963035288E12 d: 19 in seconds: 1617
+i:130000 1.726170152827E12 d: 19 in seconds: 1615
+i:131000 1.739658599628E12 d: 19 in seconds: 1644
+i:132000 1.753394102176E12 d: 19 in seconds: 1663
+i:133000 1.766951538702E12 d: 19 in seconds: 1612
+i:134000 1.780351227375E12 d: 19 in seconds: 1548
+i:135000 1.793790879589E12 d: 19 in seconds: 1643
+i:136000 1.808104597052E12 d: 19 in seconds: 1654
+i:137000 1.822116412255E12 d: 19 in seconds: 1642
+i:138000 1.835821686377E12 d: 19 in seconds: 1635
+i:139000 1.849194256964E12 d: 19 in seconds: 1596
+i:140000 1.862263793795E12 d: 19 in seconds: 1577
